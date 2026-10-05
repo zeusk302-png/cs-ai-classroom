@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeusk302-png.github.io/cs-ai-classroom/sitemap.xml
