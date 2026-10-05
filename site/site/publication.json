@@ -1,0 +1,2110 @@
+{
+  "builder": "build_pages_release.py/v1",
+  "course_count": 63,
+  "ui_languages": [
+    "ko",
+    "en",
+    "zh-Hans",
+    "ja"
+  ],
+  "korean": {
+    "authored_units": 189,
+    "authored_subtopics": 638,
+    "reviewed_units": 189,
+    "reviewed_subtopics": 638,
+    "rendered_authored_units": 189
+  },
+  "courses": [
+    {
+      "course_id": "calculus-1",
+      "folder": "01_calculus-1",
+      "manuscript_sha256_digest": "c5e5d83f6851c315506169e1ab98e6bed223de387aa2ff0a61483b9083d2347c",
+      "authored_units": 7,
+      "authored_subtopics": 28,
+      "reviewed_units": 7,
+      "reviewed_subtopics": 28,
+      "rendered_authored_units": 7,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "ae2ad29436cdc7c9e26308b4151301387e8a90454654d3d7ec552dfa1b8ae0c0",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "56ab25d5e6306a680256dd2de22f9eed2b6698a40bbd8c403e25aabae468729a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "bc590305c984a3005a8630d05c86ae587e42ae1ee33c7a66d4d61d5f73482e61",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "94a79c9d18331dd51a22126665961f3771cdc9ef9f34b292881e328fa5dbb2c9",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "337c7bf0f4e2f923bcc0b5365e834f4f57429ededbd5117011680d5b0886e5c5",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 6,
+          "source_sha256": "752647a19ff0c68160bbe58d07b443fdb42a7cb9fca317767d3470415d8ac2cb",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 7,
+          "source_sha256": "63fe382a6edbc741e2cdca54c85714131d55c2e93078621347fea5a257732ab6",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "python",
+      "folder": "02_python",
+      "manuscript_sha256_digest": "3f2d2ce81393bffabbd167ea8e963e96d2298b26510a6d267fc1d8dc1b1a75e6",
+      "authored_units": 7,
+      "authored_subtopics": 28,
+      "reviewed_units": 7,
+      "reviewed_subtopics": 28,
+      "rendered_authored_units": 7,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "9493fa535bc6949c3c3065197a76b2ddbf3fb1a897130dfa8545c73259af8389",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "7c2c8c07b1101cbf1e18bf785db21ba9f42c20a18e1b687b4600fc4fc407cb9b",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "fc1c60f1cc5bdcd55d912a6e35674073efe303277173adf450b3ce26f600cee2",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "114c2f9c4ca2d82ccd4ccd63f08b4d81b5ef7fe3937255e616e1fa0f56e9ee8b",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "354e21e07b952ba732dc62c865603b467820bee1c452ea2d6e02b0a247b22048",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 6,
+          "source_sha256": "4c9f22b7ae1cc3f252ea8a83bf762cb0ba29e1f7d43764ef1be6685cce5c997e",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 7,
+          "source_sha256": "efcb4debc7caf5cdb40ce77734552aea74d8103b350fc4481bae4da70b751279",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "cs-intro",
+      "folder": "03_cs-intro",
+      "manuscript_sha256_digest": "cf19c191c6a1d1fac9c224092f3986dc523e69084e21d0303732ac51ac41f62d",
+      "authored_units": 9,
+      "authored_subtopics": 27,
+      "reviewed_units": 9,
+      "reviewed_subtopics": 27,
+      "rendered_authored_units": 9,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "49abc4704ee5d96e2213d2059c4e4a97315c6ef288718967cc9f48798158b8e9",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "83e841b80269cc9397860f53f6faac28067129d391e9d05e1a056239a728f90a",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "6c209a830950be9f2dd90cdac121ae00418ec53495099de3c6f19bf5a4c3a62b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "12944d325993bb7a62d1fee108196ad9436cc6e4874b7a3153ee00f869d7dff1",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "0a2539d8be44ae88c742a1fffd95909083d0d01456bab0099e08c18745a8b34d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 6,
+          "source_sha256": "5b0f06703c9522df1c7a5a79f7a59e6cb031fb91f9e38f7b446fba81c0718d0a",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 7,
+          "source_sha256": "219e98ad5855fc0e63f9ceb8e0f0eba03b6b90efedc1a4e8c106b18b87d44798",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 8,
+          "source_sha256": "f11d86823bd3cb9346975cb084490d22ad095ca9bd55f6f8bdf716459f362818",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 9,
+          "source_sha256": "cc7238c49aa59aeda761f278b8f2ef42cca70d627b00d456453ce7a159ac78d2",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "discrete-1",
+      "folder": "04_discrete-1",
+      "manuscript_sha256_digest": "8d412debee4ceed2e3f0381b42585535adc9fd9097837bee52d09a00c0f84840",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "1e89b3e184eb39e6cd2ce2d70d231e252c0bca4d1fd32f7ea2300fa3ce67e6f0",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "6a5ce60a86993830b2151bddc78fae956637cde4e477db8b841754055c5054a4",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "0f546dc05b472860ae3cd6347e118c4bd72b04e74562dfe4064c7bd5f08952b0",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "4efb23a36baf15dfc7c1654322a5965a227e32f75715ad98a8d38fad35edf872",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "calculus-2",
+      "folder": "06_calculus-2",
+      "manuscript_sha256_digest": "0e77a1875ac53884dae30e18aa64eee7e5b17313e4de8ae2910d8e6283b25c63",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "5535788766d224560ed859cf8d13de10dcecc9606dfffa1daa73a55a37725ce0",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "952a83fcb4586c31a2039f5d692be438f19b17fc0807608a88f45e04f1800390",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "d330538a75ad2ab5e59b3c7cc8d4e329d11cd687e4a803d31349480cba142704",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "c",
+      "folder": "07_c",
+      "manuscript_sha256_digest": "36cdd4e0bec1fe84e343e379c28a126a91186d972a263569282079e37d5124b0",
+      "authored_units": 7,
+      "authored_subtopics": 28,
+      "reviewed_units": 7,
+      "reviewed_subtopics": 28,
+      "rendered_authored_units": 7,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "e37f09844298fae5c1d7f779c493b82db237914f07c5da94a2ca362e8093e698",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "e008a74661f09314bd14dea9510c2473786c49d463e6a2dec14e7b1e50aa927c",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "49a8727e42d269e247ecc4640a68727d592d686c58864c617962eb9da5ac56ac",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "a255fc57f9e5553dd82d1f479add29392567138a71dfb2b0b836790d2fdef9b1",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "d2492097c62dba42655a76a79a417fa3e38477325e5334d73b75508a16d71771",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 6,
+          "source_sha256": "2c0dc5c869b0a14cedeaec31fb087b2f0bd42afe6e1b372be7419c60c00ba83d",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 7,
+          "source_sha256": "511051512f966e92a53a5395a4cc41084e6818a552415db957073fe339ef9415",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "linear-algebra",
+      "folder": "08_linear-algebra",
+      "manuscript_sha256_digest": "1cdef3374882dbb0e6645b9beab42ead6f1bb9d915faa4723af7720f8a6990cb",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "66cb3b03b93b4742d0d8a7206b1d4c5773cda3ad36b341e98df9074b66d10d6a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "6136408fcdd9299c579b94db433e150749f179dcc86349502ba53d9b86ec9b30",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "20cdb5bf73a703a39e4f044d9a58ed2398686e0b58fc9347872b3aba878c95ad",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "0788d891bcca4ebbbd4a7dcaf664f26160217346a7aa4b41c484d86eb2c7f060",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "discrete-2",
+      "folder": "09_discrete-2",
+      "manuscript_sha256_digest": "e0122d165c9fee4ba3a81e60c807ab544880b30c07552febf108cce88a496a6b",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "546c8afd3f193f439bab94aab3a6a45723cee0ed3a6e5bf21c391f56bd4a1c9e",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "2a03fa3ea5e92e2a6980e0ba00e218d325ef0e0a0c8c1da1c4b2147ae2cecf04",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "fed7e5008b336598915d0efe3d40e76e86dac951ace5ca226c28c33641cb0dd0",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "digital-logic",
+      "folder": "10_digital-logic",
+      "manuscript_sha256_digest": "9bcc5d79632d3f83460aabe8a1cc918fae1c661db52229c00ebf683d47278d4e",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "2446cbe3206b1dc573a7f2d43bd3675cb6664cc9bc2f40fe780843a15af6fd10",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "ec168ce62502391273b14877e8172910aa592ef2e1fa926d59c74918382a58c1",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "e5ce3f9dcdec13149b76831d1f273cb987c1a2d2460f0640b6b77a570c1b3b0a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "engineering-1",
+      "folder": "11_engineering-1",
+      "manuscript_sha256_digest": "87504dd77d02f712c4baeb5b8a1d50d9de4dfa211f0cc421f58328b9915d70b5",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "62ce27db2a0f18c71bd2f970f7762bda76520bf264b2575a1dfd6dc29dadfb9b",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d57320ded154cc1370119dbfe18dae87e8db7f1af54a5c6990da3d3eafa8dee8",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "a309b21711dfad02471345700ab1c8abc12fcc89051897febb2d2e873a4f33d7",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "4169b0d0f63413704495dacb66b554fa96024ab671aedcdb7d3a10da9c65e777",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "cpp",
+      "folder": "12_cpp",
+      "manuscript_sha256_digest": "8e86915a6a9287409729d5eeeba9a2de0d165a0da4cf72be23539721392a74e8",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "b9b6f9b13fdbf1532a56a6b706d99dcc2604a004486eabdf4c1ed6acfe099073",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d4837e6b62fa6f8f54a19933e9a2fad51a70c3815199afa35a08558215a2b5b1",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "18765d45fc5cf5695054bdcb73ee0ed613111589ed5b94eb6640be36174646d4",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "371a1f4e6048e4c2cba309db710ab213a03b77ec346696831d51184b2325d4a6",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "data-structures",
+      "folder": "13_data-structures",
+      "manuscript_sha256_digest": "0ed1636e01c7a923f9c8c84e027f1a8a014f8deb8a60750d1097f518690a46bc",
+      "authored_units": 4,
+      "authored_subtopics": 12,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8aed35a8125f0972220e60584bb0dcbdc7bdf164629891c31281605b89cc3a18",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "45bf111b6061d254e278fe229aa9f73d7a9de2b291138c4104c7ab371d7cbafc",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "338ffb666d844c80194e23385bb87a8bede36cedc96b9b9eb46fc177ee358e51",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "641e3ace233f7d27211d8b907db46ae46ce3c3ca3351b6a3fc3c260a454e87d3",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "architecture",
+      "folder": "14_architecture",
+      "manuscript_sha256_digest": "1a1095b1281a8d5e976e7c43539f736e6c6fda4fdf6d217dbd8237e02179e56d",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "7280cb054363d331796a7f86d699193eff0cf8c882bf09d96979106910de9374",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "831d30638ea39c28726f5549577baa81896a7d4cd314b0b47be0fa5a638be72a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "d71634187b7f7f9a255d2fe62b614e6b56b399499b0b68c14e246e60dd4757a7",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "probability",
+      "folder": "15_probability",
+      "manuscript_sha256_digest": "9f3107e6e1a491e1bbb915d52807e1848f9ef2f8b24f5928a0d9d973d89ef670",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "4c9d10f0229c669de64e477dd6354da4d0d4af620edcc7c44ddc7ff439185a6e",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "933bd39eb137295e2fbfcc5207ab386bc0e6aedac71d41f3eae554ef71bfc5be",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "577f7566f11a745bca0abf9ad63dd78996c80e09a3996335f65e44a6da73dfa9",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "3f703f1218c512f83094db8dae3885be9398675360b4a2c3da5e1fb81fb11f73",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "systems",
+      "folder": "16_systems",
+      "manuscript_sha256_digest": "343eebe24cdf47dce34a1194158543ee546e80df4604bc6b4b7973fb3ccf2928",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "980f373e2d751be80d2fa05ae18c44d4e3792900bd1bea18ba7827a645e42b1d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "32991eb859d1f39d4a3c14c67f784a083d061215cc13e6b08a4bc6865da93b50",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "1b9227aa5d6cb7131fac86cb11e3e135553d2b8d8b9c131742ea46798a31f567",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "systems-programming",
+      "folder": "17_systems-programming",
+      "manuscript_sha256_digest": "2790c494088a82841b303a1757726ab8a759559204e2d3524d0d3a20bfa93550",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "d0cff832adfee57b5534c43de15a225b64678a0dfd0d42ba8cba943902b6cf31",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "a63e353be594c575f6399ff86c2a234ff4db1e4e7b357495b332649563357927",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "71dc5124087fa39f216644cf188742ff5c4862023fe9537aab56e7b9b34f38ba",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "algorithms",
+      "folder": "18_algorithms",
+      "manuscript_sha256_digest": "8ffefb0e41e7931abbe4bd92d411e1ef173a16d2fa1e45d08561e1377149dd5b",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "200074c184bcfd5ddeda0966107598c5fe7c09f2d59c9ee9d5b3a7847585ab51",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "bef2c941bdbc793ddd2185e1784678d413a6b5e17c834467e5dafe41fb56e632",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "c1ddd335040c0b904b9af562906307fb35d8518dc7ee47f828fda58e01981e84",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "databases",
+      "folder": "19_databases",
+      "manuscript_sha256_digest": "58362a56b9a310540c7e2e3f412cadb8ec24ee9294871e4014f1888586b38ce7",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "079f4f260d27e913b9a62d8709e1f134d463e32a52c36cc9c78067b320f124a5",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "3b8242928a638baf2870103371766b80d4739f353b37f2472a7a840239098c7b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "f33aaba01a5b1d1fb9bae33d019c7d6f07f6768582ef84c54cb82571fd58b531",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "os",
+      "folder": "20_os",
+      "manuscript_sha256_digest": "ac76df85a5e49981295bd5120dd21e75c32e009afacbc0783a64175d7021e398",
+      "authored_units": 4,
+      "authored_subtopics": 12,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "e3ddc5b66301df751311e837eeff6a86a0dabad52c893dae590a4c14bf84e94f",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "162a0d9c0b42957b56dd3fe306a163d86b5cef56dfd5467609260a564af40f55",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "e6869b4954af88a15f70b216a567cd9cadc1e2acda5f08c4642dde207e67fc6e",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "1657ad30f9dcc725f1d19c46a16a061b7b5563788668acafd95b0e74a98c7547",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "networks",
+      "folder": "21_networks",
+      "manuscript_sha256_digest": "29dfedd7266e91c0a2e9e3f4898fac59b391bd85f967f5ea3cb31dda035258a1",
+      "authored_units": 4,
+      "authored_subtopics": 12,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8f99fc46bc753a10895e2f5432e400aa76e7fde64abe5862006eb5300a2c09d8",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "3f837dbeb7756e891b3e1d16801069d63ea8fe1fa98ebe19d9f8eb1d700a9e94",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "21e620b94da9fef3920885526302000fa03d0f6de584ad88b0a21eeeed9fc263",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "b9b4cbbfdce383ab14c9e38762a47d96a1164dd76c97b0ea34868c7ffaebc033",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "file-structures",
+      "folder": "22_file-structures",
+      "manuscript_sha256_digest": "fe34b8ff0b254a379702ccca16dc2a58d66d4a65117f98b2f6f0cfae0c15f119",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "2f4aec06f22badab6eef0472f33716a18ca4568abb12ab942d27a1dc58b2c680",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "9fbbd1b6f976556d2414bd461a52c407a90155375d308325f858b6b036e34efd",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "81706ce5d50eb71fc2a0540c1dd7b178ee0224c7c3aea6a5107d0d43a1e6ec0b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "engineering-2",
+      "folder": "23_engineering-2",
+      "manuscript_sha256_digest": "c4e77190ba786354cf60d8fd081b443c06a069aa6a22f1870e2b5d89ff329648",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "482de6d2149ca3a04d34a4f6b2ee927118870d8e01064a78ca335bd959a9b580",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "7539dffdb47edf7018335ac1d706e0a077213feb098ad1e124ce3a8a511df558",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "4b456ff218bb600cace3efadfa90c3ad5ab20bfac4e51d3cc5d2115a3ee19c5c",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "automata",
+      "folder": "24_automata",
+      "manuscript_sha256_digest": "c3bb706d66bec67dddee5d0ebf8556bfbcdc2d8382a0446375e21c0581c63733",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "4887c8d08d0f86c4e7b50528914a1061f78b699e28ff5833b5c1d645efc300ff",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "66c6554a2b2091a2041f8283997ad719c575cbc4ab43a1ae13fa7cd60d4ac870",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "programming-languages",
+      "folder": "25_programming-languages",
+      "manuscript_sha256_digest": "f3a8475cf19554c3cd6e2ad7b357fd77167c871905d75f96085fbbed72b158a4",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "d0ebd47b5fb5fef356527084d022285e4d7065f105979072adf47a2c26634abe",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "757147e7b8d9d4e6601d9225cad2101a4b0f4babbe8ce3b5c28210811396c480",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "31d235287b614f5953d8d6dd81364c1ee2d69fc057ebfd2e8bf3618500aa6f91",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "software-engineering",
+      "folder": "26_software-engineering",
+      "manuscript_sha256_digest": "58d7c978b1f8c4c128f56eb3282098b2f9ea4df740278de5797e173921381c03",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "e81b59e6ec5da49a267201c35caa2eceb450c23094a069a2a277de739d85b73c",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "536b8d67d32d906c4f7453c3478c4374cbbdf7a13daad7e4d8088d551e4805fa",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "6f5e9655098b045f15995fc5476e1bc02bc1c6c7a0a0195daf23bbcf3cb89b9b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "ai",
+      "folder": "27_ai",
+      "manuscript_sha256_digest": "14374320310163f9b71241a139afbcd5276c89be5a0fba313eeac327bcdd3d27",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "b924d91444f09262661928b0521871ad17d5c96fc85b13ac381d2f9bb9dbc6bc",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "9e0696bac344b9be73a0f80b6302022d173ab2869372f65ec471f0b59283d5c2",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "2a4c8460f18302f110555ab2df8947ec57374929fefb7113d6b95c948b08680d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "ml",
+      "folder": "28_ml",
+      "manuscript_sha256_digest": "aa819e0a95eb55a271a9ed194fe5992c373270b0ff914c1e5347772ea079633f",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "bf175b7371babf368d9b398b4473ea7822f026e350ae7f1078b7f523e5dd775d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d1fd657c3cf0f1dd7c163ddae4bd170f0655ca03de370c236333bef8c14a6121",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "5fb306bbdeeacbcec10aea55ae9740bb1dea946ac33582618e68915ca7b77f79",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "security",
+      "folder": "29_security",
+      "manuscript_sha256_digest": "ee8810b80b892f437489c9fe0033ccb6f7e02d70c1662d25b48983785d387eb4",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "0c7c77488d7641bf457cb1a37ce9cfce1d8d44c5c45f929d28eec8b7770f40f9",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "61e8c026b83408d4b45263c72aca75d9a03c35b8087043dc5709898ecf3afef1",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "c84f94f663be02e215c6473799efe37837c1481e4bb5e68ad434c408dc8466b1",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "numerical-methods",
+      "folder": "30_numerical-methods",
+      "manuscript_sha256_digest": "98e771706121a0b954e0425b0d85d412c21e7ced7304c352a7e22791588a3586",
+      "authored_units": 2,
+      "authored_subtopics": 8,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 8,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8087a2a368631e93f463043275132d607f3009d5e5ad1feb974b0f12ed11bc39",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "fbdd598e6d4a84b8cd6de56b0d7fd373620f822a3bb839f58a3266991334a95b",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "deep-learning",
+      "folder": "31_deep-learning",
+      "manuscript_sha256_digest": "690ef86acfd0398dd1ece9d2a1dc02635322aef4be7bf087a183a0a7446a4bd2",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "bf6dbec4149e9b98b812342f6a82b73e08778c562a03cee324d8968799c8fede",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "30bf6e04d28d7034e0acc90bba3cd86c8d64e1c33b36266a521afa64b2239d8b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "java",
+      "folder": "34_java",
+      "manuscript_sha256_digest": "9e75e6ecb1dc3cd57612792eb1357f08a3dfcda7a926ce43c5e301b49866ad75",
+      "authored_units": 4,
+      "authored_subtopics": 16,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 16,
+      "rendered_authored_units": 4,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8f478e89f4794f1d316d954a3f12cb71e1dd70f49d685f2b69f6dd1b3910357a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "94a7ea8a96bd8d77cddb5927954365bdf8f17313af915082cc9fad1c4b20fc06",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "cd3536064933eeffe8675d2963fba9c2c0941617fb034278b6e5f999bfbf9c65",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "6e20a75555a3d88a2b2d86f9dbaf0f5126c0a6fe539c34755e18ce2b9698b142",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "csharp",
+      "folder": "35_csharp",
+      "manuscript_sha256_digest": "0ae0dbbe3afd2703f4b578fa58e4172758f89007ec16fae560eab709a2be52f8",
+      "authored_units": 3,
+      "authored_subtopics": 12,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "9e551d79edcd810fccdda1f73bba23ef73bf6e0b293c043e42b6aaa2dcd77a01",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "1fdfb71cb3472bc91ccd19d64f5c75c5e8205a141fd2a76b15d07f955dd8622a",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "297cf1e820e5ea508a8cfff36b096aa20f03ded0e507eb6143a7940af44de99e",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "oop",
+      "folder": "36_oop",
+      "manuscript_sha256_digest": "5faaf63e143a7d790c2a133d2bc7f4a6d462e03c0defd1109f7f05414089db3a",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "d88df7a8521abd8706f412b435f728236901b19d99ebbb8d9383b8a2ba05b1bb",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "283390230ae40a1cccf870a196e727c886ac2f999163d12d3a354cfdba832320",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "f3f15d019b46cfc006ace46af3cc31b476e1e80722c7bee23f976924506e0b3e",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "functional",
+      "folder": "37_functional",
+      "manuscript_sha256_digest": "6b624e6c8a47c2f0707d9f041cc19813680115bf3133dd38da61c3509e4af555",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "775a331e89fb3d7bc580ee865262a6e258fc5dfe467dac9667de72a046f685a0",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "7945146a8cc53cd41b512c7c483ae268cd0bda9db3e166a58dd3469dc587e28f",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "8425d17f6951dea5a4b417fc6b5e0a24d175a52d39ab753c1f9e6c92ac78b232",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "optimization",
+      "folder": "38_optimization",
+      "manuscript_sha256_digest": "973131a9ae32da91aa8d6ccb0f0882c3170459ad5b112cf23d2b238beaef2698",
+      "authored_units": 2,
+      "authored_subtopics": 8,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 8,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "4ee1d0bdbbee4fd4383122d05843ca461ab6fc2644c79bdde1ca64199363f618",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "94f1493e9f48348bfb9a62a2911a075f271962e748e8ace60992b42ad59cbe8f",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "physics-2",
+      "folder": "39_physics-2",
+      "manuscript_sha256_digest": "32809cd9b9c69b7ff5e784837c7340146ce69aa92a6424ec2d811d7f2978925d",
+      "authored_units": 2,
+      "authored_subtopics": 8,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 8,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "a67ba8df1fd25ee903f8b8c4cc199cc4fe6ffdddb5ab6002ebea4839e9c029cd",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "e69caddb1b4cec0916599d32679bd7bd6f3ebd3e145f0918ea002f123fbabb17",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "signals",
+      "folder": "40_signals",
+      "manuscript_sha256_digest": "ef455f49307e87d08da75c78ea5beabdc762582f00d9a47cc1b229af051cfe68",
+      "authored_units": 2,
+      "authored_subtopics": 8,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 8,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "a9b3cb76d5f32b94ad7f3cbab0bd4d618534fe2f80c36a194c812f940c00addb",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "9d054cdab42cdce692ed5053a4a54765b459472923fd0749418a566cab1d9a23",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "compilers",
+      "folder": "41_compilers",
+      "manuscript_sha256_digest": "9c7aae48ff2324dbc48e4457afa9db4daa64dc1a71a754d5302b12f1a2fec978",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "854cdd142771c03c17ee94d59823f550d86712bb3292b98a050ffa1b37789fde",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "335184d148756144b9ed65c8b51f169f8add244b58717d54bfbce7470fe54d89",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "distributed",
+      "folder": "42_distributed",
+      "manuscript_sha256_digest": "b450a094d9156353f4ddf92d7f0e2d717231f9889081a589d6a9eccd1f6cc0c2",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "b36edb7180cd1cd45f07d2c500779d89fe914d17820671646a9bd7df012a2a98",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "c289109a0974792b9d97a6e345786a5bcac74f876954d79f4025009d0bd7f188",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "parallel",
+      "folder": "43_parallel",
+      "manuscript_sha256_digest": "27359a38d005a78db7a6c9c05e1e99de1b01c22229c84376cc5c46262395b619",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "ff7ef84eac09868bfd39e6c1668c33135b16412f4f5d0cbcf285108ffce05d45",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "3f246179f82af05c6b3f2e25cf710ccd05d5017866cf40e20e2ff02c55ca8f08",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "embedded",
+      "folder": "44_embedded",
+      "manuscript_sha256_digest": "15fda3ffa5675e03d170dec58e73df2df04161468270409644fd84ee58c1303a",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "93fb88bd0d838f1c19ea42543020f628471bf6818fbe6aed4846fac7c06e54f9",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "990608a96f5678f74defb56b39530e572371e3f27a0ac4a08e58949c424362e1",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "realtime",
+      "folder": "45_realtime",
+      "manuscript_sha256_digest": "c35579ec70aff5ca543346e65f35fbcfd811a129b312d838cabe66f4e2c21d9f",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "a9cb8fc8446734461ea5d904a382e8466923422afc1daffd09a0137164a35392",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "7b043bbe2e7ac1c02da913eb5be5a1c17092c4bc967ea6684e0482ba05de7ea4",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "cloud",
+      "folder": "46_cloud",
+      "manuscript_sha256_digest": "04b3baeed109467e969746e25d116c45045ae31deddb94b7e5ccbb42ed1bfb0d",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8de51fab35e1ec1fbda37ef003e30685eb741ee86dfafaff8d8c0f4c2c118f1d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "762b066e3a49924a2090b53d0186ea87bf9bb0fdb8f200e591eced09b687471e",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "advanced-os",
+      "folder": "47_advanced-os",
+      "manuscript_sha256_digest": "47992e8b68c6323f81cb31ba2847d9729da8ea13f00c9257636b6dbefbb66935",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "822f3743326c3e86a7704fabbe873dbc8758570fb809a05b2e3bf280599b5568",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "70dcd36ade67f0a702b415e3ae3a258cce6af72137829b8169175d7e43831617",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "database-systems",
+      "folder": "48_database-systems",
+      "manuscript_sha256_digest": "f8458b93a59874e49b65681b3f42495205f1f2e2387fe8b1fa38ef96bf893650",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "8a28aea1abcb8e71defaa697ebfb4ad4376780ab7d1f5d7b20888e399a6dbd79",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "c293ad9995e5e47869173187e9a861aff8395e7cbbb0e001be58b99a2c998594",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "vision",
+      "folder": "49_vision",
+      "manuscript_sha256_digest": "adb656ee418a52757689081793c4cd42a38afd387a5656e6d4ffa1328c53c4e1",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "c6a819ffa923437d5df3d252e8080e15321de7417c8708389df36fc05b3194c6",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "fb56d62327fbf74cfd318e76e07f81d4ee3b4ad2ddfd2fa3aa0b911132472403",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "nlp",
+      "folder": "50_nlp",
+      "manuscript_sha256_digest": "9bb1f5d339c56429145d1698974b395c6eb6f24637476777de63cd86dfb4a573",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "c085469a63db99b9eccbd8165c4030d20dc9b8568fddd50a5f51191f4ae77971",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "7efd9497f490ee646ef1b55a54679ed656dd6ccd02c4f55d2f185582f640c827",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "reinforcement",
+      "folder": "51_reinforcement",
+      "manuscript_sha256_digest": "48e0b3550542c69325c6c0565ac7e1da14b3e83bf4627bb9a77098891cd3c22d",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "19a168a36391351ed64cca7251fe831aa27ac20d1bd8bb47ab93a45c97181b8d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "59bc5ad945a0d0b59bd2a0786a6c683577c76a7a962740f46d08dd488a97e166",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "advanced-dl",
+      "folder": "52_advanced-dl",
+      "manuscript_sha256_digest": "100fab7ba9a59ba7989662f3dd4d11711fd116339c962493313eb2e98a06fa1d",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "ca7d1a3ff67b3eb3a85d1b81acf590b8455e4f2086a7ba0d7dad481d1f71b7b2",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "0e08a496ad7ef0be220e52513263fe0ca9aabc535565d21a545b931e1dc2fdbb",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "data-mining",
+      "folder": "53_data-mining",
+      "manuscript_sha256_digest": "6a350e2a6d2c3b8d4d3eb50c21ae7a031478199a21e2557c5934daeb46689ae2",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "02913691b6208ac5e79d75839e816d2eef7bf58a7db3a8de0eb4eca6bdc0291f",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "2068ca1ebdb276fec7aee794b089566cb363ad202a171b261b3aedd328c3d865",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "information-retrieval",
+      "folder": "54_information-retrieval",
+      "manuscript_sha256_digest": "562ca305bc8a837afb2f3ce68f5ee7adf3f455b2927b8b3e030ed05b9eb0a32c",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "5b9ab7f0b1be3f7fea34f159164ebe6b3d0c1df4ee1ef40a324d9969412b15ab",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d73572845d533773de8de93a19edae695f8ee8f528bd957bb79b82a2451206a3",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "mlops",
+      "folder": "55_mlops",
+      "manuscript_sha256_digest": "c8074fe6517520185d23953cf38d1d648bb5cc658112b1da9f7881ac2e6fcdec",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "98e8e305220069c6f8f4fceb3441b5c6bfe30bfadd5919ea87ea050aeda34b1a",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "a2bb1ae04d45c9c4e6fa61fc6ccfc53ec442adb5e18d3071d820e7b9c237c71d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "web",
+      "folder": "56_web",
+      "manuscript_sha256_digest": "dc7dd0005900a98d9d7391bf19fd5fb0f521641c3b215cdb1624de616c9a40be",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "ef5529bf6ccb64bdbcebd10e6e3ab4733224b9d0619243432184dfd459d3976d",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "c590c7987dd638c3c1755af6334d16229914f8b11be774b494ef7a0e8144357e",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "86c0fdf4aa5b88017b2998f5aff74a66740074c2cf40976fc20e7200650d43c8",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "mobile",
+      "folder": "57_mobile",
+      "manuscript_sha256_digest": "b2aea1dd694190752b2a41aab7da3ecd2e89e4b56b55ec6bb6bd611adb9e938e",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "90dd116f9de45562d5f9b2da8816262ddb037d35326dd1f2c21732bb5404d2cd",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "b5401a7e3844da5c841db42e707b10fd187b728a1b0a20e4d32898c2d95f05dc",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "502405da57135daea7d0db3460ad4bf04e14e61024874ba1146c134db428ae55",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "graphics",
+      "folder": "58_graphics",
+      "manuscript_sha256_digest": "7f622df4a27ef8fb1ab9980b30080f08675da980fbba8035023cfa2b36b0ac06",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "806187796d2eda500d77e291c82ab8602f3e50fa55791d890333f0a9e74f6c47",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "e2002cefef746d73cdd8feea863f1a23299f7fcfe5d38135fd0d8e9af095d8eb",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "a77e9d72b3dbe38fb99ee63bf9869d43b2d37587cd0f9ee375860fc9b1a712ad",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "hci",
+      "folder": "59_hci",
+      "manuscript_sha256_digest": "39c0e83522cf8e88421265f1fb5b96b5315efdf81f2732863a7d3faa721316e7",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "3c7899295edf35d6ca7b0b0d9a655d581d60b272b32cec7da4e515d8c4a84311",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "1745638f5b3f25fedbe7a23fba11b80f5162b51e41ee0e33391d0512fcbe9b53",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "b52e720773477aa3b334a4aa809ef46102f00a4a3e2dcd293083fd4c4e1c01b0",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "games",
+      "folder": "60_games",
+      "manuscript_sha256_digest": "fb9de39aa66083a5e44d2dc4ad9948c25ce84ba6160ffb69dbb14656f06f807f",
+      "authored_units": 3,
+      "authored_subtopics": 9,
+      "reviewed_units": 3,
+      "reviewed_subtopics": 9,
+      "rendered_authored_units": 3,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "bf3cb8a1e22302a3eaf3bbc98b952fd0f5effaa61bea5ac05c351140c3ff4658",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "f9cbc577664f89a443763cb973a1830cad20136fe9c4accc3146f8d25e38f97e",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 3,
+          "source_sha256": "1a1c9b5b400c83eb9e14fcb818976a3a229ace6b40ccf4fb5160a120dcebac96",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "cryptography",
+      "folder": "61_cryptography",
+      "manuscript_sha256_digest": "a2ca0f406672c4f83ab6222a9b4f9723139878333c6ea1e027f5478192bc6cfa",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "24ec4fba94c1425ea9e7bbcab4b44cb75b02a2c9a76ba936e1005429e6a94395",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "ea8fdca5660b1b5df9079e130dc8c66fa576f89fe58af9a6278d9bbde5619c72",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "testing",
+      "folder": "62_testing",
+      "manuscript_sha256_digest": "68adc595941f0f6d82a89b3059a8953857993301efcc2082e061021bd0249f4e",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "a2f43dd373791a5e5beeff7e9d70c6ae141cdebbacfa327b03a611d370ec3590",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "91fc76c1576dff0b099726a4afb704476e3c0a7afbaa6a5d5c66403f3724ea9b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "formal-methods",
+      "folder": "63_formal-methods",
+      "manuscript_sha256_digest": "39b3d9a8e096c8422827b3d02be5c62feccbea6c5a6f90765d4c84297f0201ef",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "1796b113af086576dfb96d8bb8499c96afeefc95bb669804cd941da0b0a8c539",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "531cbfdb86751a15612f1f9cd6f23db956d2177c39ffbbaffd440e4c73620504",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "writing",
+      "folder": "64_writing",
+      "manuscript_sha256_digest": "a229681ea9087cbb9b159339f8b7dceb29f3938e37eb6e10913d6d0ff4c042b9",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "fa27c8fe9b56fe38a5dd0d851dc622a7739b3d33ed147580875b880e43959eaf",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d397599664e86edc5d0d3003190c92ed5e19d18cbbe829b82202fa9287a935e0",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "team-communication",
+      "folder": "67_team-communication",
+      "manuscript_sha256_digest": "e02a83448be99a5105ba47742ef1b4dcb1ce6a2bf75b01a3d05ba0e57df6f03f",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "768388168f0e08b3b8ddc4b2b0c3210e7187a8c1d30dde4a07556f10cdc5c670",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "d1cbd52ad759a64caecfc9db460f58bc1788be58025d46dc6f2afeaf69c614c8",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    },
+    {
+      "course_id": "ethics",
+      "folder": "68_ethics",
+      "manuscript_sha256_digest": "8ec14af0aef3b505175369739cb088ed53fe059bd63fedd7c6f5c57c2c89755e",
+      "authored_units": 2,
+      "authored_subtopics": 6,
+      "reviewed_units": 2,
+      "reviewed_subtopics": 6,
+      "rendered_authored_units": 2,
+      "units": [
+        {
+          "unit_number": 1,
+          "source_sha256": "becb5e7d9aa60f66d2bd0b8489af6f3a06f7d106d30be49c940ab7199474db46",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        },
+        {
+          "unit_number": 2,
+          "source_sha256": "67c2b6175a77f8d88390da1c31088063161a0a1d6ef1449232969ac22cd6e28c",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true
+        }
+      ]
+    }
+  ],
+  "public_file_count": 683,
+  "html_file_count": 548,
+  "checked_local_references": 10093,
+  "missing_local_files": [],
+  "supplemented_static_files": [
+    "planning/curriculum-allocation-v2.json"
+  ],
+  "excluded_operational_links_count": 5,
+  "public_bundle_sha256": "41a7e74ac6b9eb2c11b849a6c0d3c98ed25f850520003a769386b014428bce94",
+  "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
+  "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
+  "deployment_status": "artifact_built_not_deployed"
+}

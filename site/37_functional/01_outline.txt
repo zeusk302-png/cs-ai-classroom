@@ -1,0 +1,64 @@
+﻿함수형프로그래밍
+기존 과목번호 37 · 과목 ID functional
+
+단원 목차와 세부 학습 항목
+
+01. 순수함수와 평가
+  1.1 참조투명성
+  1.2 값·식·평가순서
+  1.3 불변성의 의미
+
+02. 패턴매칭과 대수적 자료형
+  2.1 product·sum type
+  2.2 완전성과 중복패턴
+  2.3 도메인 모델
+
+03. 재귀와 구조적 사고
+  3.1 리스트·트리 재귀
+  3.2 structural induction
+  3.3 종료와 불변조건
+
+04. 고차함수와 합성
+  4.1 map·filter·fold
+  4.2 함수인자와 반환
+  4.3 pipeline과 조합
+
+05. 클로저·커링과 부분 적용
+  5.1 lexical scope
+  5.2 환경과 closure
+  5.3 currying·partial application
+
+06. 타입추론과 다형성
+  6.1 parametric polymorphism
+  6.2 제네릭 함수
+  6.3 타입오류 해석
+
+07. 함수형 자료구조
+  7.1 persistent list·tree
+  7.2 구조공유
+  7.3 시간·공간 비용
+
+08. 재귀의 효율과 지연
+  8.1 tail recursion
+  8.2 memoization
+  8.3 lazy evaluation과 stream
+
+09. 모듈과 추상화
+  9.1 signature·structure
+  9.2 정보은닉
+  9.3 functor와 재사용
+
+10. 실패와 외부효과
+  10.1 option·result
+  10.2 예외와 효과구분
+  10.3 순수핵심·입출력 경계
+
+11. 함수형 검증과 병렬성
+  11.1 속성과 예제테스트
+  11.2 work·span
+  11.3 병렬 sequence와 결정성
+
+12. 함수형 설계의 통합
+  12.1 작은 parser 또는 변환기
+  12.2 명령형 해법 비교
+  12.3 비용·효과·정확성 보고

@@ -1,0 +1,64 @@
+﻿소프트웨어 검증
+기존 과목번호 63 · 과목 ID formal-methods
+
+단원 목차와 세부 학습 항목
+
+01. 명세와 검증의 문제
+  1.1 안전성·활성
+  1.2 실행검사와 증명
+  1.3 가정과 검증범위
+
+02. 논리와 증명 도구
+  2.1 명제·술어·양화
+  2.2 귀납적 정의
+  2.3 proof assistant의 기본명령
+
+03. 함수 프로그램의 귀납증명
+  3.1 리스트·트리 성질
+  3.2 보조정리
+  3.3 정의와 증명구조
+
+04. 연산 의미론과 상태
+  4.1 작은 명령형 언어
+  4.2 big·small step
+  4.3 실행과 의미의 관계
+
+05. Hoare 논리와 계약
+  5.1 Hoare triple
+  5.2 할당·합성·조건규칙
+  5.3 사전·사후조건
+
+06. 반복문과 종료
+  6.1 loop invariant
+  6.2 부분정확성
+  6.3 variant와 전체정확성
+
+07. 자동 검증조건과 SMT
+  7.1 weakest precondition
+  7.2 SAT·SMT 입문
+  7.3 counterexample와 solver 한계
+
+08. 타입과 프로그램 안전성
+  8.1 타입규칙
+  8.2 progress·preservation
+  8.3 타입안전성과 기능정확성
+
+09. 상태모델과 시간논리
+  9.1 transition system
+  9.2 도달가능성과 invariant
+  9.3 LTL·CTL 기본
+
+10. 모델검사와 반례
+  10.1 상태탐색
+  10.2 상태폭발
+  10.3 bounded checking과 반례분석
+
+11. 프로그램 분석 입문
+  11.1 control·data flow
+  11.2 abstract interpretation
+  11.3 건전성·정밀도 trade-off
+
+12. 작은 시스템의 검증 보고
+  12.1 명세·증명·반례 비교
+  12.2 모델·코드 추적
+  12.3 미검증 경계와 도구가정

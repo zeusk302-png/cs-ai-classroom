@@ -1,0 +1,64 @@
+﻿소프트웨어 테스트·품질
+기존 과목번호 62 · 과목 ID testing
+
+단원 목차와 세부 학습 항목
+
+01. 품질·결함과 테스트 목적
+  1.1 error·fault·failure
+  1.2 검증과 확인
+  1.3 위험과 테스트수준
+
+02. 요구 기반 테스트 설계
+  2.1 동치분할
+  2.2 경계값
+  2.3 결정표와 상태전이
+
+03. 구조 기반 테스트
+  3.1 statement·branch coverage
+  3.2 조건·경로
+  3.3 coverage의 보장한계
+
+04. 단위테스트와 격리
+  4.1 fixture와 assertion
+  4.2 mock·stub·fake
+  4.3 결정성·빠른 피드백
+
+05. 속성 기반 테스트
+  5.1 입력생성
+  5.2 invariant·metamorphic relation
+  5.3 shrinking과 실패재현
+
+06. 퍼징과 입력 탐색
+  6.1 mutation·grammar fuzzing
+  6.2 coverage guidance
+  6.3 crash triage와 최소화
+
+07. 통합·계약 테스트
+  7.1 서비스와 DB 경계
+  7.2 schema·API 계약
+  7.3 환경과 test data
+
+08. 시스템·회귀 테스트
+  8.1 E2E 시나리오
+  8.2 visual·snapshot 한계
+  8.3 flaky test와 유지비용
+
+09. 성능과 신뢰성 검사
+  9.1 부하·stress·soak
+  9.2 지연분포와 throughput
+  9.3 장애주입과 복구
+
+10. 정적분석과 리뷰
+  10.1 lint·type·dataflow
+  10.2 경고의 정밀도
+  10.3 코드리뷰와 결함분류
+
+11. 테스트 효과와 품질 지표
+  11.1 mutation testing
+  11.2 escaped defect
+  11.3 위험·비용·추적성
+
+12. CI와 결함관리
+  12.1 재현 가능한 파이프라인
+  12.2 우선순위·root cause
+  12.3 릴리스 기준과 회귀보고

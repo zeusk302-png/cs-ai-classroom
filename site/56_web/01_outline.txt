@@ -1,0 +1,64 @@
+﻿웹프로그래밍
+기존 과목번호 56 · 과목 ID web
+
+단원 목차와 세부 학습 항목
+
+01. 웹 실행 구조와 HTTP
+  1.1 URL·request·response
+  1.2 브라우저·서버·origin
+  1.3 개발자도구와 요청관찰
+
+02. 의미 있는 HTML
+  2.1 문서와 semantic 요소
+  2.2 폼과 검증
+  2.3 접근 가능한 구조
+
+03. CSS와 반응형 배치
+  3.1 cascade·box model
+  3.2 flex·grid
+  3.3 화면크기와 typography
+
+04. 브라우저 JavaScript
+  4.1 객체·모듈·함수
+  4.2 DOM과 이벤트
+  4.3 상태와 렌더링
+
+05. 비동기와 데이터 요청
+  5.1 event loop
+  5.2 promise·async
+  5.3 fetch와 오류·취소
+
+06. 사용자 인터페이스 구조
+  6.1 컴포넌트와 상태분리
+  6.2 라우팅과 폼
+  6.3 로딩·빈결과·실패
+
+07. 서버와 API 설계
+  7.1 routing·middleware
+  7.2 REST와 JSON
+  7.3 검증·상태코드·로그
+
+08. 웹 데이터 저장
+  8.1 ORM과 SQL 연결
+  8.2 schema migration
+  8.3 트랜잭션과 페이지네이션
+
+09. 인증·권한·세션
+  9.1 암호저장
+  9.2 cookie·session
+  9.3 접근권한과 만료
+
+10. 웹 보안의 기본
+  10.1 XSS·CSRF
+  10.2 입력검증과 injection
+  10.3 CORS·비밀관리
+
+11. 웹 테스트와 품질
+  11.1 unit·integration·E2E
+  11.2 접근성 점검
+  11.3 성능·캐시·관측
+
+12. 공개 배포와 서비스 검증
+  12.1 환경설정과 HTTPS
+  12.2 CI/CD와 rollback
+  12.3 실사용 흐름·문서·운영점검

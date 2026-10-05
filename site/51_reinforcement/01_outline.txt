@@ -1,0 +1,64 @@
+﻿강화학습
+기존 과목번호 51 · 과목 ID reinforcement
+
+단원 목차와 세부 학습 항목
+
+01. 상호작용 학습의 문제 설정
+  1.1 에이전트·환경·보상
+  1.2 episodic·continuing
+  1.3 보상설계와 평가목적
+
+02. 마르코프 의사결정과 가치
+  2.1 상태전이와 할인율
+  2.2 V·Q와 정책
+  2.3 Bellman 방정식
+
+03. 동적계획법
+  3.1 정책평가
+  3.2 정책개선과 정책반복
+  3.3 가치반복과 수렴
+
+04. Monte Carlo 추정
+  4.1 return과 표본평균
+  4.2 first·every visit
+  4.3 on-policy·off-policy
+
+05. 시간차 학습
+  5.1 TD(0)와 bootstrapping
+  5.2 편향·분산 비교
+  5.3 eligibility trace 입문
+
+06. 제어 알고리즘
+  6.1 SARSA
+  6.2 Q-learning
+  6.3 표형 제어와 수렴조건
+
+07. 탐색과 활용
+  7.1 epsilon-greedy
+  7.2 bandit과 UCB
+  7.3 탐색보너스와 비용
+
+08. 가치함수 근사
+  8.1 선형근사
+  8.2 근사오차와 발산
+  8.3 경험재생과 target network
+
+09. 심층 Q학습 입문
+  9.1 DQN 학습흐름
+  9.2 과대추정과 Double DQN
+  9.3 안정화 실험
+
+10. 정책기울기
+  10.1 확률적 정책
+  10.2 REINFORCE와 baseline
+  10.3 분산과 advantage
+
+11. Actor-Critic과 정책 갱신
+  11.1 actor·critic의 역할
+  11.2 연속행동
+  11.3 PPO 개념과 제한
+
+12. 모델기반 해법과 실험 신뢰성
+  12.1 전이모델과 planning
+  12.2 오프라인·부분관측 입문
+  12.3 다중 seed·평가정책·보상해킹

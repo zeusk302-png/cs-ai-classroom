@@ -1,0 +1,94 @@
+﻿C# 프로그래밍
+기존 과목번호 35 · 과목 ID csharp
+
+단원 목차와 세부 학습 항목
+
+01. C#과 .NET 실행환경
+  1.1 SDK·project·build·run
+  1.2 CIL·CLR·CTS
+  1.3 assembly·namespace
+  1.4 target framework와 dependency
+
+02. 타입과 기본 제어
+  2.1 value·reference type
+  2.2 boxing·conversion
+  2.3 operator·flow control
+  2.4 null과 nullable value
+
+03. 메서드와 표현
+  3.1 overload·optional argument
+  3.2 ref·out·in
+  3.3 expression-bodied member
+  3.4 문자열·pattern matching
+
+04. 클래스·속성·불변성
+  4.1 constructor와 access modifier
+  4.2 property·indexer
+  4.3 init·record와 값 의미
+  4.4 encapsulation과 invariant
+
+05. interface·상속·generic
+  5.1 virtual·override·abstract
+  5.2 interface와 composition
+  5.3 generic constraint
+  5.4 variance와 타입 계약
+
+06. collections와 equality
+  6.1 List·Dictionary·HashSet
+  6.2 equality·hash 계약
+  6.3 IEnumerable와 순회
+  6.4 collection API와 복잡도
+
+07. delegate·lambda·event
+  7.1 delegate와 callback
+  7.2 lambda capture
+  7.3 event 구독·해제
+  7.4 event lifetime과 메모리 누수
+
+08. iterator와 지연계산
+  8.1 IEnumerable·IEnumerator
+  8.2 yield와 상태기계
+  8.3 지연 실행·반복 평가
+  8.4 streaming 데이터 처리
+
+09. LINQ의 질의 모델
+  9.1 query·method syntax
+  9.2 filter·projection·group·join
+  9.3 deferred execution·materialization
+  9.4 IEnumerable·IQueryable 차이 입문
+
+10. 예외와 nullable 분석
+  10.1 exception flow·filter
+  10.2 오류 계약·재시도 판단
+  10.3 nullable reference annotation
+  10.4 정적 경고와 런타임 null
+
+11. 자원과 메모리
+  11.1 GC와 관리 메모리
+  11.2 IDisposable·using
+  11.3 비관리 자원·finalizer
+  11.4 Span·Memory의 개념과 수명
+
+12. 파일·데이터·reflection
+  12.1 stream·encoding·JSON
+  12.2 async I/O의 필요
+  12.3 attribute·reflection
+  12.4 metadata·P/Invoke 입문
+
+13. Task와 async·await
+  13.1 비동기와 병렬의 구별
+  13.2 await와 continuation
+  13.3 CancellationToken
+  13.4 예외·timeout·종료 처리
+
+14. 동시성과 공유상태
+  14.1 race와 lock
+  14.2 thread-safe collection
+  14.3 Task.WhenAll와 제한된 병렬성
+  14.4 deadlock·context·shared state
+
+15. 테스트·빌드·배포
+  15.1 unit test·mock의 경계
+  15.2 NuGet·dependency 관리
+  15.3 CLI·logging·configuration
+  15.4 재현 가능한 빌드와 배포
