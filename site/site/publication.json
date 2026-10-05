@@ -1344,7 +1344,7 @@
     {
       "course_id": "numerical-methods",
       "folder": "30_numerical-methods",
-      "manuscript_sha256_digest": "5f0905f05183fac0e6959b56fcf86f2e855d31f6c0334338d2c964cb53afa856",
+      "manuscript_sha256_digest": "d8920e7a7072bceac96e9668b4ed845648f7e8074322d9403520fed72bac6da6",
       "authored_units": 2,
       "authored_subtopics": 8,
       "reviewed_units": 2,
@@ -1371,9 +1371,9 @@
         },
         {
           "unit_number": 3,
-          "source_sha256": "64158e039e80f9ba116c9e748f7db7cf45ac23321025cc5c0ef1e117ac8d2f1e",
+          "source_sha256": "8f128d3a7b80381f306fdcb82685abcade8baa5a07c9eabb9357281cf0a265d2",
           "subtopics": 4,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 4,
           "rendered": false,
           "rendered_content_matches_source": false,
           "included_in_public_korean_counts": false
@@ -1383,7 +1383,7 @@
     {
       "course_id": "deep-learning",
       "folder": "31_deep-learning",
-      "manuscript_sha256_digest": "15d2177c3fd544c8ba087b6fd7b805bdaee07165f1af718f0d045ab6c72677af",
+      "manuscript_sha256_digest": "ba75ed3ddc1cdcf843fd40a6552178ab2b709c59e9771fa9b3e2194680217bf7",
       "authored_units": 2,
       "authored_subtopics": 6,
       "reviewed_units": 2,
@@ -1410,9 +1410,9 @@
         },
         {
           "unit_number": 3,
-          "source_sha256": "57f13a8dc25a573106e57a40af5bd99c06a48a7df61253696065c8acda77a990",
+          "source_sha256": "8ad253558b4dff806cc7035de2fd0b6fc9c4fdb649e60a65cd95dafe1080defa",
           "subtopics": 3,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 3,
           "rendered": false,
           "rendered_content_matches_source": false,
           "included_in_public_korean_counts": false
@@ -1587,7 +1587,7 @@
     {
       "course_id": "optimization",
       "folder": "38_optimization",
-      "manuscript_sha256_digest": "8210e868bc092a03ed44a0fabc6f01750778fdcdb79723ac12264e6e95276616",
+      "manuscript_sha256_digest": "4899c1e2b6152398401005c98f381230abfec969adebab859a39abf0f36022e3",
       "authored_units": 2,
       "authored_subtopics": 8,
       "reviewed_units": 2,
@@ -1614,9 +1614,9 @@
         },
         {
           "unit_number": 3,
-          "source_sha256": "6d377812543c1008caf62546eeb491cecb332f0e0a6792b68eaaefdd4f0db69b",
+          "source_sha256": "1c3793e426dd0b88fc1e4a154bdad564a3ce3948c0c137c111ab9cfedd76de68",
           "subtopics": 4,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 4,
           "rendered": false,
           "rendered_content_matches_source": false,
           "included_in_public_korean_counts": false
@@ -2553,7 +2553,7 @@
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "afba03231ef291afca417ab09b158041010264bb1e07d005fb1c3731ee9e08d1",
+  "public_bundle_sha256": "0dcdda185193e2e63a36a9c072a750ac12ebb5ca870e535efdce85eea4c6ed9a",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
