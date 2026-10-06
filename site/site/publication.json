@@ -8,11 +8,11 @@
     "ja"
   ],
   "korean": {
-    "authored_units": 279,
-    "authored_subtopics": 926,
-    "reviewed_units": 279,
-    "reviewed_subtopics": 926,
-    "rendered_authored_units": 279
+    "authored_units": 288,
+    "authored_subtopics": 956,
+    "reviewed_units": 288,
+    "reviewed_subtopics": 956,
+    "rendered_authored_units": 288
   },
   "courses": [
     {
@@ -261,12 +261,12 @@
     {
       "course_id": "discrete-1",
       "folder": "04_discrete-1",
-      "manuscript_sha256_digest": "8d412debee4ceed2e3f0381b42585535adc9fd9097837bee52d09a00c0f84840",
-      "authored_units": 4,
-      "authored_subtopics": 16,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 16,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "b90e4665b7b06042b633254cc84a57f5752ca74506048dcdf381ebc97b148010",
+      "authored_units": 5,
+      "authored_subtopics": 20,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 20,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -303,18 +303,27 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "438e7225c3d5175bde178e7267127f744cea7893030d93318ea6acb25cfdcf29",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "calculus-2",
       "folder": "06_calculus-2",
-      "manuscript_sha256_digest": "fd00da3132d95c77826bf250eb0e1ee18bff5bc78b8eeb9a1bad9acc61014dc8",
-      "authored_units": 4,
-      "authored_subtopics": 16,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 16,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "1955a4553a877e0443493ce6411cf40b34f7cc5194b65c32512be181bda0ecf5",
+      "authored_units": 5,
+      "authored_subtopics": 20,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 20,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -346,6 +355,15 @@
         {
           "unit_number": 4,
           "source_sha256": "fd0091e368a0032aba27b40f355f796254622026c95a3ebe71b6d43bc53dff7c",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "5f81245dcf2183370fa1eb60f96ed23f725c8fb3d903f5810a318cd03aec1805",
           "subtopics": 4,
           "reviewed_subtopics": 4,
           "rendered": true,
@@ -747,12 +765,12 @@
     {
       "course_id": "architecture",
       "folder": "14_architecture",
-      "manuscript_sha256_digest": "865b7835349b3ce7bd52d225aedb17d65f1d2417ef792a7d0dbf9f120797c762",
-      "authored_units": 4,
-      "authored_subtopics": 16,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 16,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "7566c4072659380cb01f00c27830247c39fb78b3b8c505bca8dd1535dd232905",
+      "authored_units": 5,
+      "authored_subtopics": 20,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 20,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -784,6 +802,15 @@
         {
           "unit_number": 4,
           "source_sha256": "6e86e546fdb8176627365ad1fcb55f191b48d64d2debcb9c0180ea6ca6a9ac6e",
+          "subtopics": 4,
+          "reviewed_subtopics": 4,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "f5ee51a7e8ef1aba041e12ff0f217ef03e12cdd66212121f9f0025604991d7e9",
           "subtopics": 4,
           "reviewed_subtopics": 4,
           "rendered": true,
@@ -843,12 +870,12 @@
     {
       "course_id": "systems",
       "folder": "16_systems",
-      "manuscript_sha256_digest": "75c236d73f3aca3116daaff53d823cd9a3688cc492760984ae9455bfdbd738b4",
-      "authored_units": 4,
-      "authored_subtopics": 12,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 12,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "56d5654760d1b11952cdf81d9559d3b4fe9cbc54bd2ecfa539a1133b986d82f8",
+      "authored_units": 5,
+      "authored_subtopics": 15,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 15,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -885,18 +912,27 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "908439c8050e88563b69143bef77bcde1bbf47ee3665bd370e1fe9c0888f1e90",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "systems-programming",
       "folder": "17_systems-programming",
-      "manuscript_sha256_digest": "94eaa7cf5f474d3ad88d2c185c1c0ed54b9d2aff3e672ba73c38a99c3f90ea48",
-      "authored_units": 4,
-      "authored_subtopics": 12,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 12,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "fd22a8c01206f7c73bb392761b663e45d11a2a3d82c452bf42df59ce1aa63633",
+      "authored_units": 5,
+      "authored_subtopics": 15,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 15,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -928,6 +964,15 @@
         {
           "unit_number": 4,
           "source_sha256": "3728e4e7cc38f8fd684ab1089e4a9d06ef5b2133db8d7336bd5ac5d2deeb124f",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "0b469ab596540179a642858cb3b8acf28b33239d91b1563ca3186feb7e8c7801",
           "subtopics": 3,
           "reviewed_subtopics": 3,
           "rendered": true,
@@ -3054,12 +3099,12 @@
     {
       "course_id": "testing",
       "folder": "62_testing",
-      "manuscript_sha256_digest": "a4799eae722944904b35aa62b12076c93884bfeb46ad724ab76226756e926c57",
-      "authored_units": 4,
-      "authored_subtopics": 12,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 12,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "43433c2c1f5c7ca049aff9894a85291deac6de4301c791335fedf73af9acf117",
+      "authored_units": 5,
+      "authored_subtopics": 15,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 15,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -3096,18 +3141,27 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "b4578ea90fda2484cff1677c531dcaba4b79d0c01f0c404ffce1e73e44453c66",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "formal-methods",
       "folder": "63_formal-methods",
-      "manuscript_sha256_digest": "7d2cb21f9c7a29a1e26c8cebb3a859ba5fd4f787da0c6846d319075d1a8cfabf",
-      "authored_units": 3,
-      "authored_subtopics": 9,
-      "reviewed_units": 3,
-      "reviewed_subtopics": 9,
-      "rendered_authored_units": 3,
+      "manuscript_sha256_digest": "15cca5fd8d80d2c343e39bf2e0a54d113936bd0722b913121edf220136559f9e",
+      "authored_units": 4,
+      "authored_subtopics": 12,
+      "reviewed_units": 4,
+      "reviewed_subtopics": 12,
+      "rendered_authored_units": 4,
       "units": [
         {
           "unit_number": 1,
@@ -3135,18 +3189,27 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 4,
+          "source_sha256": "4282bdc3a18e17b2ed3a5a9edb53a318026d2587f5b5f2b7c4ba885c52affa1b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "writing",
       "folder": "64_writing",
-      "manuscript_sha256_digest": "8cc744a8b4ef88e4b69bfc04607e93c9d28b8bd11bb81ea2d18b807f91ed99a8",
-      "authored_units": 4,
-      "authored_subtopics": 12,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 12,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "02be327f1a36a48ca3ef61f0827ccba7ded26ed7fb8337b60af8d08297d03c24",
+      "authored_units": 5,
+      "authored_subtopics": 15,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 15,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -3183,18 +3246,27 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "17ef9767531724613ae5e51a42cba259a1296218e138878e0d9e7f4cdfbcb937",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "team-communication",
       "folder": "67_team-communication",
-      "manuscript_sha256_digest": "34db0cb5d017890f81ba21ccb0d95eae35e1423541a4b2fe342676c70342223e",
-      "authored_units": 4,
-      "authored_subtopics": 12,
-      "reviewed_units": 4,
-      "reviewed_subtopics": 12,
-      "rendered_authored_units": 4,
+      "manuscript_sha256_digest": "f0034b190803e3dbb9e728d6d31c25401eb5e01a94b95dfe4e0295ee68b26440",
+      "authored_units": 5,
+      "authored_subtopics": 15,
+      "reviewed_units": 5,
+      "reviewed_subtopics": 15,
+      "rendered_authored_units": 5,
       "units": [
         {
           "unit_number": 1,
@@ -3226,6 +3298,15 @@
         {
           "unit_number": 4,
           "source_sha256": "5943e98eadbb6c131ecf5091a592f88d052c259051ae0ffc4db702d463ca9c8b",
+          "subtopics": 3,
+          "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 5,
+          "source_sha256": "2ee304d656b341b6a6e69f0c656d8b8838bd67ee5b9e8d5ae5a4cfa26643fd94",
           "subtopics": 3,
           "reviewed_subtopics": 3,
           "rendered": true,
@@ -3283,22 +3364,22 @@
       ]
     }
   ],
-  "public_file_count": 777,
-  "html_file_count": 638,
-  "checked_local_references": 11983,
+  "public_file_count": 786,
+  "html_file_count": 647,
+  "checked_local_references": 12172,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a307e8eecbc8241cf80fbc12aa5d19e7dd43ced2a8ba0b8342c0b1b0a31cfda5",
+  "public_bundle_sha256": "a8701aa25c7e71878a5bfbd935f2fcabb8af296dd1b0e697c0831e6d1350516e",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
   "deployment_status": "artifact_built_not_deployed",
   "seo": {
-    "html_pages": 638,
-    "indexable_pages": 635,
+    "html_pages": 647,
+    "indexable_pages": 644,
     "noindex_pages": 3,
     "sitemap": "https://zeusk302-png.github.io/cs-ai-classroom/sitemap.xml",
     "google_search_console_verified": true
