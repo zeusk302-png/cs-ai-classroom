@@ -8,11 +8,11 @@
     "ja"
   ],
   "korean": {
-    "authored_units": 833,
-    "authored_subtopics": 2775,
-    "reviewed_units": 829,
-    "reviewed_subtopics": 2762,
-    "rendered_authored_units": 835
+    "authored_units": 837,
+    "authored_subtopics": 2788,
+    "reviewed_units": 830,
+    "reviewed_subtopics": 2766,
+    "rendered_authored_units": 838
   },
   "courses": [
     {
@@ -1177,11 +1177,11 @@
       "course_id": "digital-logic",
       "folder": "10_digital-logic",
       "manuscript_sha256_digest": "fd916b3eacd44194dffbc144b44061ed4a9af71a11cf832da5cbe5d0d3c7f15d",
-      "authored_units": 13,
-      "authored_subtopics": 52,
+      "authored_units": 14,
+      "authored_subtopics": 56,
       "reviewed_units": 13,
       "reviewed_subtopics": 52,
-      "rendered_authored_units": 13,
+      "rendered_authored_units": 14,
       "units": [
         {
           "unit_number": 1,
@@ -1305,9 +1305,9 @@
           "source_sha256": "d8d3bd1a2b95c7a9b7d5f1670425d4ba518779e37e269650b4c2e82aa9fd00b8",
           "subtopics": 4,
           "reviewed_subtopics": 0,
-          "rendered": false,
-          "rendered_content_matches_source": false,
-          "included_in_public_korean_counts": false
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
@@ -1599,12 +1599,12 @@
     {
       "course_id": "data-structures",
       "folder": "13_data-structures",
-      "manuscript_sha256_digest": "3d933cad06d203a5c89616f788249ab2bebf28fb1dfd28bab98f16a37c60268c",
-      "authored_units": 13,
-      "authored_subtopics": 39,
+      "manuscript_sha256_digest": "817abaf2ab6d351cf6fa19782abfe12fca6a6c848c5abb16340446d85bfff876",
+      "authored_units": 14,
+      "authored_subtopics": 42,
       "reviewed_units": 13,
       "reviewed_subtopics": 39,
-      "rendered_authored_units": 13,
+      "rendered_authored_units": 14,
       "units": [
         {
           "unit_number": 1,
@@ -1722,17 +1722,26 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 14,
+          "source_sha256": "545ec5beec7caff8917af21ee3c9017f372051898d2c222f90ae2c9b71c19c21",
+          "subtopics": 3,
+          "reviewed_subtopics": 0,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
     {
       "course_id": "architecture",
       "folder": "14_architecture",
-      "manuscript_sha256_digest": "1a678291d45d12a3312b413baa3a7c80ca50e8918b149649a957ff0637aec5be",
+      "manuscript_sha256_digest": "648eb6211dcfda3821f2691928cf40c1d8e264f62065bbb9c9d9d6ad96adffce",
       "authored_units": 14,
       "authored_subtopics": 56,
-      "reviewed_units": 13,
-      "reviewed_subtopics": 52,
+      "reviewed_units": 14,
+      "reviewed_subtopics": 56,
       "rendered_authored_units": 14,
       "units": [
         {
@@ -1854,9 +1863,9 @@
         },
         {
           "unit_number": 14,
-          "source_sha256": "6377d71a46d4c5bd461abdba1ca6f3b7de80be3be1ec9e483921c45c1ecb8b31",
+          "source_sha256": "228843ecf698265ea84573690e3e50187752941837725ff3e363802a341c6e1b",
           "subtopics": 4,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 4,
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
@@ -2004,7 +2013,7 @@
     {
       "course_id": "systems",
       "folder": "16_systems",
-      "manuscript_sha256_digest": "13f91c9a0f845d7cd7b4765fabfc1b5b24bd09a3b9d2a52ccb9cafd9fba62778",
+      "manuscript_sha256_digest": "cf070c18905016e0d82ca6b4e20baf8cc8045c7801b16cd1a1f3d58ba49ae0c5",
       "authored_units": 13,
       "authored_subtopics": 39,
       "reviewed_units": 13,
@@ -2130,7 +2139,7 @@
         },
         {
           "unit_number": 14,
-          "source_sha256": "a2f34ce6938f89dd969541b721d85dac22da16302a3c8a18786fd4577385386d",
+          "source_sha256": "804581d5fa3138a791aa5bfe40738cec6af38c09dcb3614b8615e51b7863802e",
           "subtopics": 3,
           "reviewed_subtopics": 0,
           "rendered": true,
@@ -2142,12 +2151,12 @@
     {
       "course_id": "systems-programming",
       "folder": "17_systems-programming",
-      "manuscript_sha256_digest": "a2233337db298783458af9544b9dc86d7c048838120431a48948d136300d3db7",
-      "authored_units": 13,
-      "authored_subtopics": 39,
+      "manuscript_sha256_digest": "cdeb680782ddf6cb9bcef30fd771e04bda770448cac7a69cb321571bcbb7c6c6",
+      "authored_units": 14,
+      "authored_subtopics": 42,
       "reviewed_units": 13,
       "reviewed_subtopics": 39,
-      "rendered_authored_units": 13,
+      "rendered_authored_units": 14,
       "units": [
         {
           "unit_number": 1,
@@ -2262,6 +2271,15 @@
           "source_sha256": "978375120aaa245af7692e23a3be081c3ff1a63c01507a8be24225e3eaa1f893",
           "subtopics": 3,
           "reviewed_subtopics": 3,
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 14,
+          "source_sha256": "61af78ff1b6248b63fe85a34ceff41dabdd51f4dbf0fef1b51c7a454f1913f23",
+          "subtopics": 3,
+          "reviewed_subtopics": 0,
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
@@ -5310,9 +5328,9 @@
     {
       "course_id": "parallel",
       "folder": "43_parallel",
-      "manuscript_sha256_digest": "9a7213036cea84af0d2a29bbc349c8e0077f1948f794ee71755317f85de7be6e",
-      "authored_units": 12,
-      "authored_subtopics": 36,
+      "manuscript_sha256_digest": "600b9c081a1049af4acca8aa1e1b20be3af494a097f6713db60638f05dcf55b6",
+      "authored_units": 13,
+      "authored_subtopics": 39,
       "reviewed_units": 12,
       "reviewed_subtopics": 36,
       "rendered_authored_units": 13,
@@ -5427,12 +5445,12 @@
         },
         {
           "unit_number": 13,
-          "source_sha256": "ef202437388619ce88e054369dac1af9b137e4aff00271aecbdd83a833db0373",
+          "source_sha256": "3483c26d90111182b0913edfb96da4f1a3c88a21724dfd5a8a8282f6c076ef5f",
           "subtopics": 3,
           "reviewed_subtopics": 0,
           "rendered": true,
-          "rendered_content_matches_source": false,
-          "included_in_public_korean_counts": false
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
@@ -8296,22 +8314,22 @@
       ]
     }
   ],
-  "public_file_count": 1333,
-  "html_file_count": 1194,
-  "checked_local_references": 23659,
+  "public_file_count": 1336,
+  "html_file_count": 1197,
+  "checked_local_references": 23722,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "3d3431a30a8a5440cb5e7ce9053add955e53e62ecd1c8491931c3fee135e79dd",
+  "public_bundle_sha256": "44e56f0173d285060888db94db738674f2e07486bb80cce0809c00b938e91e45",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
   "deployment_status": "artifact_built_not_deployed",
   "seo": {
-    "html_pages": 1194,
-    "indexable_pages": 1191,
+    "html_pages": 1197,
+    "indexable_pages": 1194,
     "noindex_pages": 3,
     "sitemap": "https://zeusk302-png.github.io/cs-ai-classroom/sitemap.xml",
     "google_search_console_verified": true
