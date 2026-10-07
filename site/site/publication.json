@@ -8,11 +8,11 @@
     "ja"
   ],
   "korean": {
-    "authored_units": 735,
-    "authored_subtopics": 2440,
-    "reviewed_units": 675,
-    "reviewed_subtopics": 2229,
-    "rendered_authored_units": 735
+    "authored_units": 737,
+    "authored_subtopics": 2446,
+    "reviewed_units": 677,
+    "reviewed_subtopics": 2236,
+    "rendered_authored_units": 737
   },
   "courses": [
     {
@@ -1548,7 +1548,7 @@
     {
       "course_id": "architecture",
       "folder": "14_architecture",
-      "manuscript_sha256_digest": "c50123347301696af74c461aaef3fb341f8cc327abc76e56aae411af715426c6",
+      "manuscript_sha256_digest": "97062dfc9476e0ef7e57e1506b15f4f0f25353be087a0ea4d053f5f26b5d8e59",
       "authored_units": 11,
       "authored_subtopics": 44,
       "reviewed_units": 11,
@@ -1653,6 +1653,15 @@
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
+        },
+        {
+          "unit_number": 12,
+          "source_sha256": "fc3ffcc325ed049dbc3a64147f88b6c7b47b16b3cf3d107f8fac9a619efd3d9d",
+          "subtopics": 4,
+          "reviewed_subtopics": 0,
+          "rendered": false,
+          "rendered_content_matches_source": false,
+          "included_in_public_korean_counts": false
         }
       ]
     },
@@ -2917,11 +2926,11 @@
       "course_id": "software-engineering",
       "folder": "26_software-engineering",
       "manuscript_sha256_digest": "3e403d7da44280626428f38336abb35fe89915ae7f2bca6378f7e42c1ed11e37",
-      "authored_units": 13,
-      "authored_subtopics": 39,
+      "authored_units": 14,
+      "authored_subtopics": 42,
       "reviewed_units": 11,
       "reviewed_subtopics": 33,
-      "rendered_authored_units": 13,
+      "rendered_authored_units": 14,
       "units": [
         {
           "unit_number": 1,
@@ -3045,9 +3054,9 @@
           "source_sha256": "3fb8f51bfbee866db672ac1ff6d9c3d67f20fc05e22e67a0876a9512ce2ea50c",
           "subtopics": 3,
           "reviewed_subtopics": 0,
-          "rendered": false,
-          "rendered_content_matches_source": false,
-          "included_in_public_korean_counts": false
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
@@ -4218,11 +4227,11 @@
     {
       "course_id": "physics-2",
       "folder": "39_physics-2",
-      "manuscript_sha256_digest": "62faa6b86127e0cb34355fe6b70d65414dbc2498b6b54053e5c456a41cf5441a",
+      "manuscript_sha256_digest": "167ed86d6fd89424e97600810409e7ab155039444511cc44ce6e4a6c09c52dbe",
       "authored_units": 11,
       "authored_subtopics": 44,
-      "reviewed_units": 10,
-      "reviewed_subtopics": 40,
+      "reviewed_units": 11,
+      "reviewed_subtopics": 44,
       "rendered_authored_units": 11,
       "units": [
         {
@@ -4317,9 +4326,9 @@
         },
         {
           "unit_number": 11,
-          "source_sha256": "01fbb3c324a8054fe856cd4f956b0e7b73419c323b77188284af2c47a6320f40",
+          "source_sha256": "18e548f366828f4e65ab520d820dba2536f78f5a67016d677a94f9fde4f10fb4",
           "subtopics": 4,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 4,
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
@@ -4884,11 +4893,11 @@
     {
       "course_id": "realtime",
       "folder": "45_realtime",
-      "manuscript_sha256_digest": "90bada81d7e08eb23b1bc8217ca065be5d365e210c46f147df3b50c76b0d76c3",
+      "manuscript_sha256_digest": "15afeeed67696317c8544b92384e7199758be3adb330c64bd4e36c1b4082b931",
       "authored_units": 11,
       "authored_subtopics": 33,
-      "reviewed_units": 10,
-      "reviewed_subtopics": 30,
+      "reviewed_units": 11,
+      "reviewed_subtopics": 33,
       "rendered_authored_units": 11,
       "units": [
         {
@@ -4983,9 +4992,9 @@
         },
         {
           "unit_number": 11,
-          "source_sha256": "6e2935e80ca3474acb3a16d5845c5f1e3d9cb1399d6d816a65e5ce2f653619f7",
+          "source_sha256": "61195ea23aa81169e728775fb45f174910bc9d1f18b47d92513b0c503678e747",
           "subtopics": 3,
-          "reviewed_subtopics": 0,
+          "reviewed_subtopics": 3,
           "rendered": true,
           "rendered_content_matches_source": true,
           "included_in_public_korean_counts": true
@@ -5329,11 +5338,11 @@
       "course_id": "vision",
       "folder": "49_vision",
       "manuscript_sha256_digest": "ca5889e95d6ced0df58e68a4c5c8b3e8a268efef86e840d1d8c59b15ffe31870",
-      "authored_units": 10,
-      "authored_subtopics": 30,
+      "authored_units": 11,
+      "authored_subtopics": 33,
       "reviewed_units": 10,
       "reviewed_subtopics": 30,
-      "rendered_authored_units": 10,
+      "rendered_authored_units": 11,
       "units": [
         {
           "unit_number": 1,
@@ -5430,9 +5439,9 @@
           "source_sha256": "7f75e026d8e2c5c843e5b3dc20818a39a4f58172b71b1f1058710f61d25e2ef1",
           "subtopics": 3,
           "reviewed_subtopics": 0,
-          "rendered": false,
-          "rendered_content_matches_source": false,
-          "included_in_public_korean_counts": false
+          "rendered": true,
+          "rendered_content_matches_source": true,
+          "included_in_public_korean_counts": true
         }
       ]
     },
@@ -7405,22 +7414,22 @@
       ]
     }
   ],
-  "public_file_count": 1233,
-  "html_file_count": 1094,
-  "checked_local_references": 21559,
+  "public_file_count": 1235,
+  "html_file_count": 1096,
+  "checked_local_references": 21601,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "7c81d6073fe79fe977a45247938dfa98a6eb89f1c1490ce93237ddddc77c36b8",
+  "public_bundle_sha256": "e1a86fe0d4b55d16b14da943191d4e76e3c2900e5430df78c0cf6710aa488ace",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
   "deployment_status": "artifact_built_not_deployed",
   "seo": {
-    "html_pages": 1094,
-    "indexable_pages": 1091,
+    "html_pages": 1096,
+    "indexable_pages": 1093,
     "noindex_pages": 3,
     "sitemap": "https://zeusk302-png.github.io/cs-ai-classroom/sitemap.xml",
     "google_search_console_verified": true
