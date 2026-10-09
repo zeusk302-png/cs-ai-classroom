@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1355,
   "html_file_count": 1216,
-  "checked_local_references": 24121,
+  "checked_local_references": 20689,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "2df57ca1c74cdac9fcab99249a2b157981d6919ef789efc13ecd92cefc777377",
+  "public_bundle_sha256": "407110057184ec7fc8c2f4d9581d6e457eac4f8c30938a12fd8876c9e5494a80",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
