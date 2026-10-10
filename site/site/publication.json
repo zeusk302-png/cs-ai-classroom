@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22677,
+  "checked_local_references": 22689,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "5d1e519e0f072ae6bc3c218feb104c18b44e2cd356daf178f8870617df21b761",
+  "public_bundle_sha256": "66e47d8d0a16dd4284c5893fa27124fa6aa4415f68091b136e9b330b22323702",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 994,
-    "rendered_subtopics": 994,
+    "reviewed_subtopics": 1000,
+    "rendered_subtopics": 1000,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10774,6 +10774,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "file-structures",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "f146b17a06473ad2b636ce91148172ca2d2cfbffdaff17b48b6b734c1fe91d9b",
+        "base_source_sha256": "3c590e6e0b2744814dd8fc70c27a4f9a61e7bd2a3593c8260e013fba475e7555",
+        "review_sha256": "98db03b4fd22691151f7dbef801c7f42037246e574333b2bfca1c31fbdea76a9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "programming-languages",
         "unit_number": 1,
         "subtopics": 3,
@@ -10890,6 +10900,16 @@
         "source_sha256": "ff9d8de2c1233fa3c7861ce054631f78f99fd15a8b87db457bdc5c967bb192da",
         "base_source_sha256": "52bb93e9b38786133a5f9b9ec750a4215bef138bd76cc06c6f2362824cede741",
         "review_sha256": "2bead5aa7ab086bff1a57d9f3a017593900091e5f86bfbe4cd4a23634a5f8d7d",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "programming-languages",
+        "unit_number": 13,
+        "subtopics": 3,
+        "source_sha256": "283378e15dc90fa59bcce5fb1e5567feb0a1dd6b03541a2c2d80f54bdf6994f0",
+        "base_source_sha256": "761c871214696422b1c91b05d439fc0b4c6733f6ca41512028d9478ae27d2ac8",
+        "review_sha256": "ee8080b6895acac8805d3a17dcbfe7859c39a228318c4c013666c21884ff1117",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
