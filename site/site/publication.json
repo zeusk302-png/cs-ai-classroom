@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22383,
+  "checked_local_references": 22395,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "dfcb9466af913f8a8aabe138336bbfc1c15cc0e13477e34010464974476b3a84",
+  "public_bundle_sha256": "22fc5d3d50541629085d47e91ba7e7fadf522fb6a24bc1ed64fa8132308ee9d7",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 847,
-    "rendered_subtopics": 847,
+    "reviewed_subtopics": 853,
+    "rendered_subtopics": 853,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10504,6 +10504,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "file-structures",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "984b31e3a5cebf4a02e69e84aeef61b995c28c0993f2835cedb1ff4241ae000b",
+        "base_source_sha256": "9fbbd1b6f976556d2414bd461a52c407a90155375d308325f858b6b036e34efd",
+        "review_sha256": "2c80b8cc5e180efb740d5262ef879289c9487be55c5c6625223c23a118550c67",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "programming-languages",
         "unit_number": 1,
         "subtopics": 3,
@@ -10730,6 +10740,16 @@
         "source_sha256": "37dc71fc16394e043d1f191d2045e84921491cce948992dff60e2d0f941080bc",
         "base_source_sha256": "502405da57135daea7d0db3460ad4bf04e14e61024874ba1146c134db428ae55",
         "review_sha256": "f6ed2756187b714c8941bb169ba70612516b5418ea5065bc1a8f9ed97253da7b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "mobile",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "369887e71f1a11106942ff4002660e06666a45ed113e594150d417a59f5702ce",
+        "base_source_sha256": "96e6214fbb58bef568f245ae4f3aa9f8362a2c4093ee51950383065571a50193",
+        "review_sha256": "a827b60abbc1122f8856b5aa2cd6d9948899434d4d9c81c4dfecd27508d59367",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
