@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24097,
+  "checked_local_references": 24111,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "ea92147b039a23c85fad9f604e98cb854a40bb96e4baf9fcde8f0462d590ed58",
+  "public_bundle_sha256": "3bfa17f28fcb81a34df8811a993ee66cbde58dc1f5c9403126bbf5ad47833290",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1704,
-    "rendered_subtopics": 1704,
+    "reviewed_subtopics": 1711,
+    "rendered_subtopics": 1711,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12744,6 +12744,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "functional",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "1fec0959524be0765238bda6770aa06919cc43c291f694b091a16c39f438345f",
+        "base_source_sha256": "bdd204c79c1ca7a0c06c99f8167a3a44a9bfbd3ac34a60c47b1da2470e2cb913",
+        "review_sha256": "9e29d49adbcd583be7434f141999f43053caaddd7ad8a6c6cff44ad867433e3c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "optimization",
         "unit_number": 1,
         "subtopics": 4,
@@ -12890,6 +12900,16 @@
         "source_sha256": "0a0a9bd948aa17330630404708fab8d69f4a3a634f5075757370c3080d3c2b6f",
         "base_source_sha256": "e201318995a928c3fe1a18cd03e9dc4749c465cc2685524b6b5f61ced5bc67d7",
         "review_sha256": "a6c85446b4ef9768e3f74fe778cb7de4fb32e843c2c6d76fd18e306d942f590e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "physics-2",
+        "unit_number": 11,
+        "subtopics": 4,
+        "source_sha256": "4cc06b60a82569c9fc8336a36eb100f8e7cb08e50fb88a79d433c632dcd367c5",
+        "base_source_sha256": "18e548f366828f4e65ab520d820dba2536f78f5a67016d677a94f9fde4f10fb4",
+        "review_sha256": "90f489cbbdd1a0fe851c8b6f0697baa4a5f3486c4c21451ecdab02fd1e987197",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
