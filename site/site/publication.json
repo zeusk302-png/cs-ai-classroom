@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23223,
+  "checked_local_references": 23231,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "bab598fc5d83dcde615f4aa32367c9cdbb7f2e0722b1bdacff05456608fa3c04",
+  "public_bundle_sha256": "4ddbe575b8a51821f20f99d17bf0130f71d95c125e611fc5f99be6ff7944cdc0",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1267,
-    "rendered_subtopics": 1267,
+    "reviewed_subtopics": 1271,
+    "rendered_subtopics": 1271,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11720,6 +11720,16 @@
         "source_sha256": "e58c853398003af91ee278d9fe6b06611170eca71dc5c3e098bc1ec1ff5decf1",
         "base_source_sha256": "4ce5223866cb35b4a30db410fb6c54319c9ff9125d4f5bc136724c5d76160d36",
         "review_sha256": "a5c378be4de325a7175b1fab2f63c9db4f06193d68ccc84f8a0309a8308c42ed",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "java",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "5e5325712dbe3c2931f6df2facfdb8de9906037502f1b5df641a9e39c1825e2f",
+        "base_source_sha256": "3ccf24cd14a8b763bf5508510750e71c44f1956dd48b2fe906638b452c29a80f",
+        "review_sha256": "3cfc1a6700d63ece95757febb9d968cc28dcbeadb82f5bc59028da0b8cc8514d",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
