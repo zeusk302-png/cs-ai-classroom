@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23061,
+  "checked_local_references": 23067,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "64c1a134541c8fe031f32c173513efde2193bf8a2172e551ab9a4215ececac8a",
+  "public_bundle_sha256": "641ef6cb61c6983edc7d3ae5ff36279d564b315dbbc8626f422f981c58b57276",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1186,
-    "rendered_subtopics": 1186,
+    "reviewed_subtopics": 1189,
+    "rendered_subtopics": 1189,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10950,6 +10950,16 @@
         "source_sha256": "b121aa20ae355c44a1d07ae585c4866392cbedfa0d5a6e0609747c2ab4f3da05",
         "base_source_sha256": "3c0399c13686d8e78d2cfe2bd2cca390cc55274df40b8dbd95b6fcd480ae65b4",
         "review_sha256": "81eed3656c28b181dabe0a2dbfa245f37e3208962c57569655b6944e2b3b4832",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "os",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "58409411cfa7e3a01cff75d4b702f3e0b44b73788820fa376aab295f0d58599f",
+        "base_source_sha256": "42d44e5364bd2a4bdf844d8d5b36fa774578326c89ac251aa7d0c330306bf2a8",
+        "review_sha256": "64d6683a8dab0ef7e0baa486b47adb2291c4b0dc24a41bd8b1b05f045e8e3054",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
