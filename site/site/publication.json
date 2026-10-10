@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 20879,
+  "checked_local_references": 20885,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1ccfd048c35876d3fa8c7cc6a8a8157026e5c1c12b684061bc32fb9e066422ca",
+  "public_bundle_sha256": "d9ce284799b5aa8c6cb9218357dee3da924bdc67671a6bd1e5aba21ac41b45d2",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 95,
-    "rendered_subtopics": 95,
+    "reviewed_subtopics": 98,
+    "rendered_subtopics": 98,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -8790,6 +8790,16 @@
         "source_sha256": "9b6ca399778b97305b1197b6d8540eb526a315f3b46999d5b68c1366d364663e",
         "base_source_sha256": "46635ced0dc69fa95304f00cdba8585db8093bebfd59ef27aff6d2985cc79030",
         "review_sha256": "38b275b41d4d70aa4a833b45a37f2c6460edd2ccd4a3b8f3d4f57b4dbf5db4f1",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "web",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "c5051136a27e42ee5abe87fa88dafe39bd839687dd0832fabf3b42a2193c145c",
+        "base_source_sha256": "ef2e60c34efe63083bd12c5781fccb96c5e8dc042c4b219d2349d45839003cb7",
+        "review_sha256": "44d6022689722166180cfc9dfcdf97c881540b2f84da29e0121c7072a3598154",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
