@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22257,
+  "checked_local_references": 22279,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a20eee051f063a7365081b922957ed36e958be6b0f84182f54d1c43a0b857229",
+  "public_bundle_sha256": "4bc9bc5a1baaddd4a530826db464cdf7dbf5078288866d2a31e3c4e7902bd450",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 784,
-    "rendered_subtopics": 784,
+    "reviewed_subtopics": 795,
+    "rendered_subtopics": 795,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9515,6 +9515,16 @@
       },
       {
         "course_id": "linear-algebra",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "666ffb8a0d5045a1caa0a3797ba627ccc9993b70dc6b310521a8905967117dac",
+        "base_source_sha256": "87c2378d0a14cb38a6e9abbf671a43e0cd492874d26f8ecfe4383f8e9339dd7b",
+        "review_sha256": "d07e97510d8ec1bace86d2ad65be97e851149cf82fd36da5573a4bdb091648a0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "linear-algebra",
         "unit_number": 11,
         "subtopics": 4,
         "source_sha256": "4b4a07ceaef95f2094bbd71af29cc0e23ea09b75f6ac99dd39efa37c19df161a",
@@ -10174,6 +10184,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "architecture",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "03f69311ce024a45e34be546a179ef266c58cb551a4095edbbd9cb3692dbea90",
+        "base_source_sha256": "5844328a868157bff3408f9d627daec7a452226fa24e81af3cd0208132470ac4",
+        "review_sha256": "093b861b359d960e21834ff3fe29e03ce7efcfdecaabb075dc4bcb990a9215ae",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -10210,6 +10230,16 @@
         "source_sha256": "1d4df1725b730fc2cbaa67738e1006f89c0ab5f9177053e9601a42b177b98979",
         "base_source_sha256": "5793595f8f6560dadbec19450767bc3ed06b48827dbcca092878dc1f7670b0b4",
         "review_sha256": "a918e2b697b1a224c487b0579e4f79ae4a2b8cbd5bb10ba00b2c8de1ebe6c526",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "systems",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "2d8b09785cfe348f52a07c8276c5783d59ae20b50356d924af05c5d1b6e94b9b",
+        "base_source_sha256": "908439c8050e88563b69143bef77bcde1bbf47ee3665bd370e1fe9c0888f1e90",
+        "review_sha256": "356db7d228331f0fddd7e005b91d09011a37e99a1bfad496b2a7e9ee2f19ec2e",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
