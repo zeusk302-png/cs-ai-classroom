@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21267,
+  "checked_local_references": 21275,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "5e71a25cf7756b107addd5d431fbc772a9a1e897ca4ec00d39d2c2553777e1c7",
+  "public_bundle_sha256": "2757f2129d5ea740cfa356f5bbbb1d56def1b3fbab80848ab3a03f06e167e292",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 289,
-    "rendered_subtopics": 289,
+    "reviewed_subtopics": 293,
+    "rendered_subtopics": 293,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9080,6 +9080,16 @@
         "source_sha256": "348ad18b122c221a6dc20cc374b9c3064ccfcdb5fda012a8a2c8670bb71d2280",
         "base_source_sha256": "d2492097c62dba42655a76a79a417fa3e38477325e5334d73b75508a16d71771",
         "review_sha256": "27fcc7e77234d34ce8f4a525841025e5655489779a7a09706f4da36e5a0cf2bc",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "c",
+        "unit_number": 6,
+        "subtopics": 4,
+        "source_sha256": "8964508dbd0b2d20a63892a1e74708c781810e5f66a0e511845c9f04839d4bc3",
+        "base_source_sha256": "2c0dc5c869b0a14cedeaec31fb087b2f0bd42afe6e1b372be7419c60c00ba83d",
+        "review_sha256": "77500e84738879ade9d5438486707ee9e5fbeca3c532760826ea5a35dc1d0cbf",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
