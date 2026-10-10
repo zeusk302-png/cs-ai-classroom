@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 20949,
+  "checked_local_references": 20999,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "561c0c57611a92e44e84ef0336395915a3486c54eb61f34ba98b86d00dd7ddc0",
+  "public_bundle_sha256": "e43a8351c7d04ae48e258a64059ef2c79111896b4aa03c667abf2d442838f8c5",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 130,
-    "rendered_subtopics": 130,
+    "reviewed_subtopics": 155,
+    "rendered_subtopics": 155,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -8664,6 +8664,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "python",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "477713e70182fd4cde849fc6e05cfdd05f2fe3b96c8ff32ff83a09431834600a",
+        "base_source_sha256": "d89c3fa9b1c7d36ed7747f3918d441d19d7b227da33d46cc634a753983d70d4c",
+        "review_sha256": "790a9ff26aaf66854daa22d910697cc722789c7fddf0013fdac899e7047f7f74",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "python",
+        "unit_number": 11,
+        "subtopics": 4,
+        "source_sha256": "b8c97327c88192f6b2d3454b9b87ba1721d527e08d887e97894701998f5e7bb5",
+        "base_source_sha256": "8211e996f9314432c8b9b38e86d1ff3811828d2362d1b50f94b39440358494a4",
+        "review_sha256": "9745ce62030546d4a37244be5dc97c4b336af724ac6c59bd66bf380df9160518",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cs-intro",
         "unit_number": 1,
         "subtopics": 3,
@@ -8760,6 +8780,36 @@
         "source_sha256": "b5cd32fa63754cb4aa3b59649b9ced6fa53c2328656d5c8a187dcd3cb8b6eab1",
         "base_source_sha256": "4d05d006b284de12bdc2f31c746555622c4789fb5fcac791ca93fa56c4ed5210",
         "review_sha256": "f4c1e3da66e90426fc267f21482b663fa8100f17f3cd960f07af465c3d5b8a29",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cs-intro",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "494574fbd926c331f3a5e5d3001849f134c95ad981ebf2bfb5499f0d61e1a2fd",
+        "base_source_sha256": "fe5ab22d0016d3d93d9145551b6fae6cacb0e47da3f3cc623aa29950061c004e",
+        "review_sha256": "7a051a7a8ca4d006e29a50ece4069d3fa0adb312f779a3cd1dee012f3f75be9f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-1",
+        "unit_number": 1,
+        "subtopics": 4,
+        "source_sha256": "b84dcba151cb92b98754a5453a0e6ea80db64c229232940eee963c829081e790",
+        "base_source_sha256": "1e89b3e184eb39e6cd2ce2d70d231e252c0bca4d1fd32f7ea2300fa3ce67e6f0",
+        "review_sha256": "2bc366184100c3f80dbdf752b4c4734b339f0a5c40c54ecb531b46d3cb41d409",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-1",
+        "unit_number": 2,
+        "subtopics": 4,
+        "source_sha256": "19ddca7378ddabed572c9e3b61ddb9c76358042cbd1d763bdcf7b523948ceb7d",
+        "base_source_sha256": "6a5ce60a86993830b2151bddc78fae956637cde4e477db8b841754055c5054a4",
+        "review_sha256": "d97dd179ff67706148107fae017abec6d0ed1e745c8ff68afd558f0b2d20ca59",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -8890,6 +8940,26 @@
         "source_sha256": "8114cd0f7dabee1d83a6db85737312ff9209e0f63a47d052944f2b7d31c8444e",
         "base_source_sha256": "4c3b48987876f319ae222b1a63d18c054a99369aaab81910fe2873eb58d361e3",
         "review_sha256": "95dbd581597701615f1cb8c03f65cdc80a2b669da7415488ba5876516187a62b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "web",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "2bc345c56793ebbf56a742341e6dbb0ccb668dec597b63e557872b8947a2de56",
+        "base_source_sha256": "e5572705fe95c6efc637a8f8cea2ce91f22163eeb3f1ada96980b4149b395d1a",
+        "review_sha256": "0339f84e4701715c62a8b4f16ea83d6ad40fe547c19724f41bc7a6cc01f914b6",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "web",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "7cce1e56636a7c107243b25b238eec726611c3d49226a1bb282feedc20a17f83",
+        "base_source_sha256": "b5e563d2d87e110588402195a5f2533cc2e8398167ccb7d7c562dc099a5a6103",
+        "review_sha256": "f6c3f78e2f1c79d0fce28a850b2194b00c6492ec5228a442ee1aa47d2410fb2e",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
