@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21275,
+  "checked_local_references": 21307,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "2757f2129d5ea740cfa356f5bbbb1d56def1b3fbab80848ab3a03f06e167e292",
+  "public_bundle_sha256": "82a25a0ae64f5ee79fa51e1cbe3afad5b19d1eda0a35acd7c8ad48b00461cb9c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 293,
-    "rendered_subtopics": 293,
+    "reviewed_subtopics": 309,
+    "rendered_subtopics": 309,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -8640,6 +8640,16 @@
         "source_sha256": "6a671536bb687350ade1942daff2e49950dfa7c0bf7c5dd231734b18fcbd0d2b",
         "base_source_sha256": "8095cbc0d35239608eac93386e6dcd03a3aa1ffb22c12034962a8c8724b32191",
         "review_sha256": "896f21ad50dec3861aebef2559b48fa87d440fb4b9d22961b0a3d6dfceb7461f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "calculus-1",
+        "unit_number": 14,
+        "subtopics": 4,
+        "source_sha256": "91ff418ff8916150c55a997f983eac8b6319a0fd801a0584e5b45205a31260a9",
+        "base_source_sha256": "56afe2dbec35f6dcd3e25aa6e412bc4c5957abc14664c8ad48049bba7a635d21",
+        "review_sha256": "eb343354b0011fdd1412b19f94b765d9b768b4efba2590cd06c11b2449d261d9",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -9034,6 +9044,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "discrete-1",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "7fd3e31037ac4e1d63fa1833fdeec6907c611197854666865b787b6bb6463899",
+        "base_source_sha256": "fe7aae3a1691b4a2bed7bcefe2eb78deb6f3ce443fd42e174f1bac02cd9796e4",
+        "review_sha256": "d023720ee0d3f7e3fec0510921035349df3c0b030aed09c64b5c0fcb647cdcef",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "calculus-2",
+        "unit_number": 1,
+        "subtopics": 4,
+        "source_sha256": "4aa38aa6371e428603c58c1ece4c4d46b4d483eb07e574b47be6a586360d72e0",
+        "base_source_sha256": "5535788766d224560ed859cf8d13de10dcecc9606dfffa1daa73a55a37725ce0",
+        "review_sha256": "f1ddd514d8000ee56f9cba04c404da56930ecc29c1076e717ec8413a0364c949",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "c",
         "unit_number": 1,
         "subtopics": 4,
@@ -9160,6 +9190,16 @@
         "source_sha256": "fb58bd35ca6701bae944f388fbad806d83069fa937a85034a9be772d481def0b",
         "base_source_sha256": "4ddab23019f6c5fadf7b404f4604c70c1198d4cbc8aa75f0c66c9da46485a1c2",
         "review_sha256": "99a1e32802f807b025b9d1540b0fe5a3d072e0f01e57b8cd83315669b2e0138b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "digital-logic",
+        "unit_number": 7,
+        "subtopics": 4,
+        "source_sha256": "9f2ad574ef5b1c857e80216110a93b2986d78ee423bbbc8d71bf79bfd114131e",
+        "base_source_sha256": "d8f7cbb06221203b342d35b76b399885eb3f5d57070b97639a8151db2e1ab4b8",
+        "review_sha256": "15b26babf33cb12851e777f286b4d8383b6972c18ad776bdce6d595fc1a7cb1e",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
