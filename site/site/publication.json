@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21387,
+  "checked_local_references": 21411,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "c5407fb2e5d9aa5fd0a298832e79049a20eadedb8527d1d833d924319e3adce7",
+  "public_bundle_sha256": "8c4b343eed2f6dcd494e746eaac43a22244a6ee723e26aad792324e45540884a",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 349,
-    "rendered_subtopics": 349,
+    "reviewed_subtopics": 361,
+    "rendered_subtopics": 361,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9104,6 +9104,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "calculus-2",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "3edbd57cd9c61bfe9f03a7fbcfda15c9b415183f1f64c7fe3f58604ae9b63d27",
+        "base_source_sha256": "d330538a75ad2ab5e59b3c7cc8d4e329d11cd687e4a803d31349480cba142704",
+        "review_sha256": "c9fcd0451c9d1a40b3af7b8c2372c0d47623e2bc40ecd7f074a97dc7566027f0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "c",
         "unit_number": 1,
         "subtopics": 4,
@@ -9194,6 +9204,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "c",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "70884c43e07b833945ad1a913ae28ffc4950c4d649c277a1549cdcce42cda657",
+        "base_source_sha256": "83e250110937530a2a0cae345bd4867e64a11e2ef42b9ea0757be73319df0729",
+        "review_sha256": "193ffd8ff34aa6e5762d591fcc82c569b0e3c6e54af505fd68033d38fba04787",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "linear-algebra",
         "unit_number": 3,
         "subtopics": 4,
@@ -9210,6 +9230,16 @@
         "source_sha256": "e28cc72c839f42a56d673a38e148735d50c03496a1d10041da0273768a7dc7d9",
         "base_source_sha256": "2a03fa3ea5e92e2a6980e0ba00e218d325ef0e0a0c8c1da1c4b2147ae2cecf04",
         "review_sha256": "68bb24a9308268135bd44659c54d4ff3b33cc0c8c32cb7ee3110b4e5355df45a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-2",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "2bfcbeb85c07f453eca04e4bbaed4edabc3ac5374d7351adc104df155d86f93d",
+        "base_source_sha256": "fed7e5008b336598915d0efe3d40e76e86dac951ace5ca226c28c33641cb0dd0",
+        "review_sha256": "f283314c7a359f2eea9676043c105b1dc439f4c4e717cc5f6cb0835bc4ba8c27",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
