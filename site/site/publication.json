@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21835,
+  "checked_local_references": 21857,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "3a62875965e24846db5ba6698bb5edd16acf908534d4c2e89cc827bf64b6f90d",
+  "public_bundle_sha256": "8ff24e5ca1eb695b7270b642cb6ffe07c6d7da6e6c0bfe860cdbdfdea3d43d51",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 573,
-    "rendered_subtopics": 573,
+    "reviewed_subtopics": 584,
+    "rendered_subtopics": 584,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9224,6 +9224,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "calculus-2",
+        "unit_number": 14,
+        "subtopics": 4,
+        "source_sha256": "1720f74ceb54e7b378332267d15f09cbc8c07094df7ee1c3eb423ddaea59e4a5",
+        "base_source_sha256": "ead5edde84bad1d0f24005c46260da8253cb0a8ead27bb49e072e6f20ff99e23",
+        "review_sha256": "bfd6be6760e9601431112d0dfd918a4b24b5c1972026e9fff4f34d00fdc576b4",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "c",
         "unit_number": 1,
         "subtopics": 4,
@@ -9810,6 +9820,26 @@
         "source_sha256": "39064e61e877172e73039f27d85b60dc3b76d0ec274953d77b508cd9b5aa255b",
         "base_source_sha256": "a41f5aabf28b9701603f9a9e00eb670c75bcc7bc10bed8ef50669ef6eb6833b5",
         "review_sha256": "6fb18ba54385ddbc0d373bc795f8ac4c15e5df850dd00e8a86a3317a3f7542d5",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "data-structures",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "6416c388100a768291fb556a0aef600c0fb5479dfa7d26466e93e2c9f0a2b4e0",
+        "base_source_sha256": "3e32e2dab32cee3f4f3a0b7d87858d9838a01ca39788c1b293f924c572135baa",
+        "review_sha256": "b055e7490024e8a4b9c2d56cd0d9ac5fdf639c64ca4bc40252041a1825c34aff",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "architecture",
+        "unit_number": 1,
+        "subtopics": 4,
+        "source_sha256": "91c233182ae4d936ca68f5c4f131f734bbaa3205c2a8fccba301f819cfa9507f",
+        "base_source_sha256": "7280cb054363d331796a7f86d699193eff0cf8c882bf09d96979106910de9374",
+        "review_sha256": "305f3df2b59a26f19e9fcbbe8bfdb857a5ef292300e3baa09710f29cb1162467",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
