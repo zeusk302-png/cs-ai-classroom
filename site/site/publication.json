@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22417,
+  "checked_local_references": 22439,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "4011fd77ee087ff7d278ada81b3e79376e86108107f73c643d69a34276cee8c5",
+  "public_bundle_sha256": "9d79195dbf0f8159eb9d494f5da419fcf7ed823d2bc73751f3eaca9d56d2a7dc",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 864,
-    "rendered_subtopics": 864,
+    "reviewed_subtopics": 875,
+    "rendered_subtopics": 875,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9854,6 +9854,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "engineering-1",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "65b390c2c6a2631333f3469ba3ccb1c76a7e0f67ffab8bcc3cdcdbab8ca3b17c",
+        "base_source_sha256": "a309b21711dfad02471345700ab1c8abc12fcc89051897febb2d2e873a4f33d7",
+        "review_sha256": "b600d479613b3dec470c6f23baa5908747c761d968a294a3e7f06567226fd16f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cpp",
         "unit_number": 1,
         "subtopics": 4,
@@ -10284,6 +10294,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "architecture",
+        "unit_number": 14,
+        "subtopics": 4,
+        "source_sha256": "b92dfa44c5b6ec9b5460bad2c07d0fc85d9309e047701818caf87f636f68675e",
+        "base_source_sha256": "228843ecf698265ea84573690e3e50187752941837725ff3e363802a341c6e1b",
+        "review_sha256": "f78800f14f513e637f8da53e3dfb601fbef6069578030fdbead30b68e65002b8",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -10370,6 +10390,16 @@
         "source_sha256": "90f2fd08b5f334e5d2f5afb3cb5b3eaf9ca07ec96ee2f24c27ea86d6496593cc",
         "base_source_sha256": "b1e74bdd88a6a50f26173bf6c2290827eb3472caf148ea92d9326cd3f8cb6462",
         "review_sha256": "0c4a8811e04eda3365986663dbffa2ebe3f87bdb0951fbc5b7e2b5598c7f37c9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "systems",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "ed503fd1f83e32b8f6ec9dccea974e87b831449a819ff8a2254a13fb08169541",
+        "base_source_sha256": "b606490af4ae45045df7467fc3a26fc6a47bf94451632d32fef13ddf3f790c15",
+        "review_sha256": "8311295167e98f730b5b24bcff35bd631da9a8ee1c63f36c16bdd724ac0c5a6b",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
