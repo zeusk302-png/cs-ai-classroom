@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21893,
+  "checked_local_references": 21919,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "530b8375ba30aa432a36672d8bf7f65efe02b24828a26f2b06c89a3efef3795a",
+  "public_bundle_sha256": "fade8466199334decaa78dc34090a9fe6c5264eb6a9cda5255a329e7d820930f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 602,
-    "rendered_subtopics": 602,
+    "reviewed_subtopics": 615,
+    "rendered_subtopics": 615,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9774,6 +9774,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "cpp",
+        "unit_number": 12,
+        "subtopics": 4,
+        "source_sha256": "4363523297aa7b81f592498e2dc64d2cfaaef2fcbf8c3ddc022f6dbb112e5ff2",
+        "base_source_sha256": "c098fa95367d27a49077160aaa12338604c7d032f0a3da9c7f50ba964565c47e",
+        "review_sha256": "775afa794c546f655a4ae7a71bf07ca3c6e97cc2fd1bfb1fefa2a6cf2aec3353",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "data-structures",
         "unit_number": 1,
         "subtopics": 3,
@@ -9860,6 +9870,16 @@
         "source_sha256": "2e6178b89e11262a249b47de750711d7cc7e0847312e18785bc638daced33301",
         "base_source_sha256": "468b31597bc5f43ae1cdafc99a91c5b4ed60aa101b1bd2cb146f8597d8e90d68",
         "review_sha256": "4543565cbd5e19ef0fde186cc88bbba24e55898873352f6625f01c2ba7d0f109",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "data-structures",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "5ba0f200d792d43b4868404a809761461becf54ac7b9a387f36b3ae397aa795e",
+        "base_source_sha256": "3ee985e73c9d3f5f6be6ef6d7f1b5409789a976c11237aa27603b5beac81e561",
+        "review_sha256": "3bc08eaf9902d3bd4add89dc9b89085d71d4c10954331f8e792760743440172e",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -9975,6 +9995,16 @@
       },
       {
         "course_id": "databases",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "1ce96ec484d1e13d9b3f692899ba08c4c960e0cfdba48b2c56b23c95ce8fd625",
+        "base_source_sha256": "9c343033c2556873cabad6361dafacb2058d77dedc66b49f14e890fb88d068a6",
+        "review_sha256": "fa44bb96d7c1c1afcfe79b8bb729a99f973e286202291cf7d490bfc322245aff",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "databases",
         "unit_number": 11,
         "subtopics": 3,
         "source_sha256": "a3439a32ebcc5ce24bf02323c9d00770f735f7789789dcad047c1b01e676fec1",
@@ -9990,6 +10020,16 @@
         "source_sha256": "30c08c2d94f9dd3329f18c1823f58e7a4c7a8b1c3d5f0e6b697bbe8b88a99954",
         "base_source_sha256": "1e05080ac0dfb07b2130a430e21145009b6ef25ce0e4879dd4f0e15f9bf9df4b",
         "review_sha256": "bf8e997c3a430bc3b04f19948a39ac52c003b8b4d1f8cc5e7d3e1e98ff3c163f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "databases",
+        "unit_number": 15,
+        "subtopics": 3,
+        "source_sha256": "dd41126edcb2bdc44ca58adf2f763a17766ecc0aeb4ca5fce1a69727c49dcc60",
+        "base_source_sha256": "f52b20ae55c8fc1d790f6318dc3a02fb6cbbe2cc49e4a651d705ed6e9702d2db",
+        "review_sha256": "a4c128294461330e169cafa73fd7450333c8e67511b39b45f2cb9a6116c6cfd3",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
