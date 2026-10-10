@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23831,
+  "checked_local_references": 23845,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "b5c0be9c68f0cbc85892d5176a33fedd50dc1b2b206cc74db330bd84b6dce77e",
+  "public_bundle_sha256": "80ce678fb3fcd0ab328e2785ae0293c1c61e03fed403ad260c32510ee18e3e1f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1571,
-    "rendered_subtopics": 1571,
+    "reviewed_subtopics": 1578,
+    "rendered_subtopics": 1578,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12610,6 +12610,26 @@
         "source_sha256": "e641449edd95597b5dc3aed4a3df9e9e86e15828cb8719443d49d172de86fca8",
         "base_source_sha256": "e69caddb1b4cec0916599d32679bd7bd6f3ebd3e145f0918ea002f123fbabb17",
         "review_sha256": "aa9929ed26f044f729c2fc7e09e7c045c9398a97565dfa458399b08b39a8e201",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "physics-2",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "822f00797802c29cd44a9407a2a1a57fb2291d782a26a3628ac600c8f982152d",
+        "base_source_sha256": "dabecc98d3735c57b9dcb7e96a3ecd73306555115562aa204c7c1390884ec9bd",
+        "review_sha256": "52eb7eccdfb52ef9a253fd239eed8a8aba12a491401ed081bfe1e6d778c9a5e5",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "compilers",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "63f8ec085bcf4a03ff1c088274fac305d005c6cc4a9ec1ed5b70d149f5caa6e5",
+        "base_source_sha256": "854cdd142771c03c17ee94d59823f550d86712bb3292b98a050ffa1b37789fde",
+        "review_sha256": "e8ba73a9698be3b57ccbdd51cfa908f4baf60daf8811ad0e43bda342eb269e44",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
