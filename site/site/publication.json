@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23637,
+  "checked_local_references": 23659,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "e0c0b9b64892fee93d358452dc4c2fa2f76cf172fe695e648053e9e8c862a29f",
+  "public_bundle_sha256": "75e4ad11c511aaf1b1148aa2939fb99751ab85b62afb147bac1c07c877186035",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1474,
-    "rendered_subtopics": 1474,
+    "reviewed_subtopics": 1485,
+    "rendered_subtopics": 1485,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12024,6 +12024,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "security",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "495ad773a3dc3ea17f259a86eeaed17a321c544f4d1927f27b50c8572d29e62c",
+        "base_source_sha256": "8317ccbc71be98d5a546c9718e02c677efcf20dbd878d5d6aa0d578e81a6f3d9",
+        "review_sha256": "11568c3e37e4a570d47e34828493a70fac9f18d4f7e6f53e9937e87786e5307a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "numerical-methods",
         "unit_number": 1,
         "subtopics": 4,
@@ -12090,6 +12100,16 @@
         "source_sha256": "2df49904dac3c8e2e0ef9427bceaab6250923b78007aa7840dec984fcbd36b30",
         "base_source_sha256": "0dbabc7e7d5f10c43075afe4a86f575d46a9f351b1adf001c64b5f01b7e59e5d",
         "review_sha256": "295f2f981306112ae49193c598464df442b18b9f08a1c978ec9511c7b40d498f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "numerical-methods",
+        "unit_number": 15,
+        "subtopics": 4,
+        "source_sha256": "3a22b467eb61a0e8172b65dbd204c7484b97b62776a40ca0d0ff07d03ba4d839",
+        "base_source_sha256": "65cc87e41616defb2491ec39e0ad3d744e61e01b7832af7f6a8849deae226d62",
+        "review_sha256": "338fa5f697db9083af351653320d94b58e1dd95e249b9c5ad3b361f25369cb7a",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -12330,6 +12350,16 @@
         "source_sha256": "55b4e674dd6846629d59233e3c39d216145a043b06b3cc52c98968daad34cac2",
         "base_source_sha256": "e54c5a1ade9f815076152c0de4fb9fa2e32d1f566394e5d534878f65d8aad8e9",
         "review_sha256": "83bd45c4e77ebdd7cfdc51d1d3b0f444dd18d944f5bac229b5a0b3b494352f33",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "csharp",
+        "unit_number": 9,
+        "subtopics": 4,
+        "source_sha256": "6bd836221d3d74382b5a00dece58873880539e734df6ecc74324bbea8d37e5bb",
+        "base_source_sha256": "fc0e72acd47282f009536534b6ea99d144edb3d42aff86940731b3eb11e20968",
+        "review_sha256": "e9d9df270cab1a725106076fe222c32c0567ca5350e7189918606dfee5b09f47",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
