@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23705,
+  "checked_local_references": 23717,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "05e68c6a20d06a484b1d748a6edff8e5c8ae1d04c8fb55d1cdf7ee31c65aa0a7",
+  "public_bundle_sha256": "a1528eda4c38c0cad49ee75883996c617c1c222ed5ca02aa3bfee2e9310803c2",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1508,
-    "rendered_subtopics": 1508,
+    "reviewed_subtopics": 1514,
+    "rendered_subtopics": 1514,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11614,6 +11614,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "automata",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "dee2712936eadf009df29ad4eb3bb381ea9c90258e2ebe5fd9db26d7203e65f4",
+        "base_source_sha256": "887b0aad84a4edcd452f9ff1d9a5e9421ac84461439404017c3e9278e56f665b",
+        "review_sha256": "cfc24d73d2f6a546c56a8be048deb4a145d55c79d13a5a4f9a25a92d29326527",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "programming-languages",
         "unit_number": 1,
         "subtopics": 3,
@@ -12030,6 +12040,16 @@
         "source_sha256": "2b61b5222f5f86f994317e3304396d53c3b3ef20c666c573434436506690dd6b",
         "base_source_sha256": "0b682953b02d8616fe93ec3198aca46822593d3c0957d7921ce5c9fbe4187969",
         "review_sha256": "8f35911e6b652d9f7bc6217309c582dcf1215180feceae1c2a3a91b2aecb6456",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ml",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "74aef847c3f18752e8c36c2a1fdfe7ce76405d3ec61bfd3f002d2f1d0f4fc5e8",
+        "base_source_sha256": "ed95522ccf328fdfe2d4f08ad0622003dd4b7b487e69c49222a888dc2b371460",
+        "review_sha256": "c025cf0d1abe23f04f993d03bfaf8345e7c66b24758c573ea3c3d5c905e95f88",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
