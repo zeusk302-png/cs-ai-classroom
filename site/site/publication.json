@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22017,
+  "checked_local_references": 22029,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "7a9846c0cf21a780898f9594effc191f315438d240e1396b28850ac8874bdd67",
+  "public_bundle_sha256": "f122fa2ec8f71d6560b449477906694f9a844681f5334abde8d98726cbd4322c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 664,
-    "rendered_subtopics": 664,
+    "reviewed_subtopics": 670,
+    "rendered_subtopics": 670,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9954,6 +9954,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "data-structures",
+        "unit_number": 13,
+        "subtopics": 3,
+        "source_sha256": "9a397991e4385df3ebf8ed52881618b25db302d7d4bd0fe5ef7bf18b799919b1",
+        "base_source_sha256": "0fbf7ae0217e33f9f87d69f4d673b4e2c1182b503497b68c661e36aab36606b1",
+        "review_sha256": "f8648c0bc137174e7b8a3de768761377d3d4341c3abe13fcf7f1c4253489ec5c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "architecture",
         "unit_number": 1,
         "subtopics": 4,
@@ -10300,6 +10310,16 @@
         "source_sha256": "ea88780fbd12a6c52638b78e1c408f12b4193ecc3921147ec1a1a5e3550aa21f",
         "base_source_sha256": "a2f43dd373791a5e5beeff7e9d70c6ae141cdebbacfa327b03a611d370ec3590",
         "review_sha256": "5244ad88afef1ef5dd18573c9fd1502b88af1c71a1c2bca91f2957c828945e12",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "testing",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "7958b3ebc988ea9fb43f500081a44835e5199ffd5721c44caed88491a0ddb0f8",
+        "base_source_sha256": "91fc76c1576dff0b099726a4afb704476e3c0a7afbaa6a5d5c66403f3724ea9b",
+        "review_sha256": "14c34590bd969feb0a758fb654f63a00d00ab067eb3d0950026c5d68e8c9c46f",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
