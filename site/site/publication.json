@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22885,
+  "checked_local_references": 22941,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "8e972eb40b0471e594b275019b3b9cb769feb5300aca42a591414d158fd9dc27",
+  "public_bundle_sha256": "36052f9c71dc517a9cf38463568d11109a048fdc5b946ba5316438db4a629ed9",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1098,
-    "rendered_subtopics": 1098,
+    "reviewed_subtopics": 1126,
+    "rendered_subtopics": 1126,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10435,6 +10435,16 @@
       },
       {
         "course_id": "probability",
+        "unit_number": 2,
+        "subtopics": 4,
+        "source_sha256": "5091c57b09190474f86d242ef97cbb45c4fecb09f3bc0fc0c5db38988e4c5372",
+        "base_source_sha256": "933bd39eb137295e2fbfcc5207ab386bc0e6aedac71d41f3eae554ef71bfc5be",
+        "review_sha256": "6b553e7fdd1281cefa212b8db08769b66b4054cdd005b29d5c110f5efa777d97",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "probability",
         "unit_number": 3,
         "subtopics": 4,
         "source_sha256": "d3b37b927baa5f29073e5d03a743bccbe9ca3d96cb61560fb9bb052599d15f47",
@@ -11004,6 +11014,56 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "engineering-2",
+        "unit_number": 6,
+        "subtopics": 4,
+        "source_sha256": "9fbf691f1b1a46a248a9ac4bd5be54e64edd31f7f5e4f60e8ef32084f9163df8",
+        "base_source_sha256": "519d2bb82f136a9048a086a0c9e39ae7cc9399bd00e30593ec7cb9ea11389eda",
+        "review_sha256": "07c69e5f276cf8cc3f8476a39ad65256c5156e931fd7ee99e562cc6183564c63",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "engineering-2",
+        "unit_number": 7,
+        "subtopics": 4,
+        "source_sha256": "e5a402aa2ec6f3061f5367b3051ff2f70479399fefd15243c01d8ee15b31af2a",
+        "base_source_sha256": "710996e08976b744fd9fbf7304702c6d01fa12ee4878007e2162729641753ee8",
+        "review_sha256": "7ac4c11eb2a8ff8b826c9e5d870e5dc68c2eaa9168c7859b59bdb03469fb2870",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "engineering-2",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "eebd78a67b86dbc4beec3d4ad5f3fb5ce0f0289b4cef764a3a3f839b1634255a",
+        "base_source_sha256": "7b21ea1fab8b8d5465b76e8017c242ca43dc03de15a28b14c7509c658e8a75a8",
+        "review_sha256": "19853187f2c3a319c74d5e248747cceda21b8f7a1510d82a0ddec76362f428df",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "engineering-2",
+        "unit_number": 9,
+        "subtopics": 4,
+        "source_sha256": "56d21b18d92aadc1866da31f826ea474922ef0ca08581fbe8437c93f1ca243a4",
+        "base_source_sha256": "b571ebc010c6ed8986a546f96e0ca940e06feced65cf5ea4ac9755d6a5425fd8",
+        "review_sha256": "338b2e31be777dd9ed842054c380a592a95dc42307ef3efefacf72a23a7dd72f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "engineering-2",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "18a39d5e7541135486dd8637a9d946bd5c5dd82cc3bdef31ac9155a19ee4cdd0",
+        "base_source_sha256": "fb1ddb30c07b4d1a2fc7bce0c8f7dd8e299ccb3e3ec09a4be597409452e2f32d",
+        "review_sha256": "4aeab70d94fbe4b6ff556d18a9762d00f46fffbf4c4d638b968d8aff5f5abf29",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "programming-languages",
         "unit_number": 1,
         "subtopics": 3,
@@ -11240,6 +11300,16 @@
         "source_sha256": "907266fde46d650390b875754a2be3e2f2845793eb2518249ca453bfcb6e8148",
         "base_source_sha256": "94a7ea8a96bd8d77cddb5927954365bdf8f17313af915082cc9fad1c4b20fc06",
         "review_sha256": "9e22435eb044bd78b3fec52e160572cb41486d4408f6d1fe842e155cd6ba1516",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "java",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "a04e2ee4eb31ec8ae2fac5c921d0abd90efeb986634704428b0b6ce91660d9e9",
+        "base_source_sha256": "cd3536064933eeffe8675d2963fba9c2c0941617fb034278b6e5f999bfbf9c65",
+        "review_sha256": "04780245b2aa9804df21265b24a9414a0c340736c775314451e550bfa9b5aa81",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
