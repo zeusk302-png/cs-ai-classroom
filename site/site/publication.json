@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 20741,
+  "checked_local_references": 20749,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a554e2ad7fc661cb3f46695e0380cde30fdd874f9c4f36ac887d10956844785c",
+  "public_bundle_sha256": "fabf3ab66d616d03e16f3478a97e082e1035eef2047baefe5d532b7531ef4bee",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,10 +8509,20 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 26,
-    "rendered_subtopics": 26,
+    "reviewed_subtopics": 30,
+    "rendered_subtopics": 30,
     "learner_testing": "not_performed",
     "units": [
+      {
+        "course_id": "python",
+        "unit_number": 1,
+        "subtopics": 4,
+        "source_sha256": "30ae02412a259e3e5a9505972d31cdea6520459c7906be482863f4f3ba9992e3",
+        "base_source_sha256": "9493fa535bc6949c3c3065197a76b2ddbf3fb1a897130dfa8545c73259af8389",
+        "review_sha256": "d527ea5bba2a478d6da3122d0261844537ac975a214bafc09bf1151abf202766",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
       {
         "course_id": "python",
         "unit_number": 3,
