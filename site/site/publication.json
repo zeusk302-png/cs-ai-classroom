@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23603,
+  "checked_local_references": 23617,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "9bda4ce676f4899bf8c34a6710badad9e9da4b39635e2a6a9471c303f9e0f963",
+  "public_bundle_sha256": "be83f5d165411473f53fecaed1fbb020ac2537b1af21712e73e52ce488a78c7d",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1457,
-    "rendered_subtopics": 1457,
+    "reviewed_subtopics": 1464,
+    "rendered_subtopics": 1464,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11574,6 +11574,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "automata",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "035bee15e6fc71de4ec3ead5f5e1c5e1bc3c0767b9db1812f160d2b6f7d4ed14",
+        "base_source_sha256": "de37eaa4e4654c5b2c7d1393cdcc75c9dd3653b76524f6b25897cfb8f615172a",
+        "review_sha256": "7c059b4babf8a2a86a39ee2fa11c17dc1ed2553039a9366f70fbdccd6225b4a2",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "programming-languages",
         "unit_number": 1,
         "subtopics": 3,
@@ -12280,6 +12290,16 @@
         "source_sha256": "7d10d249642282c371f3f41c4b8cb77dbfafa2c3329fd1e12f5641670264a567",
         "base_source_sha256": "f923fda2cb114ddfaf9e74f62d152fd4190bb02b1fdd8b39415e0521d1192e79",
         "review_sha256": "c872b32fef22a4cffe9716c0cf460886571b7935f6cfa0c39215b06db5fb1ce4",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "csharp",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "55b4e674dd6846629d59233e3c39d216145a043b06b3cc52c98968daad34cac2",
+        "base_source_sha256": "e54c5a1ade9f815076152c0de4fb9fa2e32d1f566394e5d534878f65d8aad8e9",
+        "review_sha256": "83bd45c4e77ebdd7cfdc51d1d3b0f444dd18d944f5bac229b5a0b3b494352f33",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
