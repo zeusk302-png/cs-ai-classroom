@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21027,
+  "checked_local_references": 21049,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1790833f6591798873d8036474d75e039ca642386ce8bf4dd6076aa0cfc00322",
+  "public_bundle_sha256": "9b4ff7b155c9642b0e47e861ccc51ccb03aa8ddd49f52e9e2e8c3a02559874fc",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 169,
-    "rendered_subtopics": 169,
+    "reviewed_subtopics": 180,
+    "rendered_subtopics": 180,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -8580,6 +8580,16 @@
         "source_sha256": "f8a2f2e02da3ae4f1297e8a9bcb8f4b86b08f54176376c20eb0c8065a1f3019a",
         "base_source_sha256": "63fe382a6edbc741e2cdca54c85714131d55c2e93078621347fea5a257732ab6",
         "review_sha256": "5aa387e5c3452bd50691b5c63fd0281d3ffb8c92b0e03d98518e0f92b83e14a5",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "calculus-1",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "83057b02525817d105d7fc0fe7d12f70af5f865ebd8dc1159533a75a1dac0745",
+        "base_source_sha256": "32dd72bf5082a5f8fea06427eccf293b7ca6b4bb2416dea6d59a46ec0f35364f",
+        "review_sha256": "c56afd411a74552cc2dc135a5ccd66682eebc5072c4f51fe3b6208f22db277e1",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -8700,6 +8710,16 @@
         "source_sha256": "ed5f1cb24e6c46091ac503b21c3368c0dabeefa89590f8673234208df013cdf5",
         "base_source_sha256": "91b739ec087c804930b755dfdf0b606afa86f00a4aa5e7d435c2b0c944ee5054",
         "review_sha256": "813371d7145cc63f3d890fbbc8176651839f64c8bd4375234f6774dd251c60f9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "python",
+        "unit_number": 13,
+        "subtopics": 4,
+        "source_sha256": "a2a288e452b89d494d00c8c65f9502b4d4242ddf23cd3cd86fa8075582f2e417",
+        "base_source_sha256": "118105a8a401eae1439c39bbb25e566cb50a2a474291451d417b25a23fdf4651",
+        "review_sha256": "4555e10c682ea04404ce8dcd7592ac1c3552934d57d956c2bb14e06f0954da49",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -9000,6 +9020,16 @@
         "source_sha256": "bcf2231ed9f851abc2f9cf988a78f03de488b4220a772159c8d506e9f07166f3",
         "base_source_sha256": "3604cc8d9b3c86d256af84cbf3f4851116df7fd8d120af63e415d6673b050448",
         "review_sha256": "3366b90efef553ea30ac1340873f906b10cb9279ed8a005805d806a7c88e6c4b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "web",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "0e2091f70985082198869b61c0c0fb2ba49e869767f8754a44ed51f0f1c679a1",
+        "base_source_sha256": "5901db6c99f71538296d32199aa6df78b78f5c3497f3e75f5d3ff6b48a8078b6",
+        "review_sha256": "d55b0cc51147461db7c725bd204e36591b9965e09af7eb4373e116cfdb0dcbe8",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
