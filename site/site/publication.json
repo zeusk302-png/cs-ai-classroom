@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23185,
+  "checked_local_references": 23197,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "027e5930ca453c1dba1f973ace0cfa828ef7dbb68bf18071be88e36fbf250d23",
+  "public_bundle_sha256": "2f6d6c26e5676227e355b31bd0c90537311a1b5549e1b0b7d6b604f724c0357f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1248,
-    "rendered_subtopics": 1248,
+    "reviewed_subtopics": 1254,
+    "rendered_subtopics": 1254,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11054,6 +11054,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "os",
+        "unit_number": 13,
+        "subtopics": 3,
+        "source_sha256": "615365c54b553b1d36d12b4fdac57188a8d561c7ffb06c7187a76eb384ae380c",
+        "base_source_sha256": "4afdc363f997cf924896cf52a7894d3e58c5a176aa7a9b2e812b9d758ceb7b2d",
+        "review_sha256": "6eb198dd6d112eeac7fde72b687f07cd055dd6295be6b0905c48a24b5398511f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "networks",
         "unit_number": 3,
         "subtopics": 3,
@@ -11570,6 +11580,16 @@
         "source_sha256": "d7053731b25414e246ac49026ac2f089906f5a8bed7bbfe7f272a4da5705d926",
         "base_source_sha256": "9db8c84836c742c58826f2d06f9be3301b2acf799c2958c468a22a8a42179efe",
         "review_sha256": "ea667776ba8910ea24791edc9d17acf235cb0ad9110579e06cad241f41d37470",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ai",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "795187fbc3eeda819dc5bdac6cec206e9baade5f2a0a66b13d3bb375e31761ee",
+        "base_source_sha256": "0cc020bb67e77956c725aaa38256599a828d4d54c0454ec5f260633907b80824",
+        "review_sha256": "4b47d59a3c617f5882ac58777d857202143a40c265e8431fd52610e322ea821b",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
