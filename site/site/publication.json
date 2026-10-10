@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21635,
+  "checked_local_references": 21651,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "7ef5e83428406ff2e54aecb78aef84d4de785b0564f655e1a8113cd2ddc68aa3",
+  "public_bundle_sha256": "eea9c425cf809d5a8ce8e7da7782de1ba85f53f347b6ad409db5663f38a29725",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 473,
-    "rendered_subtopics": 473,
+    "reviewed_subtopics": 481,
+    "rendered_subtopics": 481,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9184,6 +9184,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "calculus-2",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "3706bf76362310ffb3741afeae7ee3f4b5d0ac645de61bb110454b479c128a0b",
+        "base_source_sha256": "14b599d6875f032ac59fa73d1f777cc95a9533a233e47c6ddbbf0702853b3ff7",
+        "review_sha256": "9ef7da2230aeab06334f59feda973f3e9d4744fcd8bab4069bf8e85e946271d9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "c",
         "unit_number": 1,
         "subtopics": 4,
@@ -9400,6 +9410,16 @@
         "source_sha256": "bed4df2b07e11efe46131eb0724d23e48690da57f7b2bd943c34f9851b5bd630",
         "base_source_sha256": "fadc4da5e752bd15a11974a6701d078a4b7816b9c9865243c3fde36624bff5ed",
         "review_sha256": "2f95966140d144791dce9867674646907b3ad04c9dd3ec19f66721bf45c13be3",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-2",
+        "unit_number": 7,
+        "subtopics": 4,
+        "source_sha256": "cc2ddae2571e302b0c129ea07db51f8b3528674c32eef28c5a350f35bb8035be",
+        "base_source_sha256": "edf0393aa3d2de6a8b40d5f21080eed7e0c988980a55ece05c4f06c24bbeba98",
+        "review_sha256": "1f2f87ca2a06623b432073489f5062b258e5225c42db8f8d6a1c41cf94473f36",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
