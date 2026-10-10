@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23387,
+  "checked_local_references": 23401,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "0a0f018313c745e8bcc48e54be4479bc8063d5541239f8223d8059a619907b1f",
+  "public_bundle_sha256": "261780ffdb474cd691c4a787f2cb267cc7122642cb8aa1dae18a0d09ff7cc892",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1349,
-    "rendered_subtopics": 1349,
+    "reviewed_subtopics": 1356,
+    "rendered_subtopics": 1356,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10944,6 +10944,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "algorithms",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "c97a588e96dcb70ff207f4e509d45a3c01c00f56f4c4a88427a4d4bc50985904",
+        "base_source_sha256": "be6af341f3eb3b24e5cd2c42716c20c3c106f091f121f9fdd50fd9c2453a00fa",
+        "review_sha256": "bd0d17d010d808f164efac449661c329824f2246c43b48e8bb9b954c9a13b74d",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "databases",
         "unit_number": 1,
         "subtopics": 3,
@@ -11970,6 +11980,16 @@
         "source_sha256": "9fa0ace6a6c282cd30e8fe69d0e607e26059d4cedde49bff8f00ef0d931e8615",
         "base_source_sha256": "c4317b2bff9c462626f6a504d7b11e468876125b19d3c31f27d9dbc69e237eb3",
         "review_sha256": "bde8d36d7eda18e1df015ad1154fb0c9dd8657fed1e9f753a9e1c54dc0b1ad89",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "java",
+        "unit_number": 13,
+        "subtopics": 4,
+        "source_sha256": "59ec1f4c944bd1cbde991b36b9df044d94ebffa5d95d39b6407a582fea21cd4f",
+        "base_source_sha256": "3dc4b6e81d4f71af27305b82acef621231ca169f513b781fc152e5312236c231",
+        "review_sha256": "75c8f50c2579f824a96bd82d705513d5328a84e87912de7e41a6a49da0881c26",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
