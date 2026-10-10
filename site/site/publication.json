@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24409,
+  "checked_local_references": 24421,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "88a707859f3f8bde9ae5f97e9dd894476ebdeef365bbf03d62611a38a9bbae71",
+  "public_bundle_sha256": "39b0da88839b1f2199d925b63e12300be520bfcf9421e74d74391506a39fdfad",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1860,
-    "rendered_subtopics": 1860,
+    "reviewed_subtopics": 1866,
+    "rendered_subtopics": 1866,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12344,6 +12344,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "deep-learning",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "c38cc24f4668cb7f77561ac03906ca2489ff52a771ca505a90cd748c473af882",
+        "base_source_sha256": "2f115828bea76a5dc980e554603e5f786eb6ea8b628070fe5a23889225cf158e",
+        "review_sha256": "0d1115d75b320f599e45782b4c75a1155b2ee1ae1a49a92072bb95a630f0da43",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "java",
         "unit_number": 1,
         "subtopics": 4,
@@ -13360,6 +13370,16 @@
         "source_sha256": "7e71281548961da3cee69cec9a737c879da9d655c786098547d84b67ef2f56f1",
         "base_source_sha256": "f7f748c91aac137b8a34f922e2a569c167cbb2e88b5bce414bf290fd2ccdd1c2",
         "review_sha256": "52f921b5a126aecd5f8b2a1184fc83079adbfef68358f990eec37bb16eb55ea3",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "distributed",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "12f569a99ee01696c53da6ad0f3422442752f800fc1220ea91684adac8f5dd39",
+        "base_source_sha256": "1cee20fb4f15d130fdc6859554dd453661af89a1fcc0078cc98d0d60b7c8394e",
+        "review_sha256": "c49afdcbad706e93cb332af32388e971a3cc154991fd8f6c393cab712e908446",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
