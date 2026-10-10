@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21539,
+  "checked_local_references": 21555,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "38c2b276df18a1850054c527b80a347d02eb2720553c94a9ee5b4c11356ae5e3",
+  "public_bundle_sha256": "6a3c1d0c5fa4586e3f7654578631de53440d33cad636c25b8dc913e497b9e50b",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 425,
-    "rendered_subtopics": 425,
+    "reviewed_subtopics": 433,
+    "rendered_subtopics": 433,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9364,6 +9364,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "discrete-2",
+        "unit_number": 9,
+        "subtopics": 4,
+        "source_sha256": "c7b6e3ba32cbef0d834aac92bffee525173950a3676bfb842b045459b20a92e4",
+        "base_source_sha256": "2d08d4eae2d3e32396a11e9855c1ab43e6729ef7d665f60adc8db5837e7cad55",
+        "review_sha256": "8861b53f6f6e07ca90832e24db7d5be1bc5aed8edf936d6690b1833adae23efe",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "digital-logic",
         "unit_number": 1,
         "subtopics": 4,
@@ -9490,6 +9500,16 @@
         "source_sha256": "3ed25984952402b59b7f64065e41b66e98920cc10be85f0715c0e1cb62c5ce05",
         "base_source_sha256": "b9b6f9b13fdbf1532a56a6b706d99dcc2604a004486eabdf4c1ed6acfe099073",
         "review_sha256": "60d7b6bed733adec993095a83df175a955cec37fe5f367f5255218e4237139dd",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cpp",
+        "unit_number": 2,
+        "subtopics": 4,
+        "source_sha256": "6a90cd7355d9efdde7ed960a66594b6455e4aa48b18501687fc597d8e1d9570c",
+        "base_source_sha256": "d4837e6b62fa6f8f54a19933e9a2fad51a70c3815199afa35a08558215a2b5b1",
+        "review_sha256": "c0565b4a4b6f40d0eb1820ac97f076f172dd83c3baaff3c97f7f1aebf607d49a",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
