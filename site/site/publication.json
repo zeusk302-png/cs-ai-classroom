@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23999,
+  "checked_local_references": 24013,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1654b85262332784366a178a26f2dfa48ff9b1d28ed120b3c44546ab5f2dfaf6",
+  "public_bundle_sha256": "ab82c1e5e9700f1df306c490b11c792701d1f4a20ba8bbc19adc547a5282b2bd",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1655,
-    "rendered_subtopics": 1655,
+    "reviewed_subtopics": 1662,
+    "rendered_subtopics": 1662,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12674,6 +12674,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "oop",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "a68d0f7be597eb59c5fff3e3af4011aff2e059795a16aef5b435630a993f01f1",
+        "base_source_sha256": "7ddcc01d8a268a037d02aa5058aab0f3d436fc92d7819faed4a89486ecda39ef",
+        "review_sha256": "ba68ccd072ba7d382a67a119fd8c0eb411909e3a696416dfd9f48f960d9c608a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "optimization",
         "unit_number": 1,
         "subtopics": 4,
@@ -12700,6 +12710,16 @@
         "source_sha256": "564affc1ec5274e2b0c6cf461064c4038310e7c5c00b1b095c2eabac6a8abaae",
         "base_source_sha256": "1c3793e426dd0b88fc1e4a154bdad564a3ce3948c0c137c111ab9cfedd76de68",
         "review_sha256": "fdda8ae88f3a411343a5ea6e74a21616f44f40cf45dd3190ef6d1ad6c96e6912",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "optimization",
+        "unit_number": 4,
+        "subtopics": 4,
+        "source_sha256": "468bf5adcf46fcd844707ed5dde36720c5b7842344cddaefc3c543323b21efca",
+        "base_source_sha256": "39aa7fbe5678a1841a124ce1cdab7ed792cb77752e8827ad4feac1f6de449b9f",
+        "review_sha256": "7649badfa9ad750988f7e93642a6065cb91f2e37db3466d9267e00261f597e59",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
