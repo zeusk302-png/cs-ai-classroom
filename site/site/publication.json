@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23319,
+  "checked_local_references": 23331,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "bf3d2250391f1eff574afa93b26349906dc076d01173a39460961a1c5bf353ba",
+  "public_bundle_sha256": "2bf6efb4310cac7a96970f56e421b61b74ab5e262e58ec55a24fa326d405d02b",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1315,
-    "rendered_subtopics": 1315,
+    "reviewed_subtopics": 1321,
+    "rendered_subtopics": 1321,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10904,6 +10904,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "algorithms",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "048d20b1b4b9b8cb30f5bc17900b39302ef8fedc452168330f3c26ef92b6e7a3",
+        "base_source_sha256": "bbfa934d0b1272bb88d7c240566b2e5d63bdea62c6af53b81575c9944397c890",
+        "review_sha256": "d7dca0a21f579e5a039b5b1740de014179d662981adef0ba5311dd3bbbbe943f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "databases",
         "unit_number": 1,
         "subtopics": 3,
@@ -11210,6 +11220,16 @@
         "source_sha256": "955952486ddb92e890126ce4b076e71ebdccc6a24de23d79c96a8afe42ab21c4",
         "base_source_sha256": "7bc522e2a1b0b135a62352c1ac9966c54a4dbfefbc6256ac2d87d3a0f4c6a157",
         "review_sha256": "da1df1710d0065a4161028ab3476d698e7a6adf18c8d3bbaba4730b4939b8bd9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "networks",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "9b5730427ea9ab169c77439c4cc85157b9400c5f55caa6a4be0ce109531dfa08",
+        "base_source_sha256": "ddb8018bfb4de477e7701506cebab9e4d9d88b2d4fc2d25401176234848f9175",
+        "review_sha256": "c2d1715938af39a571a1f805dcee0f6ae4ad8bd583f84ea5e93b50efe3ddaa54",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
