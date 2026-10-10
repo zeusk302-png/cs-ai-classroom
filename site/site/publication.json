@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 23029,
+  "checked_local_references": 23061,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "e25a672b0639b8a44e22a2d01206c3e3b06f1cba4f56a7f4540827f1dbb4f313",
+  "public_bundle_sha256": "64c1a134541c8fe031f32c173513efde2193bf8a2172e551ab9a4215ececac8a",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1170,
-    "rendered_subtopics": 1170,
+    "reviewed_subtopics": 1186,
+    "rendered_subtopics": 1186,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10754,6 +10754,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "systems-programming",
+        "unit_number": 13,
+        "subtopics": 3,
+        "source_sha256": "55ae4ebe72cee36e8056f811e55edb33dc0b472cccdee1bea7df29dd7371cc05",
+        "base_source_sha256": "978375120aaa245af7692e23a3be081c3ff1a63c01507a8be24225e3eaa1f893",
+        "review_sha256": "05ef841117d5627c503fbe040202dbf0cf41c3d306ab768f04775e94136a9079",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "databases",
         "unit_number": 1,
         "subtopics": 3,
@@ -11355,6 +11365,16 @@
       },
       {
         "course_id": "ai",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "af9a3f194adf2fb8bc2dae5c98c24b54917b30e0cb9cb9cecaf1abb741d5ff2c",
+        "base_source_sha256": "b924d91444f09262661928b0521871ad17d5c96fc85b13ac381d2f9bb9dbc6bc",
+        "review_sha256": "91b62a38b899d0b71e5de61a2240b90c0094e0b297f085beb87227ad128df4c9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ai",
         "unit_number": 3,
         "subtopics": 3,
         "source_sha256": "95cd5096ab9f5a621f7b17371ba637d620003b48b3bf963ef59022a3a2703f9d",
@@ -11370,6 +11390,26 @@
         "source_sha256": "c854445fde150793a37d087e352593db3cf6e7ef40f8c0ba0c930cdee10413d7",
         "base_source_sha256": "b347f63079bc4ba0a262b9c6e5c4d2e20c4ee4d30a3d3884afddf58c24a39b83",
         "review_sha256": "65396e7d4a86b0a5d817fdf1c3f736e9b5da613a7621e996069476daa0f38507",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ai",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "d3af2dbc0ef8f8c154d439a41bf09c8c253a34581070ae0fa7800046eccc2e9c",
+        "base_source_sha256": "4b43ec9479a424ce3bbcc6d16f1ef44f41170b6cf772b4902e727232c34d66de",
+        "review_sha256": "6200562308b507a42ccff3ceaa6dc624ffddea90b4e06f2359ffe36eb160437c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ai",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "bfe9333df91505245081899e0c8a84b4f584f66fe1fb212b31a54c5b94cb208d",
+        "base_source_sha256": "15abffa7bbeced7b98f07883a98d06c14fdee8b033b8e4db3d773b01bbdb202c",
+        "review_sha256": "5af4d52a7a97c218f68411713654c130df27d8614917bfef6c2608a7c250ff94",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -11430,6 +11470,16 @@
         "source_sha256": "ad0e28eb48781ef1a6107dc29af832715489fc8fe9d0eb628375dad4f60b536b",
         "base_source_sha256": "6e20a75555a3d88a2b2d86f9dbaf0f5126c0a6fe539c34755e18ce2b9698b142",
         "review_sha256": "5b40b77766ba3d31c66b1f0a5ade93c303fa4048f52ac382f7dc35a93a47b781",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "java",
+        "unit_number": 5,
+        "subtopics": 4,
+        "source_sha256": "2a06c40c2184812581a39ea3579ad6eec501b8d9d1a9894fbd7afed7933a086c",
+        "base_source_sha256": "470364fdaff8db3bfa01371e414b761cd1307ff3e0f1f2cb70e576271c2c7413",
+        "review_sha256": "594a9dd56c26b3bb01a2dbaf95bd2b10848d4a438cc0f0f73b1e2f4a249af918",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
