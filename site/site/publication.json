@@ -8485,15 +8485,15 @@
       ]
     }
   ],
-  "public_file_count": 1355,
+  "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 20689,
+  "checked_local_references": 20741,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "407110057184ec7fc8c2f4d9581d6e457eac4f8c30938a12fd8876c9e5494a80",
+  "public_bundle_sha256": "a554e2ad7fc661cb3f46695e0380cde30fdd874f9c4f36ac887d10956844785c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8504,5 +8504,95 @@
     "noindex_pages": 3,
     "sitemap": "https://zeusk302-png.github.io/cs-ai-classroom/sitemap.xml",
     "google_search_console_verified": true
+  },
+  "korean_enrichment_v2": {
+    "version": 2,
+    "target_units": 857,
+    "target_subtopics": 2849,
+    "reviewed_subtopics": 26,
+    "rendered_subtopics": 26,
+    "learner_testing": "not_performed",
+    "units": [
+      {
+        "course_id": "python",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "f07b00c96c56f76c677bbd38fcb2ed1a0847045e860b2c49f231d3043c337926",
+        "base_source_sha256": "fc1c60f1cc5bdcd55d912a6e35674073efe303277173adf450b3ce26f600cee2",
+        "review_sha256": "898ecdccc39c4f298c0a33ab6f1ae9ae31bfb3f837fc9c6fc6b4886ada085a18",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cs-intro",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "28da395836f409434c194e8f42e3f3aa586cff824c40b8f9fc665674c1c957c6",
+        "base_source_sha256": "49abc4704ee5d96e2213d2059c4e4a97315c6ef288718967cc9f48798158b8e9",
+        "review_sha256": "c96ba1c0dc1c2fac83af6b3fbe0c100bae7a7684a3cd74d14d62b65389867d33",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "linear-algebra",
+        "unit_number": 3,
+        "subtopics": 4,
+        "source_sha256": "d557e5d90b390c5442b82b9d6da90e8c891e08270d1f780c777b88e18e2e25dd",
+        "base_source_sha256": "20cdb5bf73a703a39e4f044d9a58ed2398686e0b58fc9347872b3aba878c95ad",
+        "review_sha256": "d2938057681b6a04b6a57aae68a6d7000fd3b3490d482b2d622985a737650940",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "data-structures",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "8044946b3094e66c74c1a00311d39d5ff023b45b08c5bfc2d4416048223796c5",
+        "base_source_sha256": "338ffb666d844c80194e23385bb87a8bede36cedc96b9b9eb46fc177ee358e51",
+        "review_sha256": "9d17c4e100a1807a76bda3a627d0a251c978c4281c46ff38ca2c24b90e6ba760",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "os",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "deda068d2ebaf268dac4a2c79a0539abeefa91aa59f845779acd80b659a341e2",
+        "base_source_sha256": "173bc36295207c9a0fdff76381b8c880c4ac541a9ad01c309edb9d8cb7b0fb13",
+        "review_sha256": "608ce94694798c0f3981f41059e4e65f1cd9a2de9fd5b4ba63a2a7ce9e9691db",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ml",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "7228523e2df5fef6e771f0846be150757bbf2b6ef09982054920ed0c8ffc34cb",
+        "base_source_sha256": "5fb306bbdeeacbcec10aea55ae9740bb1dea946ac33582618e68915ca7b77f79",
+        "review_sha256": "0f0db997f12ee54e862fe7063b1ffd4015cc7400e4314d920b5c61b2ece91a88",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "deep-learning",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "c0e428bfdc0f888f73ded8d772210fa98c2a026e823b09066a444bc2701c30c2",
+        "base_source_sha256": "8ad253558b4dff806cc7035de2fd0b6fc9c4fdb649e60a65cd95dafe1080defa",
+        "review_sha256": "8bc06b2f27298b427837095d419fc3fac4212f51431636183ef0ab8cde928056",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "web",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "1bba064ddc77c122e5e339bdd45099fd03cae53d5697769f462065311d5b4b69",
+        "base_source_sha256": "ef5529bf6ccb64bdbcebd10e6e3ab4733224b9d0619243432184dfd459d3976d",
+        "review_sha256": "dd9abdad2c2c09bc44a391f1a1834de40e9fe3e75e34cc354f5cd8f35a396b82",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      }
+    ]
   }
 }
