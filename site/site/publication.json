@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21563,
+  "checked_local_references": 21587,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "ee6ae5e18e3103b99df68ff79e19340bfe2725139f4faed0ea23c579305a3dee",
+  "public_bundle_sha256": "756834e1fabc1e59b1527dfd6fbeb0b29249cd9635f71e332c210d2b5f09263f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 437,
-    "rendered_subtopics": 437,
+    "reviewed_subtopics": 449,
+    "rendered_subtopics": 449,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9375,11 +9375,31 @@
       },
       {
         "course_id": "discrete-2",
+        "unit_number": 6,
+        "subtopics": 4,
+        "source_sha256": "bed4df2b07e11efe46131eb0724d23e48690da57f7b2bd943c34f9851b5bd630",
+        "base_source_sha256": "fadc4da5e752bd15a11974a6701d078a4b7816b9c9865243c3fde36624bff5ed",
+        "review_sha256": "2f95966140d144791dce9867674646907b3ad04c9dd3ec19f66721bf45c13be3",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-2",
         "unit_number": 9,
         "subtopics": 4,
         "source_sha256": "c7b6e3ba32cbef0d834aac92bffee525173950a3676bfb842b045459b20a92e4",
         "base_source_sha256": "2d08d4eae2d3e32396a11e9855c1ab43e6729ef7d665f60adc8db5837e7cad55",
         "review_sha256": "8861b53f6f6e07ca90832e24db7d5be1bc5aed8edf936d6690b1833adae23efe",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-2",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "cdf3c7aee7b09e9e3b6d7b8d6c206c715bd449d31ff2d827e66869b826c05b62",
+        "base_source_sha256": "0466f0b73b3c0849a5159babf428d61e2f55e7507f91051604b433bc2d2c9f2a",
+        "review_sha256": "52acfa3aa8fd1d67c2eff090a696c2a99d63544d7372246cdadd5c77384a4a97",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -9500,6 +9520,16 @@
         "source_sha256": "d50d06a77ea79948f86e326235e139644d0f1b745cfb1ed2416a2f6e450454de",
         "base_source_sha256": "12a0ddadd278f2ad6900c9aaa9a172d934df3f61ae544e8e96a91211eb7e2f0b",
         "review_sha256": "72d4f71de911fdac02f4100bfe473835181f932a014494e7086ca2034e5423b3",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "digital-logic",
+        "unit_number": 13,
+        "subtopics": 4,
+        "source_sha256": "d9d18092635087be9ab075da9114eefb78aae606dc255005210557add31fb5e1",
+        "base_source_sha256": "d342670aace74faec79472782e10faeb164504bad2f9efefa261842558312f4a",
+        "review_sha256": "2f415831172a0c68ef68d49dc3415ed4136799a41ac1454af96bb93878a680c8",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
