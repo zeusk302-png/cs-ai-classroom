@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22531,
+  "checked_local_references": 22543,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a6227289d57485fcb8a9e622c9ff70961dee8272ffa028acf5547d27c52ec285",
+  "public_bundle_sha256": "aca036f2fe50eaad4bb0d843123ddc29e301dd7f54ac609a0e1edc8ae5ad10f2",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 921,
-    "rendered_subtopics": 921,
+    "reviewed_subtopics": 927,
+    "rendered_subtopics": 927,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -10484,6 +10484,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "systems-programming",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "1ae6fa949fccda59f0520f9be327d599b6a4589076437fee30483804ca3d7c16",
+        "base_source_sha256": "d0cff832adfee57b5534c43de15a225b64678a0dfd0d42ba8cba943902b6cf31",
+        "review_sha256": "bf5b44f1834f3b7fb8a1a20aa5c9fea904f1a5b23784419c182386eb4fe95c3c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "databases",
         "unit_number": 1,
         "subtopics": 3,
@@ -10660,6 +10670,16 @@
         "source_sha256": "7cc56ba42a8321f147a19d8ec3939581cad0cb9b9f7915dd9eac5f69bc241a8a",
         "base_source_sha256": "03987ae5681a7f64de1e8b464718ec65ed669f3f5d6e7fc919bc26baf96098cd",
         "review_sha256": "daddab1f0bc528a1c41cd106f457f07d819ebff5dadbf370b87369b47d853422",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "file-structures",
+        "unit_number": 6,
+        "subtopics": 3,
+        "source_sha256": "b204436f3dba1f474d2fb15f15bfa0b042b400ef5a005a20b5dad3a6b3beb6c6",
+        "base_source_sha256": "c842f53f920e8f8b6eb93de5c9bbd7964fdbcfad46a38d89c682e2441b9487b6",
+        "review_sha256": "a8532cd83e1636e6bea5ac93f0c026de73a6e321150dbd57b9a68cb8c185d38a",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
