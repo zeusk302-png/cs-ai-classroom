@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 20775,
+  "checked_local_references": 20789,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "8860fa95151aefdafd948471e78011e39720d3f8dfa61ef0e9a4cbfd98b8dc87",
+  "public_bundle_sha256": "0e11712f8bc3d97b40b0d97356936a2f2bf412bcac845ca449713827fdf74f23",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,10 +8509,20 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 43,
-    "rendered_subtopics": 43,
+    "reviewed_subtopics": 50,
+    "rendered_subtopics": 50,
     "learner_testing": "not_performed",
     "units": [
+      {
+        "course_id": "calculus-1",
+        "unit_number": 1,
+        "subtopics": 4,
+        "source_sha256": "85085d81fae0a71cf0e83203e0279c04f6518719ee6948bd0f44aa7d44caf388",
+        "base_source_sha256": "ae2ad29436cdc7c9e26308b4151301387e8a90454654d3d7ec552dfa1b8ae0c0",
+        "review_sha256": "92475c33a0c73e53b0a200a06fdc7cc586fc582e88930dcacff5f99d7426da7c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
       {
         "course_id": "python",
         "unit_number": 1,
@@ -8560,6 +8570,16 @@
         "source_sha256": "0de57cc609b9a1fa1de5988c589bbc1244a52aaa96fb20b5ded81b5309187b41",
         "base_source_sha256": "83e841b80269cc9397860f53f6faac28067129d391e9d05e1a056239a728f90a",
         "review_sha256": "afb17d7668edebe435039eda80cecbbbe7e4874fe000f7d993523077c23f3c82",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cs-intro",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "fec0830bc26b47fd65dd9e09657fbb368a80e2b5ec29cff2e9e752bb2ec7a8af",
+        "base_source_sha256": "6c209a830950be9f2dd90cdac121ae00418ec53495099de3c6f19bf5a4c3a62b",
+        "review_sha256": "8aaadf4dab79327868b788737c4656e6c9f0f61aabfb28f4d805503f8b722016",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
