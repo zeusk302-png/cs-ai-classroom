@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24421,
+  "checked_local_references": 24427,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "39b0da88839b1f2199d925b63e12300be520bfcf9421e74d74391506a39fdfad",
+  "public_bundle_sha256": "0a14a7840d360cf9ec4b944869a9b8fe5e96bab51ddcd646bdd82baf498396cc",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1866,
-    "rendered_subtopics": 1866,
+    "reviewed_subtopics": 1869,
+    "rendered_subtopics": 1869,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13760,6 +13760,16 @@
         "source_sha256": "f00a8591c5e0633173d56297a70d06d7250c696d3645d101d2335ead6d428d84",
         "base_source_sha256": "dbd0e3e0cc9b1b1d4581f1f054474622ad852b816eade49581c25a0fad4cccc2",
         "review_sha256": "6b0f867f5d849c65d427298234a22c9ebd60c7dfb3a667e7eec921ea57c11660",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cryptography",
+        "unit_number": 6,
+        "subtopics": 3,
+        "source_sha256": "53f94e76be1ad9daea8eddbb24a78359c3f4d55503cc6467a71dfa6171edbb90",
+        "base_source_sha256": "e44d9069b31c9afff0b1f8d19270b3dd2db237bffa6a2c1a7bf9e13aad2679f1",
+        "review_sha256": "dc26e7bb195dffe66e39f7f64ef1a43441a0da2ee41bb7175db873ed3f48d70d",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
