@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22163,
+  "checked_local_references": 22191,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "e48ee9c8f0ac054601fd77aa58c6b52b53956861a90252f3805a3ebe97462851",
+  "public_bundle_sha256": "15cf2ed46503c0196ce0da1063f7b46181797f60bffd5d8cc5430319a2250a9b",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 737,
-    "rendered_subtopics": 737,
+    "reviewed_subtopics": 751,
+    "rendered_subtopics": 751,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9475,6 +9475,16 @@
       },
       {
         "course_id": "linear-algebra",
+        "unit_number": 6,
+        "subtopics": 4,
+        "source_sha256": "bc434ad882878eef6522dd3767306da0275a710a6a3678eba4e27a74f7b0d747",
+        "base_source_sha256": "a5fdd506c59c13c8113df5eb4dd2fcc2496ad6b7e16dbe079956614fc265df81",
+        "review_sha256": "f1f12a48ee8b06895ce4593e84efb50c4a5898c0cd64ff207e402039953a287f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "linear-algebra",
         "unit_number": 7,
         "subtopics": 4,
         "source_sha256": "32a3d598ba6885a0ff7db58e1f7499e05502380e70d163f4b42f2134eb670a61",
@@ -10124,6 +10134,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "architecture",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "aaee1def78976f70ec1c7423cee7ffe60db91fbac4e7096bad5d76b88a8ead05",
+        "base_source_sha256": "b09ac66ea16455260b73168a429befafe01ca9827b32c5a38dbb4658a5242d73",
+        "review_sha256": "27cb3b244f8b7614b528dadb575bc8bca6a5e60a7297ccb67c0069094665653c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -10300,6 +10320,16 @@
         "source_sha256": "70b8009419b6b0d07da51acdbc4f31c217861df2090022c12e6eecc0a8b9f951",
         "base_source_sha256": "d0ebd47b5fb5fef356527084d022285e4d7065f105979072adf47a2c26634abe",
         "review_sha256": "f00178d06f8885e9c24a370892cbecc70efc5c7b6ceb1d8067178df1fce32b04",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "programming-languages",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "898a7a4fbf9e2f6fcdb29b938b4e48cda06538f199e419be5ba1df82f4134cba",
+        "base_source_sha256": "757147e7b8d9d4e6601d9225cad2101a4b0f4babbe8ce3b5c28210811396c480",
+        "review_sha256": "e7b13d9cd29bd448e40b0ea8ab51839a91ba38be8fd562085734baebed6726ae",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -10530,6 +10560,16 @@
         "source_sha256": "43b16b2c86844effd885af4b6a204fc97689f0379053eae3a79126b37052bccf",
         "base_source_sha256": "a8c29a38d4f0938315aa44e5a45807e61196d8877f52f0efa2c208bc292e5005",
         "review_sha256": "f700884155c412770295c29d567f1d6889177e772d90ea1b7c0a5620bde03ebc",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "testing",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "bb49112556b6894c5b7d7b4370ea5fa87f4f9641a1582860390f75bda0886c93",
+        "base_source_sha256": "508cf56e8deedfb47c0a237636b9ec718bf82927472ed45ced28c180dfd05f0a",
+        "review_sha256": "750b796ba7491b6989b44a169f3bd2a63e719682dd89b7e269bc955394abd6cd",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
