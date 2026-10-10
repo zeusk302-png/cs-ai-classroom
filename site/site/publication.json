@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 22147,
+  "checked_local_references": 22163,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a412b01205883a3d82a40952a270b0e008e74b10bce9988c34c69bd8b26a190f",
+  "public_bundle_sha256": "e48ee9c8f0ac054601fd77aa58c6b52b53956861a90252f3805a3ebe97462851",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 729,
-    "rendered_subtopics": 729,
+    "reviewed_subtopics": 737,
+    "rendered_subtopics": 737,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9470,6 +9470,26 @@
         "source_sha256": "94a8615deb606d487f084f5eb36429650ba207370753f584957eff1a081f0e2a",
         "base_source_sha256": "eb170aaa4f95ce6dac7a4766238ed9ac2987694cb150f059644180e9bdaa9bff",
         "review_sha256": "27a41c929d0a02ef06261ed2a1ffa27d2e0a97816ecd422489aa09820b275083",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "linear-algebra",
+        "unit_number": 7,
+        "subtopics": 4,
+        "source_sha256": "32a3d598ba6885a0ff7db58e1f7499e05502380e70d163f4b42f2134eb670a61",
+        "base_source_sha256": "445d70baf1a8f3e4ed4dfb789f3d5378f8b1f15eb4592d4a4552544db54c6dcc",
+        "review_sha256": "00d98b33ff3fdd9984a20e01acf564d432aac6abba043b0c888904313eaba314",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "linear-algebra",
+        "unit_number": 9,
+        "subtopics": 4,
+        "source_sha256": "a5c1d71668aa7c37c2708550b6aba8f61f79eab263b925c8da4e3d06b2457d43",
+        "base_source_sha256": "ea6235e2e00fd9ea7052ff92b6d0766261d1611a6d4cdd8bcdfeabccb4f4a74c",
+        "review_sha256": "75d691651276c993c22364514dd322166c9e718896d0045d31fc9a421408aaa2",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
