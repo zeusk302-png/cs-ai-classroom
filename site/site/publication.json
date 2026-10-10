@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24293,
+  "checked_local_references": 24351,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "f3d63589f74d964656438a216aa6cb253b56fb0877a3d83fab6c93abdfaaa73b",
+  "public_bundle_sha256": "3794535c6005837092452a297011bcbb6d9805914ca7fe88b0f3e0b505e1a60f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1802,
-    "rendered_subtopics": 1802,
+    "reviewed_subtopics": 1831,
+    "rendered_subtopics": 1831,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12324,6 +12324,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "deep-learning",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "3c0b6e23771e82ed295ccf116a024c32fc0433109c8650f5aa32e887c6a9e990",
+        "base_source_sha256": "b6fe043dece2c7584210f2f7acdb3b630e85c8acc0057a6430af33a828c57bdb",
+        "review_sha256": "c6a4e321e6e8e546bfc8c09e3a9121f88618b08738a7eada0a1bc2c60d8d722e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "java",
         "unit_number": 1,
         "subtopics": 4,
@@ -12944,6 +12954,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "optimization",
+        "unit_number": 9,
+        "subtopics": 4,
+        "source_sha256": "c1383a8662ee42ea1859473df589223fc3039337eceeb2ad0941ef81ce684f1b",
+        "base_source_sha256": "bad34629b21aa84092129f55fc36602438c6bd959dee6c95427ffa28bb20460d",
+        "review_sha256": "60a44bb3611f33895a0e57c5e931fa604567bc87e52c7339958079b8a0324073",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "physics-2",
         "unit_number": 1,
         "subtopics": 4,
@@ -13094,6 +13114,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "signals",
+        "unit_number": 2,
+        "subtopics": 4,
+        "source_sha256": "60ba1c1c9119595c6c0c28fd3bc3976d6dc98a81a0a821c7e0880be0851dd42e",
+        "base_source_sha256": "9d054cdab42cdce692ed5053a4a54765b459472923fd0749418a566cab1d9a23",
+        "review_sha256": "12fef3b2c58f43482b7d5542a8d7c45ffccf123c44e51fed690d411bf3188b2b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "compilers",
         "unit_number": 1,
         "subtopics": 3,
@@ -13240,6 +13270,36 @@
         "source_sha256": "ea05cfc44d95feca1159b128451fdd571ae38a2683f6e1a2866fcbc432cfe56d",
         "base_source_sha256": "b36edb7180cd1cd45f07d2c500779d89fe914d17820671646a9bd7df012a2a98",
         "review_sha256": "69c2d933cdbe1eaec51f397a5cdbbb7dfe74bd635fc071b42f3b1bc9a995f0cc",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "distributed",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "0db934997124db3ffe8d9f6eb4d4cdc3391a9fad043b5f38e9fb3d09e4948e8a",
+        "base_source_sha256": "c289109a0974792b9d97a6e345786a5bcac74f876954d79f4025009d0bd7f188",
+        "review_sha256": "afcb1c7d94c376ce7079d215748b9f401acd511c3d3335fd69c5a29272a19091",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "distributed",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "63161d2f828ecdd4672f9d1a7b318fbcb9680c80cd94d9e284f8eff1bb0df7c3",
+        "base_source_sha256": "7eccfa1d4e4623ba103d58356289b663b037014075c85128923bf7db5463068c",
+        "review_sha256": "2e1248033445da2c6aa89ceec2e0608c23da1db788ceba0c16ef4f34935748bf",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "distributed",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "f15ecc6f003f98477d79491e95684ee679a484777646f5b1b0e1d8ed5c2914ab",
+        "base_source_sha256": "f2313c522c9c60f5efee69d1fb897c653db1af25c93f71ed299939e1ef7d523c",
+        "review_sha256": "a2ce519478e32ed21a140d8b6010f2b0b7ba661f6ac054313ba84186ba437891",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13560,6 +13620,36 @@
         "source_sha256": "5fe050349c92a142e2b244176690b68986873b7e6b804852d524ccde825df6c5",
         "base_source_sha256": "e2002cefef746d73cdd8feea863f1a23299f7fcfe5d38135fd0d8e9af095d8eb",
         "review_sha256": "3a1618137fc0a13618ab6dbab77cfc3029ab9db6750b84ae8d4de32243f83a45",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "graphics",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "c1aed181af1467faa0e820bd7fe6a526e38f85012fa5f936d23608198660aab0",
+        "base_source_sha256": "a77e9d72b3dbe38fb99ee63bf9869d43b2d37587cd0f9ee375860fc9b1a712ad",
+        "review_sha256": "07fb8a7455b42e1afed5bb746f3a963008af9f848c652bf86500f16e6138c1c7",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cryptography",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "cca670a9ba7a358b97546f8bbc564d595885fea37ee58a6f8fee828dd6b8bcc5",
+        "base_source_sha256": "24ec4fba94c1425ea9e7bbcab4b44cb75b02a2c9a76ba936e1005429e6a94395",
+        "review_sha256": "3b7b5680d6943e5407490e9cbec9e6d08eb40808f6369da8baf66431b44507fc",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cryptography",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "3be5f0381f8653463f0cd7831c6e91523f4d26431b11be3de37d6d2cde36176a",
+        "base_source_sha256": "ea8fdca5660b1b5df9079e130dc8c66fa576f89fe58af9a6278d9bbde5619c72",
+        "review_sha256": "5e0bb38a86741f53a9cb9895ffa2a6ed9844321ad45c00c2b3097ffa434a69e5",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
