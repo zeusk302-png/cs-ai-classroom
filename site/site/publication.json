@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21411,
+  "checked_local_references": 21427,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "8c4b343eed2f6dcd494e746eaac43a22244a6ee723e26aad792324e45540884a",
+  "public_bundle_sha256": "945fc3a9414284331bfc9cd497f415c97e9bc80cc61ff4a9ab264391adcc19ef",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 361,
-    "rendered_subtopics": 361,
+    "reviewed_subtopics": 369,
+    "rendered_subtopics": 369,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9214,6 +9214,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "c",
+        "unit_number": 11,
+        "subtopics": 4,
+        "source_sha256": "d5c49ede7a590b76e6b6e9aa38a1a7a9b9d11a48496336c5075dbb369114a6e8",
+        "base_source_sha256": "78af9114b75823b40f99ce9ab30e8c445ae3ff08ccf74c1a51a3a14d6fd6fde1",
+        "review_sha256": "9ca0360e22b1abd8084bf2f58e28747f317ecaa7b80518c72641431293961531",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "linear-algebra",
         "unit_number": 3,
         "subtopics": 4,
@@ -9330,6 +9340,16 @@
         "source_sha256": "d494d5d30e2e171d285bed7abfe0121790feaab1a372ed344375c8c2e0272b42",
         "base_source_sha256": "ad0d6eaf341258f330f3b0677021d675007e1736436e2f09272bb40eb2c11f64",
         "review_sha256": "b1aac3e2055adb16727ab3c36d2fbd7cb09d0b44e0b1309c19666a90f7e3927f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "digital-logic",
+        "unit_number": 10,
+        "subtopics": 4,
+        "source_sha256": "017ba7b1ba4b8fcd68276eb2cdc25382cee6009e8ec694f7e656d5bd642e742e",
+        "base_source_sha256": "0652154987c98c902345278eb37079b5e20364e0b9eb741a40ac98828f8f33cd",
+        "review_sha256": "46a27e26eab86aae0178c5b391917197666f74f1713a4b88c4abd19c654c4012",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
