@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 21651,
+  "checked_local_references": 21677,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "eea9c425cf809d5a8ce8e7da7782de1ba85f53f347b6ad409db5663f38a29725",
+  "public_bundle_sha256": "5ce067824bde80d28007a03912154ae26bfe08b412a403d864a064d39e26d8c9",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 481,
-    "rendered_subtopics": 481,
+    "reviewed_subtopics": 494,
+    "rendered_subtopics": 494,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9454,6 +9454,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "discrete-2",
+        "unit_number": 14,
+        "subtopics": 4,
+        "source_sha256": "bf51659e389399d27545ef73db7e10038d211f26c6c7a099679c08c0e595330f",
+        "base_source_sha256": "bed6286f58322f19ef369514e186a837eeef04a12efc52308506a04f66feeea4",
+        "review_sha256": "89f04af9bff1dba746b874913a602b7d32a83b9049c1be2573b565523fa61554",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "digital-logic",
         "unit_number": 1,
         "subtopics": 4,
@@ -9635,11 +9645,41 @@
       },
       {
         "course_id": "data-structures",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "427eb3b414f2968685195b4363c89d774b885225466d218d0fc4761e211c7bf2",
+        "base_source_sha256": "8aed35a8125f0972220e60584bb0dcbdc7bdf164629891c31281605b89cc3a18",
+        "review_sha256": "11831098ec2fa9cf0637a861d54ecac647af77746c1e2399b2e79e3380a8c31e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "data-structures",
         "unit_number": 3,
         "subtopics": 3,
         "source_sha256": "8044946b3094e66c74c1a00311d39d5ff023b45b08c5bfc2d4416048223796c5",
         "base_source_sha256": "338ffb666d844c80194e23385bb87a8bede36cedc96b9b9eb46fc177ee358e51",
         "review_sha256": "9d17c4e100a1807a76bda3a627d0a251c978c4281c46ff38ca2c24b90e6ba760",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "databases",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "e80d2157936fffaf53d64b2c8d23f60075b82d40394a2172dfdb2babf2ed567f",
+        "base_source_sha256": "079f4f260d27e913b9a62d8709e1f134d463e32a52c36cc9c78067b320f124a5",
+        "review_sha256": "7bd41c4493b85654de60cd0e14b958d353ab9e0b75b07b319efb24adf47892f7",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "databases",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "d6ae6e13612fdb04ae741eb6a14a94bd114fa58da6a2e9ec3063336db12eb72b",
+        "base_source_sha256": "3b8242928a638baf2870103371766b80d4739f353b37f2472a7a840239098c7b",
+        "review_sha256": "ee39936d43021201e8532a41d7e2f7d5f1b533cd48fc2cba726b3485a324c95c",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
