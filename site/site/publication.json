@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24247,
+  "checked_local_references": 24267,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1a32dcb7e8265eb07768c890c0cdcca8099a95a8a98a663b3bbcad6fee8a8afe",
+  "public_bundle_sha256": "5923adc68d5df2538477a951f881f1edeb82b3dce017a7663c89f19d778ddf0f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1779,
-    "rendered_subtopics": 1779,
+    "reviewed_subtopics": 1789,
+    "rendered_subtopics": 1789,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12314,6 +12314,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "deep-learning",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "aba6d05ce13794af8239ef944e611ceb0f47ab78e748b3d536bdeb91298180f1",
+        "base_source_sha256": "670b27435cfeb3d81f84a03255cdd0b679edc73a9a917beacf8fa33bf786b15a",
+        "review_sha256": "14042b83ca9352ad325e66a5bdc38899dc03668de2eef9e2efb90dbdbf2247ac",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "java",
         "unit_number": 1,
         "subtopics": 4,
@@ -12924,6 +12934,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "optimization",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "fb0d30db3110d7474c47f0e0839f71e122f9504724f2906682f2d357499047ec",
+        "base_source_sha256": "9c4678825f88174c20c25cc019508e43045b110227f22d50be51a27050dd710f",
+        "review_sha256": "6e3d90995ca147cb2935fa7a510aa5b8af8fa5b8b6e4ee9fd8ed7a8040f7f9f0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "physics-2",
         "unit_number": 1,
         "subtopics": 4,
@@ -13190,6 +13210,16 @@
         "source_sha256": "0247672b385ae8bea304a09191761023c60ba77b79cc620aa47c1a9ac5d0f1bb",
         "base_source_sha256": "e127843827566000c749b1910c9e366a664fc3063e1ee2120cfb36f5010d17f9",
         "review_sha256": "23d241e299aed9c4b4387595180f42ade4279b3db79f22bc8b7c9cd00852d07e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "compilers",
+        "unit_number": 14,
+        "subtopics": 3,
+        "source_sha256": "cdf5c8706206bd8e2f7296ed69953f6623834bf84ef93bdb00f74563918de840",
+        "base_source_sha256": "a88e3e832bf780a2a808fa5fa3cdf8145cef2e08b3fbd9ef32a679c6d94fc0c6",
+        "review_sha256": "229d40c9c873a30c486e3f1142ff91539c7ab9893b5d94981e9f9cc02ef8f4d9",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
