@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25465,
+  "checked_local_references": 25483,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "e2bf096939e049ff2b73d2fcbff77815ac6d73aa7bcb68516c486d83df5faaab",
+  "public_bundle_sha256": "004b51c7ba18ca5adc7848ed4229f7bfc6787beb3291152567222f8a7a4c5c66",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2388,
-    "rendered_subtopics": 2388,
+    "reviewed_subtopics": 2397,
+    "rendered_subtopics": 2397,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13814,6 +13814,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "embedded",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "8410476a1ed242173d50d24298f6b9ff6db63e9e1b0a78e7387250b64a8948cb",
+        "base_source_sha256": "2754c9571ad79d00992edb6304d1aab4b6c10428e853205a3792bf5290987363",
+        "review_sha256": "44b7362d462485a9ee397c72ca35afbfa960744c5e8429ce19f5c3b9a8a8c3fe",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "embedded",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "b4ab67cfd4e104c0b4f9afa84fccd63872c9fd22d9c4cf20f59dba96fe90cb1c",
+        "base_source_sha256": "e57e3fd7aa0072b8622865d3597d450e536f706f2ec5bc841705e5c6dac17317",
+        "review_sha256": "88a68b21bba7f74fc8c06293bd0c78d7680c58c8d26bdf28869827a7bdf071bd",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cloud",
         "unit_number": 1,
         "subtopics": 3,
@@ -15570,6 +15590,16 @@
         "source_sha256": "71d365149681f28136e4aa398a88623e92fcf515b4e1f5a80cfe629c1af9d97b",
         "base_source_sha256": "becb5e7d9aa60f66d2bd0b8489af6f3a06f7d106d30be49c940ab7199474db46",
         "review_sha256": "76626e06bf46c7613b596d9bdd6290bcb3cca7be1dea9f8a9f4f529b9dabd86b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ethics",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "26ca4e66714f43d336368aebb7d6688e01ddd9bb5c1ed93c7bcaeea6a8b72244",
+        "base_source_sha256": "67c2b6175a77f8d88390da1c31088063161a0a1d6ef1449232969ac22cd6e28c",
+        "review_sha256": "9c0a2774b199f32dc11d37235b4cdb0fb6f371e9dfac95e40af2e97d099c4ea3",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
