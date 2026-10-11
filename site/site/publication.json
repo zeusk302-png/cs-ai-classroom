@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25525,
+  "checked_local_references": 25549,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "04937264699212f3bc85a5c26ae55cdf8967e7ba95c326555becf4006fe09e88",
+  "public_bundle_sha256": "f329af4e7fe4be6f545b4413a0c068ad2dfb11ba3ef76a54c0f8c694501710b8",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2418,
-    "rendered_subtopics": 2418,
+    "reviewed_subtopics": 2430,
+    "rendered_subtopics": 2430,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11805,6 +11805,26 @@
       },
       {
         "course_id": "software-engineering",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "4d438e5a80f114da3b458189fa486ec9d40d1bded0bc9bd840c3f0b4d02c7faa",
+        "base_source_sha256": "e81b59e6ec5da49a267201c35caa2eceb450c23094a069a2a277de739d85b73c",
+        "review_sha256": "3d859d2e991f324f6cde3927c06bebea3c7c2e97e524b12a501513c40aeb6823",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "software-engineering",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "366df796f1012ffc33729411d993e08437a6cc37c52782288b9a6d8793c51592",
+        "base_source_sha256": "536b8d67d32d906c4f7453c3478c4374cbbdf7a13daad7e4d8088d551e4805fa",
+        "review_sha256": "c6a89491184086e14b13d3a0d5150c6f24f6c675b74b3caac932ccd14b9958b1",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "software-engineering",
         "unit_number": 6,
         "subtopics": 3,
         "source_sha256": "b1ddc74846e770ce371e60e9ae1c6d8331b40ea95a40b59474cf5c44170482ad",
@@ -13744,6 +13764,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "parallel",
+        "unit_number": 14,
+        "subtopics": 3,
+        "source_sha256": "1ee132ac8660309a468c676a856d741d00bbffd6f336b7c7246a3f721b652b48",
+        "base_source_sha256": "39017f589ee168463c87af17b31ae80645f4bd1b5b626ee606f4e55963dea73f",
+        "review_sha256": "215c76c7563487077eea25122d690e116ce7c0f4ec998b720d97afe1825d539e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "embedded",
         "unit_number": 1,
         "subtopics": 3,
@@ -14540,6 +14570,16 @@
         "source_sha256": "6f2bce7841950964c3a8c82907acaef7cd2242ae7614878a4396f42d8bc2476d",
         "base_source_sha256": "f141f357c3119819730c25b27428b0f94c706bbccef361ec38c08a9702de589e",
         "review_sha256": "1c9acf7929413cad0409b0343476643901360c9b7f95c9af7b234f43554609f9",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "reinforcement",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "4adf677d00f5d589da966caaca590fb39106246cdb3660b783193abdc236c0f3",
+        "base_source_sha256": "19a168a36391351ed64cca7251fe831aa27ac20d1bd8bb47ab93a45c97181b8d",
+        "review_sha256": "ccb9637d69ddb03de6802472600a1e55edb19b3206540d6d9bd75c5e297e31ee",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
