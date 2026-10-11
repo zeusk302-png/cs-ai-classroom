@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24479,
+  "checked_local_references": 24491,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "bc7d57eeaa62d24655f2df899e9dc7dc6aebfb09ba0db0399332af3094b468cb",
+  "public_bundle_sha256": "f6ccf386af000274f0b3ec607d4e893156fe73bd603de2e26e4a6e9412b5fbe3",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1895,
-    "rendered_subtopics": 1895,
+    "reviewed_subtopics": 1901,
+    "rendered_subtopics": 1901,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12364,6 +12364,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "deep-learning",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "bbc303424544d87265dabc0e96e00d6ef05a60b8650ff0239e29d94b14ed4f19",
+        "base_source_sha256": "0dd7ba7098405e5baf99378aa12cc402f05dabac5acebf2fd98a19025a15e75a",
+        "review_sha256": "d80e3be82418d7604be2c7b5639d8ad83af862d8347e93b24ecacacd8a01b5f4",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "java",
         "unit_number": 1,
         "subtopics": 4,
@@ -13490,6 +13500,16 @@
         "source_sha256": "9e98cf15637bda8172b3e64c6a9a0b2cea2ace473cf70c398d884ad4818701a3",
         "base_source_sha256": "37fdc23b5ab25046c2152d41428022f052655c4c3b6d092d52bc46dbc139b335",
         "review_sha256": "8eb7066f6f55f0808e144a9d83281d14d8a8dc1165a88fae53a39be4e148765f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cloud",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "6a506b9b0bd010d90d81a940655828390131ef68e55c608d89486af7697e213f",
+        "base_source_sha256": "77f99b7af00dba31ed10ef19b99d47a3ab61d37a81dac58c52925cd6f87eff11",
+        "review_sha256": "3cb1a8e44b783a3519a3109aef593f928560ef8bb7c48ac2cf939179d2c25651",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
