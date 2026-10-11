@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25003,
+  "checked_local_references": 25027,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "9df47f59990da5cd08d6b474138721cedf3cf7b278fa79ab1a97543a21a16dc3",
+  "public_bundle_sha256": "81f59a11cc46b866abaaef303cb6e4ae3c3090f334088fb157df38a2355e3e13",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2157,
-    "rendered_subtopics": 2157,
+    "reviewed_subtopics": 2169,
+    "rendered_subtopics": 2169,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13884,6 +13884,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "advanced-os",
+        "unit_number": 14,
+        "subtopics": 3,
+        "source_sha256": "e7e266632ddeccf733dcf4f498cdcbf6e24419e0499a48ad3038c3c8588fcadb",
+        "base_source_sha256": "a33d19c8a38367bbadfc7fda186ca044e9d30bb6455a0de6d7c12df67c19ac81",
+        "review_sha256": "5e325cf2ec2c0e8f0e881d0816dbb0befe4d3b641c80a790f777af7bec9bf772",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "database-systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -14534,6 +14544,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "hci",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "21c394e01282ade36025c81fa09c37fbe7581512166319ae075ff7e1c25fec12",
+        "base_source_sha256": "d44c3c9a03bf3e9336777af823b9e758237c3bcc43960d9ddfa99970a44600c3",
+        "review_sha256": "18add3a07b046ff220a72a8196b49b725420b3bb2d056a8ef2b31e580901cdee",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "hci",
+        "unit_number": 6,
+        "subtopics": 3,
+        "source_sha256": "f51ee33bae3d42e2203802943ce87baff126216fea5febbc371205ba0724437b",
+        "base_source_sha256": "b63f6e03668ed490b2c1e7cf6750d080f4cb729e21cedcdce575c3aab92a45bf",
+        "review_sha256": "73173917a1adc58e95ef3f0f56e0c4075551c45b86160adb76a94ff8655ea0fb",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cryptography",
         "unit_number": 1,
         "subtopics": 3,
@@ -14800,6 +14830,16 @@
         "source_sha256": "b96e20507ba1323801335178d8df4683eb0d0974a70edd2df6bb55abc0c1f5e1",
         "base_source_sha256": "fa27c8fe9b56fe38a5dd0d851dc622a7739b3d33ed147580875b880e43959eaf",
         "review_sha256": "fa510d1826c35a0d9d7e36f7cd7585fafc7a9bb69ffd7c95f148232cc81f1b2a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "writing",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "69cd21e4627dbdff80d466f66b1bd9bfc76ddbf4866c5041fa1d72fe76622dcd",
+        "base_source_sha256": "d397599664e86edc5d0d3003190c92ed5e19d18cbbe829b82202fa9287a935e0",
+        "review_sha256": "bd2035c7080f4ebba08ae2ad3ace5c584b74ae7dca3dd7e3baea5157c3552e83",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
