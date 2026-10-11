@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25159,
+  "checked_local_references": 25201,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "ecdede7432bf05601cb734352edf99817e21bb9e952f24c68c98482e2034ea70",
+  "public_bundle_sha256": "1a690207efca9b18958bdd491ad0ee231e1451073c2112c73d654e60f5e6859f",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2235,
-    "rendered_subtopics": 2235,
+    "reviewed_subtopics": 2256,
+    "rendered_subtopics": 2256,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13654,6 +13654,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "parallel",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "ca280611882f0c08b1a894977a626409ab2ababf40ac4e39b232697d3550da5e",
+        "base_source_sha256": "5418e696223b80f8151c0dd63504e2c79f4f4a920bebc01f0bdca604ca345f1f",
+        "review_sha256": "0be05aa737b306304bc8907d62fa98f677b743b5496be0f45daa26e01db4b4bf",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cloud",
         "unit_number": 1,
         "subtopics": 3,
@@ -14214,6 +14224,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "nlp",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "6c9508fc638c3d9b6dc0195277a61a2f83cb31c59903c71f166db635a2a38fbc",
+        "base_source_sha256": "802bfa57038fecb826eae185a3137fa96eca9a5a440945648bd74c3b38a1ad01",
+        "review_sha256": "2c6127efd14b6b9addeaa9804b8852a107a2216e6f9d29a5cf3bd9a270004152",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "web",
         "unit_number": 1,
         "subtopics": 3,
@@ -14744,6 +14764,46 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "games",
+        "unit_number": 6,
+        "subtopics": 3,
+        "source_sha256": "526664f432ba30ac86483cfd17f6f73653e9119d2aeb6db056c9b00c08ec7804",
+        "base_source_sha256": "cda0d13440e9d113969fb16773c370f077ff826d33e1056879162ac230903256",
+        "review_sha256": "fffe7833964b4372bcb443ffe0e2769483b66ad30fe188027458de7fbd7231ee",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "7bcc6753f73888891b618a11f4d38d9957fd287c9290789d9ecf0e20cb89fee1",
+        "base_source_sha256": "0173a7753f4c2760e0c4b7edff3aeea997f22b2652d2c018ee69fec67a0f2f04",
+        "review_sha256": "34282e31d1bebe73d927e4c4a1c3d95762d70d0929ca082d67129ebd8b33fbbc",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "5585f2e607b048b98590f9d38f9186c058cb65bd12099905ae99dfd8c27a1e88",
+        "base_source_sha256": "4b0f8eb9facb894b8be626ce8b39ab346295f6376aa6dda4f63fedfcdf1d03b8",
+        "review_sha256": "d77ead012d240d19778ade38c2a25e0e2cefbfebac75daa99c76eff02d4bfa1c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "655cad87122c18eb03ce958fe5eea71fb7b30a16ea6b3e19c361a2cb6cfdeb3d",
+        "base_source_sha256": "31f378d67345b4ab12b084de9bc1f83b8284e3b36c7e76af32942ecdfa845523",
+        "review_sha256": "2584b718bd870cb6c98584fd655e2d7f406ef054304ae84e61becd9f044717b0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cryptography",
         "unit_number": 1,
         "subtopics": 3,
@@ -15060,6 +15120,16 @@
         "source_sha256": "012b00fbafdc3916578f4fdea368e5ae48b6377a84e3aff899998b83d0434d5c",
         "base_source_sha256": "0b8a662ccf6896f79f49f59141dc2f92c96f94695f2e95a2b772b9aa48fc9b79",
         "review_sha256": "b5a025264202c16450a89b94814ef1a59fa3455f6a62c1d940deaae08444461c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "writing",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "0f1693f5f623772289c950ce35071613b4baad97ced1fded52ed8861bfbc336f",
+        "base_source_sha256": "21a4a026fd95a888536347a305ac995364c6cc0bdd0afe30cae4329f05667af4",
+        "review_sha256": "73bf42f1e24259d8cbed6f900c4e0aa735bd884aa0755d24853245e5d1ad3bae",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
