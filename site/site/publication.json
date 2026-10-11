@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25549,
+  "checked_local_references": 25573,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "f329af4e7fe4be6f545b4413a0c068ad2dfb11ba3ef76a54c0f8c694501710b8",
+  "public_bundle_sha256": "81e47bf5675752fd8709c0c5b3bf23085a98838426868060e81063855608dae9",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2430,
-    "rendered_subtopics": 2430,
+    "reviewed_subtopics": 2442,
+    "rendered_subtopics": 2442,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11820,6 +11820,36 @@
         "source_sha256": "366df796f1012ffc33729411d993e08437a6cc37c52782288b9a6d8793c51592",
         "base_source_sha256": "536b8d67d32d906c4f7453c3478c4374cbbdf7a13daad7e4d8088d551e4805fa",
         "review_sha256": "c6a89491184086e14b13d3a0d5150c6f24f6c675b74b3caac932ccd14b9958b1",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "software-engineering",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "2150f66506b6a31e4d7dbebf4fc79583448df0b3ce8855afbc06ee27d484b967",
+        "base_source_sha256": "6f5e9655098b045f15995fc5476e1bc02bc1c6c7a0a0195daf23bbcf3cb89b9b",
+        "review_sha256": "4460a565c9570c7dd5a22fbc2e444ab17861060893f0e8d4cc3d6d644e01cc7d",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "software-engineering",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "b670aac2c052bfd9a491bbfb8a88744d624a8df159e009739f7065fde43b9a89",
+        "base_source_sha256": "0a2d7cfbddabb70ff1556dbc0687e7fa85068a2d0d00750b003d4078ddc8f0ed",
+        "review_sha256": "c725718294a2a04e9f2bfe52345c87fe63414be8585bb99d3a2cfb0696a1c776",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "software-engineering",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "934bdef24a326779e7b2a2e54fec93ebd874cfde04d436afcfa2070644662ce7",
+        "base_source_sha256": "a533bc7d34bc7591c588c2067ec717b78f9eb2b03faeaec198feb5a646b9f757",
+        "review_sha256": "6d05adfae4e9a892ce1a35f0163c03d0c2833c29750bd0774b30ee9584fb7875",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -15710,6 +15740,16 @@
         "source_sha256": "ea8eed0a9e99c699e62a0f32993e63a3f75398927de3eb92cb0ace33e365ac94",
         "base_source_sha256": "d1d32524cbbcb3014771e776d988d4bcb2a0bfb8d06e5727f1a6b2954ca8b19c",
         "review_sha256": "c0f7adec1e5c84b1573a68c1470b50834658c319cd241e235c4ea2c8f362e726",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "ethics",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "2fe219ac2b968c663679d7d47bb8e52379ebcb9426f50e7c54275b789498db16",
+        "base_source_sha256": "dc41ca1683ccf6c91c98ace63f96112e04ff1030b5c50b7c3b3997d9962c4e64",
+        "review_sha256": "63fe1bbeef5f032feddd1088047590632d4742cff0f6deb15959d65fc579eae8",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
