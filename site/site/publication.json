@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 26355,
+  "checked_local_references": 26387,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "30a5eb3cbc75251a21e3e8daa725e207997ac7a70431ba48bce458c966c111ac",
+  "public_bundle_sha256": "d697f13cb19ebb389ba37756d8ac88df2c3c4f9d26fe5bea985fbd6ca5dfbb5b",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2833,
-    "rendered_subtopics": 2833,
+    "reviewed_subtopics": 2849,
+    "rendered_subtopics": 2849,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -9680,6 +9680,16 @@
         "source_sha256": "98c265f6df87d4d4566d080918612ba64998bae9b1737cebff9f067fdf7ea05f",
         "base_source_sha256": "a152b3f9241946a9afc7efdb6ed89c54edb249e37e83de28a4b39faf1d91066c",
         "review_sha256": "60eec2d28c4fe5cdf6e040cf2e861fe1b054829f92d587d3d1fdeeaa82546196",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "discrete-2",
+        "unit_number": 13,
+        "subtopics": 4,
+        "source_sha256": "9587529e11991fbce9cacdf42a78e8457463e5ee918a02775193af53e55eeef3",
+        "base_source_sha256": "7bcb94c61545cfedcdbc897ae3f66b8259761163122d89130168bf99d53aa74e",
+        "review_sha256": "1cbdd9e4e963b8c6765381ebfc48d2378906c3819d46fd33865d726189216690",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -11420,6 +11430,16 @@
         "source_sha256": "9b5730427ea9ab169c77439c4cc85157b9400c5f55caa6a4be0ce109531dfa08",
         "base_source_sha256": "ddb8018bfb4de477e7701506cebab9e4d9d88b2d4fc2d25401176234848f9175",
         "review_sha256": "c2d1715938af39a571a1f805dcee0f6ae4ad8bd583f84ea5e93b50efe3ddaa54",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "networks",
+        "unit_number": 13,
+        "subtopics": 3,
+        "source_sha256": "358445cc0c4dcfc9e6251a4ddd3c5e3233c51070e634074dfc99d0dcfaa1d016",
+        "base_source_sha256": "01424440bfb389f45cb3d52854366b5470162a73118ac3d70a48b8580f67036b",
+        "review_sha256": "6b94ed1efc7925e0a7ae1c05c798736e700bc7a15689b62b0bf12e8f0433f3ac",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -15545,11 +15565,41 @@
       },
       {
         "course_id": "information-retrieval",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "1a350a1f2c67008b48878b8253486ead72c3cc2af7d13914397b0f389f5da49d",
+        "base_source_sha256": "273df79c528757bff086af019fcb59edcd10031a175c175c95e6487062f626f5",
+        "review_sha256": "c41a9a48c47fd282463d5d1261d0522ef34a267a61085bb9a4f93710b5432ce8",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
         "unit_number": 10,
         "subtopics": 3,
         "source_sha256": "9a2e7297f1d1489973967463b528ceadac2957866111e5cc5c5d84689adc36ee",
         "base_source_sha256": "e4d6b5048aca81874949193542fc7ee33acd7e899501f90e1f34b00994c61abb",
         "review_sha256": "bbf44c2990c42464b639ed0c6ef80b1d614a11d22882d9462bbc2815efbeed72",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "7b9c2bddb7236bdfb943c96a66c7ccf2a0877444709c9e5e28c46ae7a9cdaa0f",
+        "base_source_sha256": "87224dbb980d5e7abc97fae5c3329f661b358127416272e8699c8cb94dceec20",
+        "review_sha256": "0a3b38c6bcedd41e858612957f6539ef6e22a14b4c5422b72184246c6d5304d4",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "a3e0e9b3200385e46b53883c682fb9aa269731fb07f60d8eff1bb4b4477f8ab7",
+        "base_source_sha256": "d43fd5f5e64043b23ad0bcb22efdd84097c7b37af58c4dfd25cc1a4c4980f204",
+        "review_sha256": "f63cbc8dd8a1dbc477be8790c19f2ff60c81084c0eb0b147f9b62ac8a9fba519",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
