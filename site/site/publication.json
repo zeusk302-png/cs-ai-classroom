@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 26311,
+  "checked_local_references": 26355,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "fb92ecc703bbd1dbf1f35d13d70986f2a937f06037d07d262963e6b547aa18a8",
+  "public_bundle_sha256": "30a5eb3cbc75251a21e3e8daa725e207997ac7a70431ba48bce458c966c111ac",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2811,
-    "rendered_subtopics": 2811,
+    "reviewed_subtopics": 2833,
+    "rendered_subtopics": 2833,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11285,6 +11285,16 @@
       },
       {
         "course_id": "os",
+        "unit_number": 14,
+        "subtopics": 3,
+        "source_sha256": "0159e658b356aac9ab589687757bc6aa3c82f0c351bef73d3df9572ff5e70da9",
+        "base_source_sha256": "a8064961332bfb949da7e9a05500e2b01a738262489097be8736874bae32bbd3",
+        "review_sha256": "36a568e0f1280eb2719dd613c5d733999726e1dc759c6fea2f68effb58704f58",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "os",
         "unit_number": 15,
         "subtopics": 3,
         "source_sha256": "0ae62051ef72c239eaf2f9bf8d89b8d20cb35fc83d33025a8c962b51ce241122",
@@ -11445,11 +11455,31 @@
       },
       {
         "course_id": "file-structures",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "056572f71c4af0059b11f87c31b9359f2be4204c9fb6726564188603a3ef24db",
+        "base_source_sha256": "81706ce5d50eb71fc2a0540c1dd7b178ee0224c7c3aea6a5107d0d43a1e6ec0b",
+        "review_sha256": "a2f3453ffa51a301beeb836fcc4bbb54a768b6bf636546e4e92851d1794e1e8f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "file-structures",
         "unit_number": 4,
         "subtopics": 3,
         "source_sha256": "7cc56ba42a8321f147a19d8ec3939581cad0cb9b9f7915dd9eac5f69bc241a8a",
         "base_source_sha256": "03987ae5681a7f64de1e8b464718ec65ed669f3f5d6e7fc919bc26baf96098cd",
         "review_sha256": "daddab1f0bc528a1c41cd106f457f07d819ebff5dadbf370b87369b47d853422",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "file-structures",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "8e61e3e8d122ed414cc94b537cccf8439190c995f018d6747869a256bac60d24",
+        "base_source_sha256": "8ac4060d5f4ae141b0dad6695d87be354a44dcd67c93bc7c581e6d4250814b91",
+        "review_sha256": "e5daa8812c917ee6c9c3b1a0664332ece9533867da8bb9b4f6b8aec8481f855c",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -12550,6 +12580,16 @@
         "source_sha256": "5bc0bbc2ae8cd59446e9cbfce089ac940c0c6e7e819975c24c2d6652baaf5d97",
         "base_source_sha256": "a35d14487dc25fe87f9375f4b74edbac62c95fc6bc4a5d8b27dfd199b291a8f4",
         "review_sha256": "f15495b05beb731097984911ebf6d958547cdec535f75774bf5225ae012c8685",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "numerical-methods",
+        "unit_number": 8,
+        "subtopics": 4,
+        "source_sha256": "b46e832a63a72dfcfb89000daa5c34e27b1ab9c4fe4d5a03491118db044bd5ed",
+        "base_source_sha256": "10f30f33df5edd14e58cf5d421e46b55dd0917d16c2275e2f1c6938d8b3718ce",
+        "review_sha256": "b4d692d35d70b421b198e3bfd59336eaf6caceb132ffa037a6498874f13445eb",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -15465,6 +15505,16 @@
       },
       {
         "course_id": "information-retrieval",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "1dcdc647521c51ea0d30bf4cc77fc6438ed19405d7f06cdd0e3d33b052d1316d",
+        "base_source_sha256": "50036bbf3a2a3e3ebcc99979bbf58c5ac61924e151f2f5c22fed47a9d089c36e",
+        "review_sha256": "c5c5653532574f1f137ba8b633df2d551ffc05f3f7d2304d914334b04a14d8bd",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
         "unit_number": 6,
         "subtopics": 3,
         "source_sha256": "43d3c224d21b462ba1863514474c4e0bafeb1318fa21687fb7fac25c040287e8",
@@ -15475,11 +15525,31 @@
       },
       {
         "course_id": "information-retrieval",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "2fee90e14067bb0b821ed1d6c89b96516767a4fe7d1f446669d218b236dc5745",
+        "base_source_sha256": "b5bcb01d22eceb516a3a654347a65e2005078bf59e88bcebac3895b1bc6f4903",
+        "review_sha256": "bc9baceb51b021b52adad102831166d9c7163bfce9e8d156d53dfdde3f4921a2",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
         "unit_number": 8,
         "subtopics": 3,
         "source_sha256": "663a2f6827043f8a4bbd8b7deb2dcd0a2915a431dbb0f2e6436ed79926f527f8",
         "base_source_sha256": "5d9da8f98b9dfc0076b25294a7212b5cc5312b32acbb9d312cea76aa7bfcd26a",
         "review_sha256": "735919e7242b59ee3250fc6da56ad3653250b4af95de4725e76b8e0ac1fb1c23",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "information-retrieval",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "9a2e7297f1d1489973967463b528ceadac2957866111e5cc5c5d84689adc36ee",
+        "base_source_sha256": "e4d6b5048aca81874949193542fc7ee33acd7e899501f90e1f34b00994c61abb",
+        "review_sha256": "bbf44c2990c42464b639ed0c6ef80b1d614a11d22882d9462bbc2815efbeed72",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
