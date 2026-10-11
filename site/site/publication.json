@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24913,
+  "checked_local_references": 24925,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "9f45cce80e63c3d00d386ee9997c41f8bba658b46bfa751d7124d498c096281f",
+  "public_bundle_sha256": "d1d3914931ef5c3509c420f50781258d9e004784078d3aeb1b32cbdbc037668d",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2112,
-    "rendered_subtopics": 2112,
+    "reviewed_subtopics": 2118,
+    "rendered_subtopics": 2118,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12769,7 +12769,7 @@
         "subtopics": 3,
         "source_sha256": "1f3cd8487b4e0ba7f2ddc6a531d440deb6b9679e4070eb4b0844df60a2a66a72",
         "base_source_sha256": "f9696b56e723017e7fc412dc2dc90a3c5306ba33ab532477739025337cffab53",
-        "review_sha256": "3bb2663715bd6742b095c8424a2047bac45d361cabcdfb2b8fb99be8c44ce849",
+        "review_sha256": "331abc05412b7d77be2373eaddbc4e27a706578433018461735294ccb26f1c58",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13854,6 +13854,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "advanced-os",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "fdb7b1ce4fdafb814287d5655e44a91330c1347a2544edcbb68196172c82b49d",
+        "base_source_sha256": "8e3f3d5657ff19a2f3d2cb6c6488c38655b50d16c13256eaf6edafcbdb4f344b",
+        "review_sha256": "6b99701dd491865ac9b465dbb64d657c980e74b6adf9ff761a74a722c1c5048a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "database-systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -14030,6 +14040,16 @@
         "source_sha256": "fe7232e160bbab5563906e1c6a658ae5447a5a47bbb76366c476a174e8d9cf52",
         "base_source_sha256": "cd4625dd31362313967d2d733d9636681712d3f217fd5bc8a76c5dab14e89a10",
         "review_sha256": "6f5b3e4198eee1320309529f93a1a508bb078fa94e0d37408287e4371701c7be",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "vision",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "f90d40e02354365201a35b843fc120dea3b91cdc65309baf3d4dfd73bc68ef66",
+        "base_source_sha256": "fa2717d2ce2694d57d8e7f9e7186febae5b44f705ae9a65ccfc5a697c790e7b5",
+        "review_sha256": "835878f8c86241c73828c4b29947ea9c702efd190f5ba31809ea399f0d27203c",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
