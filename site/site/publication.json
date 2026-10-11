@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25441,
+  "checked_local_references": 25465,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "d06bfc8e7d91cea28e73ea9f49bcf3d557423722e8bad7c505448542602e2e78",
+  "public_bundle_sha256": "e2bf096939e049ff2b73d2fcbff77815ac6d73aa7bcb68516c486d83df5faaab",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2376,
-    "rendered_subtopics": 2376,
+    "reviewed_subtopics": 2388,
+    "rendered_subtopics": 2388,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13724,6 +13724,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "parallel",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "069cfca8effa84f425eed9479b702d402666a407466bf85182e3990c06c492f8",
+        "base_source_sha256": "6a5e1851a32e1ec28b2743444b605d9aee00df208f3be07be9deacf8caee3bb5",
+        "review_sha256": "3d38a5f163ba62e7eff503bd0c82aa3b7410b6a53a66562769ff05393e3252e0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "embedded",
         "unit_number": 1,
         "subtopics": 3,
@@ -13780,6 +13790,26 @@
         "source_sha256": "a8390756d90cb38c2f5d1837dc6b66438ab1d942451a6e75fcfada5ed6734a8c",
         "base_source_sha256": "7279424b111d924523194557b197011aa678dff34947c1681f9027f0a9a468c1",
         "review_sha256": "3b211bf78cbd933307d2aa2de280aa728909b56bed9deefd89735799d6703bb5",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "embedded",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "f852d893000b8e78b906a5064589a2d5258c8ff37493d4a2f6314e063a5caf25",
+        "base_source_sha256": "f2abb694357761506b03835c3df2e8aadb75d1b94ec60e20f17ed2013cb9267b",
+        "review_sha256": "cc3f82ba0d76c6563106e2fa2ea354844409ce643f92a64850d8ebca01131099",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "embedded",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "803b4627118d98a6aacb971f9a636ae4e1648d53fbc30f794be2b3d7153a4cc0",
+        "base_source_sha256": "f7c01b326474e4fa299adfafc8efe6f14c14f96c25366f320daf0b46ac5d085e",
+        "review_sha256": "a79426fd0a76c37074538cf555541fc07aba0a048e31a01d2e92f2a4f732e28c",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -14420,6 +14450,16 @@
         "source_sha256": "a17db0f6f536e0a33fc7ac772f7d5aff89e66ae42bdcb3d17b5d15a3b059b6e5",
         "base_source_sha256": "710494d5423173f55fd16b9888946cbd4632183e32bcae602ad1a408388f64a4",
         "review_sha256": "ff4e9c308edd2bdb511a7bca16e9963e6d2df949d945c38914144c618fd6ed75",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "nlp",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "aeed6dd114639d81bc43d701a5e525db677bb1a29384cae1da9f6031437d6568",
+        "base_source_sha256": "f9543463fcc5e4c476b7b186f543c10149bd93fe2ad42db9ee47986e966dbb35",
+        "review_sha256": "16ee3b84594699182a92a6d9ae779060c86e8658d5a3ac2c88bad6c875cab4ec",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
