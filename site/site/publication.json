@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24639,
+  "checked_local_references": 24653,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "2f23b14b82c3fb93baf0a571d18925bd5b1847ce853ba31c94582bfa11bd9bcf",
+  "public_bundle_sha256": "14557a1746bac83bb55d089d2f93549c03ccd899a8dbc0b3c4aa720a25581be8",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1975,
-    "rendered_subtopics": 1975,
+    "reviewed_subtopics": 1982,
+    "rendered_subtopics": 1982,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13254,6 +13254,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "signals",
+        "unit_number": 7,
+        "subtopics": 4,
+        "source_sha256": "05b6c0b153bbd2b3e07868a9b8f56e93ceac2fb0df41dc7fa33b764c7dbd394b",
+        "base_source_sha256": "898f380f1db87ac769449b9dca54517f5747beb715741503125fac6478f2b640",
+        "review_sha256": "1860a3bf9799adc3756446534a34a21890a7867a03759423d30bd884fc5986c8",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "compilers",
         "unit_number": 1,
         "subtopics": 3,
@@ -13960,6 +13970,16 @@
         "source_sha256": "4e9c0b7652ad09ed03884b3b529427889526cb8003230612d1b96c6e332c4fe9",
         "base_source_sha256": "19b6bd6e0c83c811a137df03e125a58b521a33b08797035b06a622aeed8fb201",
         "review_sha256": "41c16952bc977d3512b6561a1a5fa32cf9c35c315fb8471f0208e07434c84aa7",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "graphics",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "db8ca0355f5cb0bb1ca53e849918a031284814f017cd7fd4540fe41c4ad3a5f6",
+        "base_source_sha256": "d64af0f6eeac544074131347b9f7876e1be4b45386f3c223eaf0da70a430213e",
+        "review_sha256": "89c3b3f441d112690e8d8349504720ea7b692ae245a9cafe80660bf9e18349b4",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
