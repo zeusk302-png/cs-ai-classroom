@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25339,
+  "checked_local_references": 25381,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1925445e933f1c71795d2e8bd2df50ec7475d497dcd8f98999279c7d4d2d9277",
+  "public_bundle_sha256": "6a1ca273afbaa8fddfe151f106e9db293bd44d053b4439786bb9ae08dd6fb1f8",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2325,
-    "rendered_subtopics": 2325,
+    "reviewed_subtopics": 2346,
+    "rendered_subtopics": 2346,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13694,6 +13694,36 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "parallel",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "2507f4fca7daf9a98c9f5fd6150558070fd4e8ee7cf33f40d361653675ebc216",
+        "base_source_sha256": "15239a9a60b20f549a983be16dde14785fa1fc758bb045e54d1301d980db34d6",
+        "review_sha256": "b4c986e7059d7cd4c4755d05033238fe09cc6ee496ab822b3f4c3ae76cd0f651",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "embedded",
+        "unit_number": 1,
+        "subtopics": 3,
+        "source_sha256": "7dd8c2d8ae1f2d8935ddfa93aa5370859d02072f739999a3fe00ca25f07e5637",
+        "base_source_sha256": "93fb88bd0d838f1c19ea42543020f628471bf6818fbe6aed4846fac7c06e54f9",
+        "review_sha256": "4a98d3d94c5545e4498fc928c56263c458133ff0c773c781548406c7bb4882c4",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "embedded",
+        "unit_number": 2,
+        "subtopics": 3,
+        "source_sha256": "1dfce6995679a7787dfd8762e5eb54df0addc46db48edd38e45b1e9271e0d003",
+        "base_source_sha256": "990608a96f5678f74defb56b39530e572371e3f27a0ac4a08e58949c424362e1",
+        "review_sha256": "7876f9d3090ac45a392e209c089f8b1d945635afe20ed8947b12f17216ef633b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cloud",
         "unit_number": 1,
         "subtopics": 3,
@@ -14300,6 +14330,16 @@
         "source_sha256": "6de21c6ca5f392006c843827b3afaa8f5c327c834f82419ff6dfcb0e3a4f5f86",
         "base_source_sha256": "ba1ef993fab93f868e864973318159da9c886916b360c06eb3037e20db2a01f5",
         "review_sha256": "586a26bf6a49b4bcaf9e39a06ad1cb1ae5ac5a88f97e468100ecc28871441e4d",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "nlp",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "42e0df1380d655018b82b1c7bbd84974db9285fe2aa34fa96e821db6ca5dd8cf",
+        "base_source_sha256": "e2e1453165bef83a67bfdc3e3b747fdfd2fbd2061c5f27312204d5d4bd57c862",
+        "review_sha256": "6e5b327adb64aad3ea4af21b146d917c8a847b7fb7f369832b34f3ffe9de5c1e",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -15264,6 +15304,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "writing",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "0e59848419349746316cdb436c97235d138378d6461e86bd00b0ff42e9e1b2bd",
+        "base_source_sha256": "92aadbaae713f3ee1b79446926dc47536978fb3a6ffd61181646a0dc99317e4d",
+        "review_sha256": "e9e67825e46a22e878da650e62f36c7fba0e0c28034dcbc456aa6a4a55909b65",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "team-communication",
         "unit_number": 1,
         "subtopics": 3,
@@ -15360,6 +15410,26 @@
         "source_sha256": "65a4fedf4c9d1dca0e6c7d88da88e4df92590bf99d5223dbbc70bbdb6d534a19",
         "base_source_sha256": "c611d9915a313d5b27c205da2e58ef9a7345e7ba521c5078d3abe81f61594c4a",
         "review_sha256": "0535868336bb2ad0e0e61b376d20121260598268e6a250145c6d950262cff66a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "team-communication",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "b36a1cad5cf4ebe7bc681d2f50449738d608ae54416eec6a70d46349cb540727",
+        "base_source_sha256": "94e1ab74c5689cd3f30f6e61918c43cacdee6fa2cf7c43ad6745ecf4ed6c54cf",
+        "review_sha256": "041b3819ecf3336b08a7108cbecd4aafdbeb81e222120840e73be012481a923f",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "team-communication",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "274ba2a70a1533d944029a3df449fb06e771344763528f7d78179fe62d6cddeb",
+        "base_source_sha256": "eee65a57a337ba5e08a50ca39dfb7d10ed51151a756fba27b0f9811030b957d4",
+        "review_sha256": "4b58b6e18c9cdf03a9c558eea4ca3ca7ab3a667d31248a31e11a2088b25966d5",
         "reviewed": true,
         "rendered_content_matches_source": true
       }
