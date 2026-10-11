@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24871,
+  "checked_local_references": 24893,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "b27e5520737a7f97e4fbfe7762f74fb07b49d55a1186d6786b00e0e41322bb8c",
+  "public_bundle_sha256": "cdf1e82e63142a5fb19bb3e2b468d2c725f448ee4e48512e7f5b142c86a2875d",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2091,
-    "rendered_subtopics": 2091,
+    "reviewed_subtopics": 2102,
+    "rendered_subtopics": 2102,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12739,7 +12739,7 @@
         "subtopics": 3,
         "source_sha256": "11096aef6f5ba822a9cea946c9e3750661e9e475b0fe3cc3bc0fdcd92da88ee2",
         "base_source_sha256": "801cd99556223053159111215bf7c42555bd846a50419a78a568efd5e8f73f04",
-        "review_sha256": "fec580825d6aef67637dc2e407b9d524feb598dffe69e4ee9045d7e5a5b233dd",
+        "review_sha256": "fee45c4ca0514ed16ff6d03b052cc7ed435f0ad9317654447d8fe9224de6e239",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13300,6 +13300,26 @@
         "source_sha256": "d16da734f4733fa70107876c8a630aa0e26258a153caf85a8ab3f21abeccd548",
         "base_source_sha256": "85cd7831db082b1284066633d4312325571a4b1be2623b03e0d09f7472b10a05",
         "review_sha256": "8eb2929d0418cb4637fbfb62219499a48de7419d45b34e1cd96c84e92239eb6e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "signals",
+        "unit_number": 12,
+        "subtopics": 4,
+        "source_sha256": "87014aaf76d3b25ab169a7d5535d39f9a1eb831919882dcaca2c086245ca4a43",
+        "base_source_sha256": "2206d4fd8cd2c79c2b7b2572e0901b204938b4566ed96e726728a13747d730bf",
+        "review_sha256": "6484431d448b7c8b0fe49365c9f2daa8204778167dbfbd71223c3f043b8400e6",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "signals",
+        "unit_number": 13,
+        "subtopics": 4,
+        "source_sha256": "6a4d8843ab757319aa6bbdafa6e3091f8410e4b5e1a012abfda99f833d8f9262",
+        "base_source_sha256": "2d1be60ece2fb0e992e8a3d1bc696250f3f1c004bdb4e73f6d57b41adfd2a1d7",
+        "review_sha256": "689e4c2d7b6df8d880a15fe6dc755ca8c745c04337f0b32e6fd9273ac5062534",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13900,6 +13920,16 @@
         "source_sha256": "a0921dbe3ada188c2727da1f5f91589f9ad0506c73558c3eca7b9af45360cfbf",
         "base_source_sha256": "2850e14431842c186d217add83c8542d64d964dafe0c76931920516446176cff",
         "review_sha256": "65b9529bbc25f322aa28d8a56002bddb606b204a9b91c442c696679baa713358",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "d8c19a21e6e001a85b9861f8e6283313ee7fb3066fb4ef14bc3b59f9841386a5",
+        "base_source_sha256": "300db28810e408d9c7a513995dcf3d0267e0c57a9a6190520f0ddcdf8f8141e2",
+        "review_sha256": "1aae3c6de8a0d9f12a799cdec374882f17039d5fe19d724948d34454905e5220",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
