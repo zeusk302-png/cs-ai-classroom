@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24833,
+  "checked_local_references": 24859,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "72e116453b5117d8f223837c7ed8a5b546bc0c574e599747090caea3f01cacdc",
+  "public_bundle_sha256": "216edf5e58c8fb969bf9241d47547b0e38deeed0a8757701a0dee65aa8173e56",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2072,
-    "rendered_subtopics": 2072,
+    "reviewed_subtopics": 2085,
+    "rendered_subtopics": 2085,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12709,7 +12709,7 @@
         "subtopics": 3,
         "source_sha256": "8cfbd2fa7e334ff57865fcf190007c46fe57e8378c7f92ee3f98bd0e48a5e6f1",
         "base_source_sha256": "b64589354cb369abd333f870b0fb84dc4c080b5714f1f04d0e9a089df70b2187",
-        "review_sha256": "e9fb5e2f8db5a3da7c310a1822762b6473d50d5944ca293677308390bbc1e812",
+        "review_sha256": "e1a6ef75338f70a840e66daf2f0ea76b8ff51c7b2e827334aa66665f37993989",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13294,6 +13294,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "signals",
+        "unit_number": 11,
+        "subtopics": 4,
+        "source_sha256": "d16da734f4733fa70107876c8a630aa0e26258a153caf85a8ab3f21abeccd548",
+        "base_source_sha256": "85cd7831db082b1284066633d4312325571a4b1be2623b03e0d09f7472b10a05",
+        "review_sha256": "8eb2929d0418cb4637fbfb62219499a48de7419d45b34e1cd96c84e92239eb6e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "compilers",
         "unit_number": 1,
         "subtopics": 3,
@@ -13784,6 +13794,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "advanced-os",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "a7a732feecec4f8eeb4830c9ce47df32ca3088202c339092f9eb908f92253ecc",
+        "base_source_sha256": "209b77e6d52dc9f1a262566f8ebb51bd2e4cae7354259f5d1ea4502a898ed15b",
+        "review_sha256": "fe52e1db61810310f86e14c25bf06046134596676933dc77b597bc2e6a9ad615",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "database-systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -13850,6 +13870,26 @@
         "source_sha256": "1331682bfb528ad227578ca42a6a7172e8d85178176def7a04205bbcb813c627",
         "base_source_sha256": "e0c9844bb8a0afa480ed8794d94b0d308bcc626ba45ca7d206e5835db4504689",
         "review_sha256": "a5dfff7de51c5040522c3d15dfc05102132a0f71709d9780b7a3963dce35658e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "81b9fc7590c0116a62212f2cee49c8e20ce9647ca0684f7acf58bb41b9bcf18e",
+        "base_source_sha256": "98e55f846dbc3483069889026f9201ced3abcc253c699f70e85367a165c21175",
+        "review_sha256": "441262e46074b8d09d86afb480748614ac616f6754fc72b09e40090554682052",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "a0921dbe3ada188c2727da1f5f91589f9ad0506c73558c3eca7b9af45360cfbf",
+        "base_source_sha256": "2850e14431842c186d217add83c8542d64d964dafe0c76931920516446176cff",
+        "review_sha256": "65b9529bbc25f322aa28d8a56002bddb606b204a9b91c442c696679baa713358",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
