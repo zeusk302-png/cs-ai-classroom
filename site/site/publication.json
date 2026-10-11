@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24439,
+  "checked_local_references": 24453,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "f7877140507081ea5798e1182dc8776e07ec52ea3aa30181f2e24eb2811d91f9",
+  "public_bundle_sha256": "13582d5da3592f48c1102d672ad18a59beaeefc5ce84234aae890697774f7e6c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 1875,
-    "rendered_subtopics": 1875,
+    "reviewed_subtopics": 1882,
+    "rendered_subtopics": 1882,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13004,6 +13004,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "optimization",
+        "unit_number": 11,
+        "subtopics": 4,
+        "source_sha256": "922abc5b6f669d6f51438579a50e8b455d737f79d97512d1efa45521177a3a8f",
+        "base_source_sha256": "647c72a541e73619a5adcdec237312cc8dd8f77b5580e2d7ae48fc2353dc8be7",
+        "review_sha256": "6bfe257ec8432b7e4581f86505d76e569478060a65d45862de7396e963c97a27",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "physics-2",
         "unit_number": 1,
         "subtopics": 4,
@@ -13450,6 +13460,16 @@
         "source_sha256": "05b8f3076755fc29d764a00cbc96b68e9c5f3d7d824296c707eba1f1fea574d1",
         "base_source_sha256": "45070ba14cad82af1ad75f8fbca4facb3e5fa2324aec44542e0657f4e093b8a9",
         "review_sha256": "65418694b5889263c4dad37c5639913ecf6c4cd8ededea1f3ac4c5978df7e777",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "cloud",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "9e98cf15637bda8172b3e64c6a9a0b2cea2ace473cf70c398d884ad4818701a3",
+        "base_source_sha256": "37fdc23b5ab25046c2152d41428022f052655c4c3b6d092d52bc46dbc139b335",
+        "review_sha256": "8eb7066f6f55f0808e144a9d83281d14d8a8dc1165a88fae53a39be4e148765f",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
