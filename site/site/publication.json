@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24765,
+  "checked_local_references": 24795,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "f1694ddd83e5b9686e6e29cdb553a207ff66c0fd3e8334a19071b40ed0e82d39",
+  "public_bundle_sha256": "29013a389149bc10f77a99e02c9ffd0e23d69b6ba4262fea116108c5a341f75c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2038,
-    "rendered_subtopics": 2038,
+    "reviewed_subtopics": 2053,
+    "rendered_subtopics": 2053,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12689,7 +12689,7 @@
         "subtopics": 3,
         "source_sha256": "381102ce316fe41d79d43daf496d79408e661501910a4980f9901e546d1146bc",
         "base_source_sha256": "283390230ae40a1cccf870a196e727c886ac2f999163d12d3a354cfdba832320",
-        "review_sha256": "b4c25fdb272b2644e4697bc1bf5ac0bf14c72c705e4beb6b1214436c1d0a2d99",
+        "review_sha256": "4ddd3896248d9d77c32d813107a66743c715fc181aa0b848da9b806b54b1c86f",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13734,6 +13734,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "advanced-os",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "7aae0cdd23a6f8e5ac30277978030664c0c96aabfa78bcfc59a0a2a6cb0ac142",
+        "base_source_sha256": "ed87b59d37a38193cd6d69eb36a49dcbedf8b4ee9c45b1bdf1838b9213ae42e9",
+        "review_sha256": "5a260cb8891871d745e253a6f49ae73efdc10f20cf6ec41a4421da57f9040e06",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "advanced-os",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "3f902a6aa6225ef3dafe576948b78e2142c2a312a46b672125b2a76555939987",
+        "base_source_sha256": "ec8bd3003723bc0a040d2c0def75a6bccfaf062c98f9ba1ade45b8f72bb8ccd0",
+        "review_sha256": "fbbd082d3dee61136d85fc882884404157f70c7c043d487d1258a7c30070be09",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "database-systems",
         "unit_number": 1,
         "subtopics": 3,
@@ -13750,6 +13770,36 @@
         "source_sha256": "c82fff3d2dc42836c131d7d42a5905bd4e25be4161e5e67a793bff57bffb150e",
         "base_source_sha256": "c293ad9995e5e47869173187e9a861aff8395e7cbbb0e001be58b99a2c998594",
         "review_sha256": "4144ff96d0e4c0cf647e0a195cd0aad0f9a9b925b266a2c4b7ebfc75611b5576",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 3,
+        "subtopics": 3,
+        "source_sha256": "c2fb97296a92a5c07c139776532e928b1eea7fcc8bc168bed663eadff756260e",
+        "base_source_sha256": "9ebe4c897cfff222cb214ee9cde85516fa26f3a24f9ff562fc62c843e9c47e24",
+        "review_sha256": "e3651e9f07dac00e75d41969accbb38c4628598ee26d8bb8dbc30dfc2cf7048b",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "916435930ac178370ba8ac55edf34cf795fc5cf0c350752c15f09ccc11aededc",
+        "base_source_sha256": "40bd29f7377631bbdc219c2823a0305c471449709799472928949b9265dcee7f",
+        "review_sha256": "74b20661b76a5730794d701f194ff477ad42ec913556d31e3272ef89d9686591",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "database-systems",
+        "unit_number": 5,
+        "subtopics": 3,
+        "source_sha256": "c327994e414ca81544f3b407a98f43b3d64f2e557e3ff446a62f43527834e8ee",
+        "base_source_sha256": "751b29195fef25a704cfcd12252574bee884807d8ee3e13a66ee00a6c3b14579",
+        "review_sha256": "f116a315232829c54945cd23c321e73f7ee22a2ec019391a594857fad8ed6613",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
