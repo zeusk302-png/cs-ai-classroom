@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 24865,
+  "checked_local_references": 24871,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "a152a041ff22393322a85af6a0b425a6ba62dd4a55f6fd05d6faf37f640413ed",
+  "public_bundle_sha256": "b27e5520737a7f97e4fbfe7762f74fb07b49d55a1186d6786b00e0e41322bb8c",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2088,
-    "rendered_subtopics": 2088,
+    "reviewed_subtopics": 2091,
+    "rendered_subtopics": 2091,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -12729,7 +12729,7 @@
         "subtopics": 3,
         "source_sha256": "606371fc5e7ab71dbf7c661956590888dfad02c0a6e7c1e86b4ae51eddb7a279",
         "base_source_sha256": "e54ce1a2ca35751e9b1b259420f0552922abd16ba0dfa49a3ea67fd673339392",
-        "review_sha256": "3aff797105f97ac54c2c836a119dad4cc2a8e9de56fa798a1680c21bcf7bf064",
+        "review_sha256": "cd9dda51560dfb406bebdab8657489371910807e8e4375de92f6591548ae8f23",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -13800,6 +13800,16 @@
         "source_sha256": "a7a732feecec4f8eeb4830c9ce47df32ca3088202c339092f9eb908f92253ecc",
         "base_source_sha256": "209b77e6d52dc9f1a262566f8ebb51bd2e4cae7354259f5d1ea4502a898ed15b",
         "review_sha256": "fe52e1db61810310f86e14c25bf06046134596676933dc77b597bc2e6a9ad615",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "advanced-os",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "a73e48d00427885d6c33ee67c45009eb23c38283c44c0e7afe74df7ef1f76f39",
+        "base_source_sha256": "4ff8398404cc659d969ba00c4bba2ebd0236015c440ef199869f1f39276dada8",
+        "review_sha256": "73686d589feb04ffe75c2edf7c861b71517f2f121ce89c0a97092e561eddffee",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
