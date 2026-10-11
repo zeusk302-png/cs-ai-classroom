@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 26165,
+  "checked_local_references": 26225,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1c7c48815d94ba81057c1a0a6a1e988be3e94d732705b056c97279080f6d1d1d",
+  "public_bundle_sha256": "9470a0b9d7350b7e29daa99a8db108b299ac5d0658ddc16a5d439f5cecddac68",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2738,
-    "rendered_subtopics": 2738,
+    "reviewed_subtopics": 2768,
+    "rendered_subtopics": 2768,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -11265,6 +11265,16 @@
       },
       {
         "course_id": "os",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "4bbe413bc10a74911f5e997b7b565d0662776388628b9ad1c49d211ba82d87ff",
+        "base_source_sha256": "2e2bd1bd2dfa21cec39e4ed5eeddb44b8fbf0c77cdc19c6a170e0ef7733e4f6b",
+        "review_sha256": "b3f3e3e83ca89c5ce5e6117bb1fabb98fc04673dd0276b76cce3419e5e9f7708",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "os",
         "unit_number": 13,
         "subtopics": 3,
         "source_sha256": "615365c54b553b1d36d12b4fdac57188a8d561c7ffb06c7187a76eb384ae380c",
@@ -11365,6 +11375,16 @@
       },
       {
         "course_id": "networks",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "b6521af8485bb8e8487825e6556573f623dbd418effa2daf62b3bedb11bbbf43",
+        "base_source_sha256": "e9faab991c915e58c5244ac114ca86546927ed32bfb4895d13307728d6aa87e3",
+        "review_sha256": "a52678168a6f65d3c137ffd2d1b966794483cd48f75686bdf112020c83c971fe",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "networks",
         "unit_number": 10,
         "subtopics": 3,
         "source_sha256": "955952486ddb92e890126ce4b076e71ebdccc6a24de23d79c96a8afe42ab21c4",
@@ -11435,11 +11455,31 @@
       },
       {
         "course_id": "file-structures",
+        "unit_number": 7,
+        "subtopics": 3,
+        "source_sha256": "6f0dc51f6ed46254c3f63f930979487d470f68fbf876f36915afc6d0c16562d8",
+        "base_source_sha256": "9520ca2ae9f761969cf670f843f4ca44a6c71c86d0eb87e88030cc18d65cdde9",
+        "review_sha256": "9fdb1b54761799b6ba52bf1b38a00eb9fde69c7efa0257d02289d4ded3f5b8dd",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "file-structures",
         "unit_number": 8,
         "subtopics": 3,
         "source_sha256": "55a38a9e3a5e3cfe82bb31a64f5230931f87793e1125d8d89824a13782ae496d",
         "base_source_sha256": "f10a95e057d45ab085b8083963bce2f3545868be6d8220f5de16374fe1e66e73",
         "review_sha256": "a28bfb7defb6f4ab415939535b0131b1695f111e4932f6ba926f13a6e9e55eab",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "file-structures",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "df364e162549aaa6eacb414972d99428f0e2d468c67e76a80e9c0871a03461b6",
+        "base_source_sha256": "620ca6efed819329cdb83677c2cc935878a4229c50618c5d6896f91b8df78ff8",
+        "review_sha256": "618c859c3841062a734a98f47b9a5d294b4aa48b2d6ddca7eee651792d441626",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
@@ -15054,6 +15094,26 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "reinforcement",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "b175383add4f78acdad1831f79de60e4fcbc19f778d228b3d59fb250fc873102",
+        "base_source_sha256": "d2bdf39c222b45dc16f71893062e0af6bf23cb2964334f5395cd41a82b9631c4",
+        "review_sha256": "d96d6d230cacac715dd8f882d9e02f0d8d33a237d7689090bc9c8163fd23ca70",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "reinforcement",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "faa8a6d7f3973e32845ce9dc0a8ae26c1d3c0688d85f9576504b8d94d994e1dd",
+        "base_source_sha256": "6d763eb22ba99f0f16ae37d2e86ad318e177470d119659fbd5f36148b1a4f46f",
+        "review_sha256": "1ccaee9d198836bc94d18ab83f3f2ef3fa44224aa8eacba42d57ea88747c318e",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "advanced-dl",
         "unit_number": 1,
         "subtopics": 3,
@@ -16350,6 +16410,46 @@
         "source_sha256": "931b8a24dd97cd2714272f9ba52028add219664070f9a74be5ae5ea5c064c0e9",
         "base_source_sha256": "b08cbe62e60bbf73eac039dc00d886ed1a516ca1567cc9f5f3d960fc7eeaea28",
         "review_sha256": "65c40c7bec654b6a7bd3293048d871e887ac858222554c54ad6cf890eb89fcb7",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "formal-methods",
+        "unit_number": 8,
+        "subtopics": 3,
+        "source_sha256": "b21d425fc7ddfdf38948b34e453cbf2783a3a4a6aa76f07a68d0fd366f696510",
+        "base_source_sha256": "4e26e31b7abd58213ec3de3e372d7730f961eb0bd2a80644acb5894975992cec",
+        "review_sha256": "28efadbd1f1bffce1461ebcb7d7cb3d79c61c34371d3d054fef562b3168f6c7a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "formal-methods",
+        "unit_number": 9,
+        "subtopics": 3,
+        "source_sha256": "efa8d6502f02b6eb494c05af9381c7fd9f4c49f6a0f66a5e93179198f863c37b",
+        "base_source_sha256": "0266bd6a714a2157dd189a4b46eddcf6499334a118a334290f09bc353485a6f9",
+        "review_sha256": "7748772db028c9856a37ba7bc52847432af4928398f1102f423e4b5a07724c47",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "formal-methods",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "3653eb8c4822e1409f39dbbbf85a46c57eba22e4e565581ac853a6361db90c43",
+        "base_source_sha256": "c3dba481af49c1aeffe32b9aca8ce1377e72081134c84ac7223f46fff279aad3",
+        "review_sha256": "c392e6c7356231ef5b97d37d3206361611fc8b7137a83002f1580c724096e47c",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "formal-methods",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "3587b5e19cd976a12f8de7a8b2afbb5945e0e4ce3b51abf6f8d46b2d9383527c",
+        "base_source_sha256": "4ee22faf81690c0987db0713cc0fca6c64a0ea2e2575543cede011ae4a6c9cc8",
+        "review_sha256": "fa1c9bc51e32714addf78113ea8e44c74d7dfed96c90ad9fb3dacd29d2554ecb",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
