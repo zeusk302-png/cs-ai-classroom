@@ -8487,13 +8487,13 @@
   ],
   "public_file_count": 1356,
   "html_file_count": 1216,
-  "checked_local_references": 25201,
+  "checked_local_references": 25231,
   "missing_local_files": [],
   "supplemented_static_files": [
     "planning/curriculum-allocation-v2.json"
   ],
   "excluded_operational_links_count": 5,
-  "public_bundle_sha256": "1a690207efca9b18958bdd491ad0ee231e1451073c2112c73d654e60f5e6859f",
+  "public_bundle_sha256": "e91440e1c1de1215cd67effe3b45a92b2e26ac3339807c03f4559952972bb488",
   "digest_definition": "SHA256 of compact JSON [[relative_path,file_sha256],...] sorted by path; excludes publication.json and .nojekyll.",
   "scope": "Rendered public drafts and multilingual UI only. Manuscripts/review records/operational scripts excluded. No deployment or learner testing claim.",
   "korean_counts_definition": "Schema-valid Korean manuscripts whose rendered HTML matches every learner-facing string; reviewed counts require independent current-source-SHA review records. Unrendered or stale-rendered manuscripts excluded.",
@@ -8509,8 +8509,8 @@
     "version": 2,
     "target_units": 857,
     "target_subtopics": 2849,
-    "reviewed_subtopics": 2256,
-    "rendered_subtopics": 2256,
+    "reviewed_subtopics": 2271,
+    "rendered_subtopics": 2271,
     "learner_testing": "not_performed",
     "units": [
       {
@@ -13664,6 +13664,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "parallel",
+        "unit_number": 6,
+        "subtopics": 3,
+        "source_sha256": "026e1962f3bcbef60a018bb0bf502775fb0e7b123c9886b6d4fa201054e65001",
+        "base_source_sha256": "3fb6b60b27872d80dff88fb5a17ba0aa295d63283ee94dbd217cd12fca82f725",
+        "review_sha256": "4b354d18be2088e192ce380b956fd58e6d0a995ae622c1a11b110e76d5903137",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "cloud",
         "unit_number": 1,
         "subtopics": 3,
@@ -14234,6 +14244,16 @@
         "rendered_content_matches_source": true
       },
       {
+        "course_id": "nlp",
+        "unit_number": 4,
+        "subtopics": 3,
+        "source_sha256": "afed055815298b4d600ac514b529bce79436a4a5d1cdae5080bc6a765397ff56",
+        "base_source_sha256": "78f25e0a0a7287327aa21d07d1a0ff84dcc0b16a1676c38142d8ffa8bfa6ea46",
+        "review_sha256": "7545cd934e07ee43237778315c2984ad0f6d36f9bbb05c8684880fd055e4200a",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
         "course_id": "web",
         "unit_number": 1,
         "subtopics": 3,
@@ -14800,6 +14820,36 @@
         "source_sha256": "655cad87122c18eb03ce958fe5eea71fb7b30a16ea6b3e19c361a2cb6cfdeb3d",
         "base_source_sha256": "31f378d67345b4ab12b084de9bc1f83b8284e3b36c7e76af32942ecdfa845523",
         "review_sha256": "2584b718bd870cb6c98584fd655e2d7f406ef054304ae84e61becd9f044717b0",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 10,
+        "subtopics": 3,
+        "source_sha256": "1e7d1117f243e9cf0075cc7273bc32bef518ef8306c8557f8a50b80417b64e6d",
+        "base_source_sha256": "3812f3a1d62eb832e59781c676c0b80a4d504a908e0431359eeb88484879f165",
+        "review_sha256": "7ded19e07ea2660e95214a4d54b36c4409dfbd6d28edbb066409ae66b80c03bf",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 11,
+        "subtopics": 3,
+        "source_sha256": "87d7c1171a7059f680005aad8832d75d2ad331a66ebb052c7602e9b4a56fafa8",
+        "base_source_sha256": "e780127bce314f91622ce021d528245afd5168fc9b9c1209c9e24a46689b5dca",
+        "review_sha256": "de15441f060b72fd0f88684c96b9a1d7bfc7fcb7f0369db387ef1794d4a8ddcf",
+        "reviewed": true,
+        "rendered_content_matches_source": true
+      },
+      {
+        "course_id": "games",
+        "unit_number": 12,
+        "subtopics": 3,
+        "source_sha256": "82fdc3829ba4dea19013b44956842b7810cb129917383a56260a8832a02b2b3f",
+        "base_source_sha256": "f378fdfda1edbb0df66540d8ad6750c96181bb308083830a5509e0b3363ee079",
+        "review_sha256": "d353bd8a93f0295d6200363080ad26b6ef1bae8778942ba3f3424c749a25551f",
         "reviewed": true,
         "rendered_content_matches_source": true
       },
